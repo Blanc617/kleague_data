@@ -203,7 +203,7 @@ export default function StandingsPage() {
         <div className="flex gap-4 items-start">
 
         {/* 왼쪽: 팀 순위표 */}
-        <div className="flex-1 min-w-0 space-y-4">
+        <div className="shrink-0 space-y-4" style={{ width: 560 }}>
         {!loading && rows.length > 0 && (
           <div className="bg-white/80 border border-slate-200 rounded-xl overflow-hidden">
             {hasFinalRound && (
@@ -305,23 +305,29 @@ export default function StandingsPage() {
         </div>{/* 왼쪽 끝 */}
 
         {/* 오른쪽: 개인 순위 */}
-        <div className="flex flex-col gap-4 shrink-0" style={{ width: 240 }}>
-          <PlayerRankTable
-            title="득점 순위"
-            players={scorers}
-            statKey="goals"
-            statLabel="골"
-            loading={scorersLoading}
-            color="text-emerald-700 bg-emerald-500/10 border border-emerald-500/20"
-          />
-          <PlayerRankTable
-            title="도움 순위"
-            players={assisters}
-            statKey="assists"
-            statLabel="도움"
-            loading={assistsLoading}
-            color="text-sky-700 bg-sky-500/10 border border-sky-500/20"
-          />
+        <div className="flex flex-col gap-3 shrink-0">
+          <div className="flex flex-row gap-3">
+            <div style={{ width: 210 }}>
+              <PlayerRankTable
+                title="득점 순위"
+                players={scorers}
+                statKey="goals"
+                statLabel="골"
+                loading={scorersLoading}
+                color="text-emerald-700 bg-emerald-500/10 border border-emerald-500/20"
+              />
+            </div>
+            <div style={{ width: 210 }}>
+              <PlayerRankTable
+                title="도움 순위"
+                players={assisters}
+                statKey="assists"
+                statLabel="도움"
+                loading={assistsLoading}
+                color="text-sky-700 bg-sky-500/10 border border-sky-500/20"
+              />
+            </div>
+          </div>
           <p className="text-center text-[10px] text-slate-400">
             개인 기록은 참고용이며 공식 기록과 다를 수 있습니다
           </p>

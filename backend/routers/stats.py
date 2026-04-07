@@ -14,12 +14,15 @@ K1_PATH     = AI_SERVER / "data" / "processed" / "teams" / "k1_team_results.json
 MATCHES_DIR = AI_SERVER / "data" / "processed" / "matches"
 
 
+MINIMUM_SEASON_GAMES = 100  # k1_results 데이터가 이보다 적으면 match_events로 대체
+
 def _load_unique_records(season_from: int, season_to: int) -> list[dict]:
     seen: set  = set()
     unique: list[dict] = []
 
     # 1) k1_team_results.json 에서 로드
     covered_seasons: set[int] = set()
+    season_game_count: dict[int, int] = {}
     if K1_PATH.exists():
         records = json.loads(K1_PATH.read_text(encoding="utf-8"))
         for r in records:
@@ -30,8 +33,16 @@ def _load_unique_records(season_from: int, season_to: int) -> list[dict]:
                     seen.add(key)
                     unique.append(r)
                     covered_seasons.add(s)
+                    season_game_count[s] = season_game_count.get(s, 0) + 1
 
-    # 2) k1_team_results에 없는 시즌은 match_events 에서 보완
+    # k1_results 데이터가 불완전한 시즌은 match_events로 대체
+    incomplete = {s for s in covered_seasons if season_game_count.get(s, 0) < MINIMUM_SEASON_GAMES}
+    if incomplete:
+        covered_seasons -= incomplete
+        unique = [r for r in unique if r.get("season") not in incomplete]
+        seen   = {(r.get("season"), r.get("game_id")) for r in unique}
+
+    # 2) k1_team_results에 없는(또는 불완전한) 시즌은 match_events 에서 보완
     for year in range(season_from, season_to + 1):
         if year in covered_seasons:
             continue
@@ -578,7 +589,15 @@ def get_standings(season: int = 2025, round_to: int = None):
     - 파이널 라운드 포함 누적 승점으로 조 내 순위 결정
     - A조 팀은 항상 1~6위, B조 팀은 항상 7~12위
     """
-    FINAL_ROUND_START = 34  # 파이널 라운드 시작 라운드
+    FINAL_ROUND_START = 34      # 라운드 정보 있는 시즌의 파이널 라운드 시작
+    REGULAR_SEASON_GAMES = 198  # 12팀 × 33라운드 기본값
+    FULL_SEASON_GAMES = 228     # 12팀 기본 전체 경기수
+
+    # 라운드 정보 없는 시즌별 파이널 라운드 설정 (total, regular, group_size)
+    SEASON_CONFIG = {
+        2013: (266, 182, 7),  # 14팀: 정규 182경기 + 파이널 84경기, 7+7 분리
+        # 12팀 시즌(2014, 2022, 2023 등)은 기본값(228, 198, 6) 사용
+    }
 
     records = _load_unique_records(season, season)
     if not records:
@@ -587,6 +606,7 @@ def get_standings(season: int = 2025, round_to: int = None):
     # 강등PO·컵 등 비리그 경기 제외 (파이널 라운드는 유지)
     records = _filter_league_only(records)
 
+    has_round_info = any(r.get("round") for r in records)
     max_round = max((r.get("round") or 0) for r in records)
 
     # round_to 지정 시: 단순 누적 순위 (그룹 구분 없이)
@@ -602,16 +622,27 @@ def get_standings(season: int = 2025, round_to: int = None):
             "standings": rows,
         }
 
-    # 파이널 라운드 존재 여부 확인
-    has_final_round = max_round >= FINAL_ROUND_START
+    # 파이널 라운드 존재 여부 및 정규 시즌 경기 결정
+    cfg = SEASON_CONFIG.get(season)
+    full_games    = cfg[0] if cfg else FULL_SEASON_GAMES
+    regular_games = cfg[1] if cfg else REGULAR_SEASON_GAMES
+    group_size    = cfg[2] if cfg else 6
+
+    if has_round_info:
+        # 라운드 정보 있는 시즌 (2015~2021, 2024~2025 등)
+        has_final_round = max_round >= FINAL_ROUND_START
+        regular = [r for r in records if (r.get("round") or 0) < FINAL_ROUND_START]
+    else:
+        # 라운드 정보 없는 시즌 (2013, 2014, 2022, 2023 등): game_id로 구분
+        has_final_round = len(records) == full_games
+        records_by_id = sorted(records, key=lambda r: r.get("game_id", 0))
+        regular = records_by_id[:regular_games] if has_final_round else records
 
     if has_final_round:
-        # 정규 시즌(라운드 1~33)으로 A조/B조 결정
-        regular = [r for r in records if (r.get("round") or 0) < FINAL_ROUND_START]
         regular_standings = calculate_standings(regular)
 
-        group_a_teams = {row["team"] for row in regular_standings[:6]}
-        group_b_teams = {row["team"] for row in regular_standings[6:]}
+        group_a_teams = {row["team"] for row in regular_standings[:group_size]}
+        group_b_teams = {row["team"] for row in regular_standings[group_size:]}
 
         # 정규+파이널 전체 누적 승점 계산
         total_standings = calculate_standings(records)

@@ -164,7 +164,7 @@ export default function StandingsPage() {
   return (
     <div className="min-h-full bg-main flex flex-col items-center">
 
-      <div className="w-full px-8 py-8 space-y-6" style={{ maxWidth: 580 }}>
+      <div className="w-full px-8 py-8 space-y-6" style={{ maxWidth: 1020 }}>
 
         {/* 연도 드롭박스 */}
         <div className="flex items-center gap-3">
@@ -199,7 +199,11 @@ export default function StandingsPage() {
           <div className="text-center py-12 text-slate-500 text-[13px]">{error}</div>
         )}
 
-        {/* 팀 순위표 */}
+        {/* 팀 순위 + 개인 순위 가로 배치 */}
+        <div className="flex gap-4 items-start">
+
+        {/* 왼쪽: 팀 순위표 */}
+        <div className="flex-1 min-w-0 space-y-4">
         {!loading && rows.length > 0 && (
           <div className="bg-white/80 border border-slate-200 rounded-xl overflow-hidden">
             {hasFinalRound && (
@@ -298,9 +302,10 @@ export default function StandingsPage() {
             승점 → 득점 → 득실차 순 정렬 · 공식 순위와 다를 수 있습니다
           </p>
         )}
+        </div>{/* 왼쪽 끝 */}
 
-        {/* 개인 순위 */}
-        <div className="grid grid-cols-2 gap-4">
+        {/* 오른쪽: 개인 순위 */}
+        <div className="flex flex-col gap-4 shrink-0" style={{ width: 240 }}>
           <PlayerRankTable
             title="득점 순위"
             players={scorers}
@@ -317,11 +322,12 @@ export default function StandingsPage() {
             loading={assistsLoading}
             color="text-sky-700 bg-sky-500/10 border border-sky-500/20"
           />
+          <p className="text-center text-[10px] text-slate-400">
+            개인 기록은 참고용이며 공식 기록과 다를 수 있습니다
+          </p>
         </div>
 
-        <p className="text-center text-[10px] text-slate-400 pb-4">
-          개인 기록은 참고용이며 공식 기록과 다를 수 있습니다
-        </p>
+        </div>{/* 가로 배치 끝 */}
 
       </div>
     </div>

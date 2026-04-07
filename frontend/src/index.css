@@ -1,0 +1,173 @@
+@import "tailwindcss";
+
+@layer base {
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  font-family: 'Pretendard', 'Apple SD Gothic Neo', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background-color: #f1f5f9;
+  color: #1e293b;
+}
+
+/* ── 스크롤바 (기본 / 라이트) ──────────────── */
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.15); border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(0,0,0,0.25); }
+
+/* ── 스크롤바 (라이트 사이드바) ──────────── */
+.sidebar-scroll::-webkit-scrollbar { width: 4px; }
+.sidebar-scroll::-webkit-scrollbar-track { background: transparent; }
+.sidebar-scroll::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.1); border-radius: 4px; }
+.sidebar-scroll::-webkit-scrollbar-thumb:hover { background: rgba(0,0,0,0.18); }
+.sidebar-scroll { scrollbar-width: thin; scrollbar-color: rgba(0,0,0,0.12) transparent; }
+
+/* ── 스크롤바 (다크 사이드바) ──────────── */
+.sidebar-dark-scroll::-webkit-scrollbar { width: 3px; }
+.sidebar-dark-scroll::-webkit-scrollbar-track { background: transparent; }
+.sidebar-dark-scroll::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.08); border-radius: 3px; }
+.sidebar-dark-scroll::-webkit-scrollbar-thumb:hover { background: rgba(0,0,0,0.15); }
+.sidebar-dark-scroll { scrollbar-width: thin; scrollbar-color: rgba(0,0,0,0.08) transparent; }
+
+/* ── 메인 배경 ─────────────────────────── */
+.bg-main {
+  background-color: #f1f5f9;
+  background-image:
+    radial-gradient(ellipse 60% 40% at 15% 10%, rgba(16,185,129,0.06) 0%, transparent 50%),
+    radial-gradient(ellipse 40% 30% at 85% 80%, rgba(59,130,246,0.04) 0%, transparent 50%);
+}
+
+/* ── 사이드바 ─────────────────────────────── */
+.sidebar {
+  background-color: #e2e8f0;
+  border-right: 1px solid rgba(203, 213, 225, 0.8);
+}
+
+/* ── 사이드바 항목 hover ──────────────────── */
+.sidebar-query-btn:hover {
+  background-color: rgba(16, 185, 129, 0.1);
+  color: #34d399;
+}
+.sidebar-query-btn {
+  transition: background 0.12s, color 0.12s;
+}
+
+/* ── 다크 사이드바 hover (white/6 = 6% opacity) ── */
+.hover\:bg-white\/6:hover {
+  background-color: rgba(255, 255, 255, 0.06);
+}
+
+/* ── 그라디언트 텍스트 ────────────────────── */
+.gradient-text {
+  background: linear-gradient(135deg, #10b981 0%, #34d399 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ── 타이핑 커서 ──────────────────────────── */
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+.cursor-blink { animation: blink 1s step-end infinite; }
+
+/* ── 타이핑 도트 ──────────────────────────── */
+@keyframes typingBounce {
+  0%, 60%, 100% { transform: translateY(0); opacity: 0.4; }
+  30% { transform: translateY(-4px); opacity: 1; }
+}
+.typing-dot {
+  animation: typingBounce 1.2s ease-in-out infinite;
+}
+.typing-dot:nth-child(2) { animation-delay: 0.15s; }
+.typing-dot:nth-child(3) { animation-delay: 0.3s; }
+
+/* ── 메시지 등장 ──────────────────────────── */
+@keyframes msgSlideUp {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.msg-enter { animation: msgSlideUp 0.2s ease forwards; }
+
+/* ── 진행바 ───────────────────────────────── */
+@keyframes growWidth {
+  from { width: 0%; }
+  to   { width: var(--target-width); }
+}
+.progress-bar {
+  animation: growWidth 0.8s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+  width: var(--target-width);
+}
+
+/* ── 펄스 도트 ────────────────────────────── */
+@keyframes livePulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50%       { opacity: 0.5; transform: scale(1.5); }
+}
+.live-dot { animation: livePulse 2s ease-in-out infinite; }
+
+/* ── 소스 카드 ───────────────────────────── */
+.source-card {
+  background: rgba(16, 185, 129, 0.08);
+  border: 1px solid rgba(16, 185, 129, 0.25);
+  border-radius: 1rem;
+  padding: 1rem;
+}
+.source-card-amber {
+  background: rgba(245, 158, 11, 0.08);
+  border: 1px solid rgba(245, 158, 11, 0.25);
+  border-radius: 1rem;
+  padding: 1rem;
+}
+.source-card-blue {
+  background: rgba(59, 130, 246, 0.08);
+  border: 1px solid rgba(59, 130, 246, 0.25);
+  border-radius: 1rem;
+  padding: 1rem;
+}
+
+/* ── 채팅 입력창 ──────────────────────────── */
+.chat-input-wrap textarea {
+  scrollbar-width: none;
+}
+.chat-input-wrap textarea::-webkit-scrollbar {
+  display: none;
+}
+
+/* ── 스켈레톤 ────────────────────────────── */
+@keyframes shimmer {
+  0%   { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+.skeleton {
+  background: linear-gradient(90deg,
+    rgba(0,0,0,0.04) 25%,
+    rgba(0,0,0,0.08) 50%,
+    rgba(0,0,0,0.04) 75%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+  border-radius: 6px;
+}
+
+/* ── 페이드인 ─────────────────────────────── */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.fade-in { animation: fadeIn 0.25s ease forwards; }
+
+/* ── 채팅 스크롤 영역 ─────────────────────── */
+.chat-scroll {
+  overflow-y: auto;
+  scroll-behavior: smooth;
+}
+.chat-scroll::-webkit-scrollbar { width: 4px; }
+.chat-scroll::-webkit-scrollbar-track { background: transparent; }
+.chat-scroll::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.15); border-radius: 4px; }

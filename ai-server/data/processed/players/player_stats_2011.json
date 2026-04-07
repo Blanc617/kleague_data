@@ -1,0 +1,79 @@
+{
+  "season": 2011,
+  "league": "K1",
+  "source": "wikipedia",
+  "note": "출장수·도움·카드 없음 — 위키피디아 상위 득점자만 포함",
+  "total_players": 7,
+  "players": [
+    {
+      "team": "서울",
+      "player_name": "Dejan Damjanović",
+      "appearances": 0,
+      "goals": 23,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "Lee Dong-gook",
+      "appearances": 0,
+      "goals": 16,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "성남",
+      "player_name": "Kim Jung-woo",
+      "appearances": 0,
+      "goals": 15,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "제주",
+      "player_name": "Júnior Santos",
+      "appearances": 0,
+      "goals": 14,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "포항",
+      "player_name": "Mota",
+      "appearances": 0,
+      "goals": 13,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "Kim Dong-chan",
+      "appearances": 0,
+      "goals": 10,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "부산",
+      "player_name": "Han Sang-woon",
+      "appearances": 0,
+      "goals": 9,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    }
+  ]
+}

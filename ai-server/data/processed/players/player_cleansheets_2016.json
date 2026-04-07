@@ -1,0 +1,1914 @@
+{
+  "season": 2016,
+  "league": "K1",
+  "total_games": 219,
+  "games_with_lineup": 228,
+  "total_gks": 71,
+  "players": [
+    {
+      "player_name": "김용대",
+      "team": "울산",
+      "clean_sheets": 7,
+      "cs_home": 7,
+      "cs_away": 0,
+      "games_played": 13,
+      "cs_games": [
+        {
+          "game_id": 10,
+          "date": "2016.03.20",
+          "round": 2,
+          "home": "울산",
+          "away": "전북",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 57,
+          "date": "2016.05.14",
+          "round": 10,
+          "home": "울산",
+          "away": "포항",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 73,
+          "date": "2016.06.11",
+          "round": 13,
+          "home": "울산",
+          "away": "상주",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 88,
+          "date": "2016.06.19",
+          "round": 15,
+          "home": "울산",
+          "away": "수원FC",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 178,
+          "date": "2016.09.18",
+          "round": 30,
+          "home": "울산",
+          "away": "포항",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 206,
+          "date": "2016.10.22",
+          "round": 35,
+          "home": "울산",
+          "away": "전북",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 218,
+          "date": "2016.11.02",
+          "round": 37,
+          "home": "울산",
+          "away": "제주",
+          "score": "0-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 1,
+      "cs_rate": 53.8
+    },
+    {
+      "player_name": "조수혁",
+      "team": "인천",
+      "clean_sheets": 6,
+      "cs_home": 6,
+      "cs_away": 0,
+      "games_played": 14,
+      "cs_games": [
+        {
+          "game_id": 82,
+          "date": "2016.06.15",
+          "round": 14,
+          "home": "인천",
+          "away": "수원FC",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 85,
+          "date": "2016.06.18",
+          "round": 15,
+          "home": "인천",
+          "away": "전북",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 101,
+          "date": "2016.06.29",
+          "round": 17,
+          "home": "인천",
+          "away": "상주",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 169,
+          "date": "2016.09.10",
+          "round": 29,
+          "home": "인천",
+          "away": "서울",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 175,
+          "date": "2016.09.18",
+          "round": 30,
+          "home": "인천",
+          "away": "상주",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 210,
+          "date": "2016.10.23",
+          "round": 35,
+          "home": "인천",
+          "away": "광주",
+          "score": "2-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 2,
+      "cs_rate": 42.9
+    },
+    {
+      "player_name": "이호승",
+      "team": "전남",
+      "clean_sheets": 5,
+      "cs_home": 5,
+      "cs_away": 0,
+      "games_played": 14,
+      "cs_games": [
+        {
+          "game_id": 77,
+          "date": "2016.06.12",
+          "round": 13,
+          "home": "전남",
+          "away": "포항",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 93,
+          "date": "2016.06.25",
+          "round": 16,
+          "home": "전남",
+          "away": "인천",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 129,
+          "date": "2016.07.23",
+          "round": 22,
+          "home": "전남",
+          "away": "수원",
+          "score": "3-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 177,
+          "date": "2016.09.17",
+          "round": 30,
+          "home": "전남",
+          "away": "광주",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 181,
+          "date": "2016.09.21",
+          "round": 31,
+          "home": "전남",
+          "away": "상주",
+          "score": "1-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 3,
+      "cs_rate": 35.7
+    },
+    {
+      "player_name": "윤보상",
+      "team": "광주",
+      "clean_sheets": 5,
+      "cs_home": 5,
+      "cs_away": 0,
+      "games_played": 10,
+      "cs_games": [
+        {
+          "game_id": 51,
+          "date": "2016.05.05",
+          "round": 9,
+          "home": "광주",
+          "away": "상주",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 69,
+          "date": "2016.05.28",
+          "round": 12,
+          "home": "광주",
+          "away": "수원FC",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 162,
+          "date": "2016.08.21",
+          "round": 27,
+          "home": "광주",
+          "away": "수원FC",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 174,
+          "date": "2016.09.11",
+          "round": 29,
+          "home": "광주",
+          "away": "상주",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 215,
+          "date": "2016.10.29",
+          "round": 36,
+          "home": "광주",
+          "away": "성남",
+          "score": "0-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 4,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "유현",
+      "team": "서울",
+      "clean_sheets": 5,
+      "cs_home": 4,
+      "cs_away": 1,
+      "games_played": 9,
+      "cs_games": [
+        {
+          "game_id": 11,
+          "date": "2016.03.20",
+          "round": 2,
+          "home": "서울",
+          "away": "상주",
+          "score": "4-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 33,
+          "date": "2016.04.16",
+          "round": 6,
+          "home": "서울",
+          "away": "수원FC",
+          "score": "3-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 180,
+          "date": "2016.09.18",
+          "round": 30,
+          "home": "서울",
+          "away": "제주",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 200,
+          "date": "2016.10.15",
+          "round": 34,
+          "home": "서울",
+          "away": "울산",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 223,
+          "date": "2016.11.06",
+          "round": 38,
+          "home": "전북",
+          "away": "서울",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 5,
+      "cs_rate": 55.6
+    },
+    {
+      "player_name": "김동준",
+      "team": "성남",
+      "clean_sheets": 4,
+      "cs_home": 4,
+      "cs_away": 0,
+      "games_played": 11,
+      "cs_games": [
+        {
+          "game_id": 14,
+          "date": "2016.04.02",
+          "round": 3,
+          "home": "성남",
+          "away": "포항",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 26,
+          "date": "2016.04.13",
+          "round": 5,
+          "home": "성남",
+          "away": "전남",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 48,
+          "date": "2016.05.01",
+          "round": 8,
+          "home": "성남",
+          "away": "광주",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 203,
+          "date": "2016.10.16",
+          "round": 34,
+          "home": "성남",
+          "away": "인천",
+          "score": "0-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 6,
+      "cs_rate": 36.4
+    },
+    {
+      "player_name": "김진영",
+      "team": "포항",
+      "clean_sheets": 4,
+      "cs_home": 4,
+      "cs_away": 0,
+      "games_played": 7,
+      "cs_games": [
+        {
+          "game_id": 98,
+          "date": "2016.06.29",
+          "round": 17,
+          "home": "포항",
+          "away": "울산",
+          "score": "4-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 149,
+          "date": "2016.08.14",
+          "round": 25,
+          "home": "포항",
+          "away": "전북",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 159,
+          "date": "2016.08.20",
+          "round": 27,
+          "home": "포항",
+          "away": "상주",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 187,
+          "date": "2016.09.24",
+          "round": 32,
+          "home": "포항",
+          "away": "광주",
+          "score": "1-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 7,
+      "cs_rate": 57.1
+    },
+    {
+      "player_name": "권순태",
+      "team": "전북",
+      "clean_sheets": 3,
+      "cs_home": 3,
+      "cs_away": 0,
+      "games_played": 17,
+      "cs_games": [
+        {
+          "game_id": 1,
+          "date": "2016.03.12",
+          "round": 1,
+          "home": "전북",
+          "away": "서울",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 112,
+          "date": "2016.07.10",
+          "round": 19,
+          "home": "전북",
+          "away": "포항",
+          "score": "3-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 133,
+          "date": "2016.07.30",
+          "round": 23,
+          "home": "전북",
+          "away": "광주",
+          "score": "3-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 8,
+      "cs_rate": 17.6
+    },
+    {
+      "player_name": "김호준1",
+      "team": "제주",
+      "clean_sheets": 3,
+      "cs_home": 3,
+      "cs_away": 0,
+      "games_played": 15,
+      "cs_games": [
+        {
+          "game_id": 60,
+          "date": "2016.05.15",
+          "round": 10,
+          "home": "제주",
+          "away": "전남",
+          "score": "3-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 144,
+          "date": "2016.08.10",
+          "round": 24,
+          "home": "제주",
+          "away": "포항",
+          "score": "3-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 163,
+          "date": "2016.08.27",
+          "round": 28,
+          "home": "제주",
+          "away": "성남",
+          "score": "1-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 9,
+      "cs_rate": 20.0
+    },
+    {
+      "player_name": "유상훈",
+      "team": "서울",
+      "clean_sheets": 3,
+      "cs_home": 3,
+      "cs_away": 0,
+      "games_played": 12,
+      "cs_games": [
+        {
+          "game_id": 111,
+          "date": "2016.07.09",
+          "round": 19,
+          "home": "서울",
+          "away": "울산",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 137,
+          "date": "2016.07.31",
+          "round": 23,
+          "home": "서울",
+          "away": "포항",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 147,
+          "date": "2016.08.13",
+          "round": 25,
+          "home": "서울",
+          "away": "수원",
+          "score": "1-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 10,
+      "cs_rate": 25.0
+    },
+    {
+      "player_name": "양형모",
+      "team": "수원",
+      "clean_sheets": 3,
+      "cs_home": 3,
+      "cs_away": 0,
+      "games_played": 10,
+      "cs_games": [
+        {
+          "game_id": 91,
+          "date": "2016.06.25",
+          "round": 16,
+          "home": "수원",
+          "away": "제주",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 114,
+          "date": "2016.07.10",
+          "round": 19,
+          "home": "수원",
+          "away": "수원FC",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 143,
+          "date": "2016.08.10",
+          "round": 24,
+          "home": "수원",
+          "away": "울산",
+          "score": "0-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 11,
+      "cs_rate": 30.0
+    },
+    {
+      "player_name": "이창근",
+      "team": "수원FC",
+      "clean_sheets": 3,
+      "cs_home": 3,
+      "cs_away": 0,
+      "games_played": 12,
+      "cs_games": [
+        {
+          "game_id": 125,
+          "date": "2016.07.20",
+          "round": 21,
+          "home": "수원FC",
+          "away": "포항",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 165,
+          "date": "2016.08.27",
+          "round": 28,
+          "home": "수원FC",
+          "away": "인천",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 192,
+          "date": "2016.09.25",
+          "round": 32,
+          "home": "수원FC",
+          "away": "전남",
+          "score": "0-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 12,
+      "cs_rate": 25.0
+    },
+    {
+      "player_name": "신화용",
+      "team": "포항",
+      "clean_sheets": 2,
+      "cs_home": 2,
+      "cs_away": 0,
+      "games_played": 12,
+      "cs_games": [
+        {
+          "game_id": 44,
+          "date": "2016.04.30",
+          "round": 8,
+          "home": "포항",
+          "away": "제주",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 227,
+          "date": "2016.11.05",
+          "round": 38,
+          "home": "포항",
+          "away": "성남",
+          "score": "1-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 13,
+      "cs_rate": 16.7
+    },
+    {
+      "player_name": "양동원",
+      "team": "상주",
+      "clean_sheets": 2,
+      "cs_home": 2,
+      "cs_away": 0,
+      "games_played": 5,
+      "cs_games": [
+        {
+          "game_id": 6,
+          "date": "2016.03.13",
+          "round": 1,
+          "home": "상주",
+          "away": "울산",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 34,
+          "date": "2016.04.16",
+          "round": 6,
+          "home": "상주",
+          "away": "포항",
+          "score": "2-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 14,
+      "cs_rate": 40.0
+    },
+    {
+      "player_name": "최봉진",
+      "team": "광주",
+      "clean_sheets": 2,
+      "cs_home": 2,
+      "cs_away": 0,
+      "games_played": 10,
+      "cs_games": [
+        {
+          "game_id": 8,
+          "date": "2016.03.19",
+          "round": 2,
+          "home": "광주",
+          "away": "제주",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 122,
+          "date": "2016.07.20",
+          "round": 21,
+          "home": "광주",
+          "away": "전남",
+          "score": "0-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 15,
+      "cs_rate": 20.0
+    },
+    {
+      "player_name": "이태희",
+      "team": "인천",
+      "clean_sheets": 2,
+      "cs_home": 2,
+      "cs_away": 0,
+      "games_played": 5,
+      "cs_games": [
+        {
+          "game_id": 50,
+          "date": "2016.05.05",
+          "round": 9,
+          "home": "인천",
+          "away": "전남",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 226,
+          "date": "2016.11.05",
+          "round": 38,
+          "home": "인천",
+          "away": "수원FC",
+          "score": "1-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 16,
+      "cs_rate": 40.0
+    },
+    {
+      "player_name": "김근배",
+      "team": "성남",
+      "clean_sheets": 2,
+      "cs_home": 2,
+      "cs_away": 0,
+      "games_played": 5,
+      "cs_games": [
+        {
+          "game_id": 126,
+          "date": "2016.07.20",
+          "round": 21,
+          "home": "성남",
+          "away": "제주",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 142,
+          "date": "2016.08.10",
+          "round": 24,
+          "home": "성남",
+          "away": "전남",
+          "score": "2-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 17,
+      "cs_rate": 40.0
+    },
+    {
+      "player_name": "함석민",
+      "team": "상주",
+      "clean_sheets": 2,
+      "cs_home": 0,
+      "cs_away": 2,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 120,
+          "date": "2016.07.17",
+          "round": 20,
+          "home": "포항",
+          "away": "상주",
+          "score": "0-2",
+          "location": "원정"
+        },
+        {
+          "game_id": 135,
+          "date": "2016.07.30",
+          "round": 23,
+          "home": "수원FC",
+          "away": "상주",
+          "score": "0-2",
+          "location": "원정"
+        }
+      ],
+      "rank": 18,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "권정혁",
+      "team": "전북",
+      "clean_sheets": 2,
+      "cs_home": 0,
+      "cs_away": 2,
+      "games_played": 3,
+      "cs_games": [
+        {
+          "game_id": 149,
+          "date": "2016.08.14",
+          "round": 25,
+          "home": "포항",
+          "away": "전북",
+          "score": "0-0",
+          "location": "원정"
+        },
+        {
+          "game_id": 206,
+          "date": "2016.10.22",
+          "round": 35,
+          "home": "울산",
+          "away": "전북",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 19,
+      "cs_rate": 66.7
+    },
+    {
+      "player_name": "김민식",
+      "team": "전남",
+      "clean_sheets": 1,
+      "cs_home": 1,
+      "cs_away": 0,
+      "games_played": 3,
+      "cs_games": [
+        {
+          "game_id": 4,
+          "date": "2016.03.13",
+          "round": 1,
+          "home": "전남",
+          "away": "수원FC",
+          "score": "0-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 20,
+      "cs_rate": 33.3
+    },
+    {
+      "player_name": "이인수",
+      "team": "수원FC",
+      "clean_sheets": 1,
+      "cs_home": 1,
+      "cs_away": 0,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 38,
+          "date": "2016.04.23",
+          "round": 7,
+          "home": "수원FC",
+          "away": "인천",
+          "score": "0-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 21,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "오승훈",
+      "team": "상주",
+      "clean_sheets": 1,
+      "cs_home": 1,
+      "cs_away": 0,
+      "games_played": 9,
+      "cs_games": [
+        {
+          "game_id": 79,
+          "date": "2016.06.15",
+          "round": 14,
+          "home": "상주",
+          "away": "제주",
+          "score": "4-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 22,
+      "cs_rate": 11.1
+    },
+    {
+      "player_name": "김경민",
+      "team": "제주",
+      "clean_sheets": 1,
+      "cs_home": 1,
+      "cs_away": 0,
+      "games_played": 3,
+      "cs_games": [
+        {
+          "game_id": 102,
+          "date": "2016.06.29",
+          "round": 17,
+          "home": "제주",
+          "away": "수원FC",
+          "score": "0-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 23,
+      "cs_rate": 33.3
+    },
+    {
+      "player_name": "황병근",
+      "team": "전북",
+      "clean_sheets": 1,
+      "cs_home": 1,
+      "cs_away": 0,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 188,
+          "date": "2016.09.24",
+          "round": 32,
+          "home": "전북",
+          "away": "성남",
+          "score": "1-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 24,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "전수현",
+      "team": "제주",
+      "clean_sheets": 1,
+      "cs_home": 1,
+      "cs_away": 0,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 225,
+          "date": "2016.11.06",
+          "round": 38,
+          "home": "제주",
+          "away": "상주",
+          "score": "3-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 25,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "강진웅",
+      "team": "수원FC",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 4,
+          "date": "2016.03.13",
+          "round": 1,
+          "home": "전남",
+          "away": "수원FC",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 26,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "이진형",
+      "team": "전북",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 10,
+          "date": "2016.03.20",
+          "round": 2,
+          "home": "울산",
+          "away": "전북",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 27,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "이영창",
+      "team": "포항",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 9,
+          "date": "2016.03.20",
+          "round": 2,
+          "home": "인천",
+          "away": "포항",
+          "score": "0-2",
+          "location": "원정"
+        }
+      ],
+      "rank": 28,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "이영창",
+      "team": "전남",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 3,
+      "cs_games": [
+        {
+          "game_id": 26,
+          "date": "2016.04.13",
+          "round": 5,
+          "home": "성남",
+          "away": "전남",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 29,
+      "cs_rate": 33.3
+    },
+    {
+      "player_name": "강진웅",
+      "team": "제주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 126,
+          "date": "2016.07.20",
+          "round": 21,
+          "home": "성남",
+          "away": "제주",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 30,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "강진웅",
+      "team": "인천",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 67,
+          "date": "2016.05.28",
+          "round": 12,
+          "home": "성남",
+          "away": "인천",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 31,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "송유걸",
+      "team": "광주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 66,
+          "date": "2016.05.22",
+          "round": 11,
+          "home": "인천",
+          "away": "광주",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 32,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "구상민",
+      "team": "울산",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 20,
+          "date": "2016.04.09",
+          "round": 4,
+          "home": "광주",
+          "away": "울산",
+          "score": "0-2",
+          "location": "원정"
+        }
+      ],
+      "rank": 33,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "이진형",
+      "team": "울산",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 6,
+      "cs_games": [
+        {
+          "game_id": 143,
+          "date": "2016.08.10",
+          "round": 24,
+          "home": "수원",
+          "away": "울산",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 34,
+      "cs_rate": 16.7
+    },
+    {
+      "player_name": "강진웅",
+      "team": "포항",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 57,
+          "date": "2016.05.14",
+          "round": 10,
+          "home": "울산",
+          "away": "포항",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 35,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "송유걸",
+      "team": "제주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 36,
+          "date": "2016.04.17",
+          "round": 6,
+          "home": "울산",
+          "away": "제주",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 36,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "최필수",
+      "team": "인천",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 38,
+          "date": "2016.04.23",
+          "round": 7,
+          "home": "수원FC",
+          "away": "인천",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 37,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "류원우",
+      "team": "성남",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 4,
+      "cs_games": [
+        {
+          "game_id": 49,
+          "date": "2016.05.05",
+          "round": 9,
+          "home": "울산",
+          "away": "성남",
+          "score": "0-3",
+          "location": "원정"
+        }
+      ],
+      "rank": 38,
+      "cs_rate": 25.0
+    },
+    {
+      "player_name": "박주원",
+      "team": "전남",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 42,
+          "date": "2016.04.24",
+          "round": 7,
+          "home": "포항",
+          "away": "전남",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 39,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "구상민",
+      "team": "수원FC",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 209,
+          "date": "2016.10.23",
+          "round": 35,
+          "home": "포항",
+          "away": "수원FC",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 40,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "박주원",
+      "team": "울산",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 3,
+      "cs_games": [
+        {
+          "game_id": 46,
+          "date": "2016.05.01",
+          "round": 8,
+          "home": "인천",
+          "away": "울산",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 41,
+      "cs_rate": 33.3
+    },
+    {
+      "player_name": "김영광",
+      "team": "전남",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 50,
+          "date": "2016.05.05",
+          "round": 9,
+          "home": "인천",
+          "away": "전남",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 42,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "송유걸",
+      "team": "수원FC",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 64,
+          "date": "2016.05.22",
+          "round": 11,
+          "home": "포항",
+          "away": "수원FC",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 43,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "이진형",
+      "team": "광주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 4,
+      "cs_games": [
+        {
+          "game_id": 128,
+          "date": "2016.07.23",
+          "round": 22,
+          "home": "상주",
+          "away": "광주",
+          "score": "0-4",
+          "location": "원정"
+        }
+      ],
+      "rank": 44,
+      "cs_rate": 25.0
+    },
+    {
+      "player_name": "이영창",
+      "team": "서울",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 78,
+          "date": "2016.06.12",
+          "round": 13,
+          "home": "수원FC",
+          "away": "서울",
+          "score": "0-3",
+          "location": "원정"
+        }
+      ],
+      "rank": 45,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "송유걸",
+      "team": "포항",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 77,
+          "date": "2016.06.12",
+          "round": 13,
+          "home": "전남",
+          "away": "포항",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 46,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "이범수",
+      "team": "울산",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 111,
+          "date": "2016.07.09",
+          "round": 19,
+          "home": "서울",
+          "away": "울산",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 47,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "최필수",
+      "team": "전북",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 85,
+          "date": "2016.06.18",
+          "round": 15,
+          "home": "인천",
+          "away": "전북",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 48,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "이진형",
+      "team": "성남",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 105,
+          "date": "2016.07.02",
+          "round": 18,
+          "home": "전남",
+          "away": "성남",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 49,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "김영광",
+      "team": "제주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 218,
+          "date": "2016.11.02",
+          "round": 37,
+          "home": "울산",
+          "away": "제주",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 50,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "송유걸",
+      "team": "울산",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 94,
+          "date": "2016.06.26",
+          "round": 16,
+          "home": "성남",
+          "away": "울산",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 51,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "이준희",
+      "team": "상주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 96,
+          "date": "2016.06.26",
+          "round": 16,
+          "home": "수원FC",
+          "away": "상주",
+          "score": "0-3",
+          "location": "원정"
+        }
+      ],
+      "rank": 52,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "김형근",
+      "team": "수원FC",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 102,
+          "date": "2016.06.29",
+          "round": 17,
+          "home": "제주",
+          "away": "수원FC",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 53,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "김형근",
+      "team": "광주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 99,
+          "date": "2016.06.29",
+          "round": 17,
+          "home": "수원",
+          "away": "광주",
+          "score": "0-2",
+          "location": "원정"
+        }
+      ],
+      "rank": 54,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "김선규",
+      "team": "포항",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 4,
+      "cs_games": [
+        {
+          "game_id": 107,
+          "date": "2016.07.03",
+          "round": 18,
+          "home": "광주",
+          "away": "포항",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 55,
+      "cs_rate": 25.0
+    },
+    {
+      "player_name": "강진웅",
+      "team": "전남",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 122,
+          "date": "2016.07.20",
+          "round": 21,
+          "home": "광주",
+          "away": "전남",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 56,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "류원우",
+      "team": "전남",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 134,
+          "date": "2016.07.30",
+          "round": 23,
+          "home": "울산",
+          "away": "전남",
+          "score": "0-2",
+          "location": "원정"
+        }
+      ],
+      "rank": 57,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "손정현",
+      "team": "서울",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 183,
+          "date": "2016.09.21",
+          "round": 31,
+          "home": "수원FC",
+          "away": "서울",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 58,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "박주원",
+      "team": "제주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 198,
+          "date": "2016.10.02",
+          "round": 33,
+          "home": "전남",
+          "away": "제주",
+          "score": "0-2",
+          "location": "원정"
+        }
+      ],
+      "rank": 59,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "류원우",
+      "team": "광주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 3,
+      "cs_games": [
+        {
+          "game_id": 154,
+          "date": "2016.08.17",
+          "round": 26,
+          "home": "성남",
+          "away": "광주",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 60,
+      "cs_rate": 33.3
+    },
+    {
+      "player_name": "함석민",
+      "team": "제주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 161,
+          "date": "2016.08.21",
+          "round": 27,
+          "home": "인천",
+          "away": "제주",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 61,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "권정혁",
+      "team": "수원FC",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 162,
+          "date": "2016.08.21",
+          "round": 27,
+          "home": "광주",
+          "away": "수원FC",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 62,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "박주원",
+      "team": "성남",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 215,
+          "date": "2016.10.29",
+          "round": 36,
+          "home": "광주",
+          "away": "성남",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 63,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "홍상준",
+      "team": "제주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 180,
+          "date": "2016.09.18",
+          "round": 30,
+          "home": "서울",
+          "away": "제주",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 64,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "조현우",
+      "team": "상주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 175,
+          "date": "2016.09.18",
+          "round": 30,
+          "home": "인천",
+          "away": "상주",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 65,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "구상민",
+      "team": "인천",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 185,
+          "date": "2016.09.21",
+          "round": 31,
+          "home": "포항",
+          "away": "인천",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 66,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "권정혁",
+      "team": "전남",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 192,
+          "date": "2016.09.25",
+          "round": 32,
+          "home": "수원FC",
+          "away": "전남",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 67,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "홍상준",
+      "team": "인천",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 203,
+          "date": "2016.10.16",
+          "round": 34,
+          "home": "성남",
+          "away": "인천",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 68,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "함석민",
+      "team": "전남",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 201,
+          "date": "2016.10.16",
+          "round": 34,
+          "home": "상주",
+          "away": "전남",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 69,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "임홍현",
+      "team": "전북",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 211,
+          "date": "2016.10.29",
+          "round": 36,
+          "home": "전남",
+          "away": "전북",
+          "score": "0-5",
+          "location": "원정"
+        }
+      ],
+      "rank": 70,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "구상민",
+      "team": "서울",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 213,
+          "date": "2016.10.30",
+          "round": 36,
+          "home": "제주",
+          "away": "서울",
+          "score": "0-2",
+          "location": "원정"
+        }
+      ],
+      "rank": 71,
+      "cs_rate": 100.0
+    }
+  ]
+}

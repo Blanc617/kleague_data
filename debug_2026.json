@@ -1,0 +1,66 @@
+{
+  "count_2026": 189,
+  "finished_vals": {
+    "True": 28,
+    "False": 161
+  },
+  "sample_unfinished": [
+    {
+      "game_id": 7,
+      "season": 2026,
+      "round": 2,
+      "date": "2026.03.28",
+      "time": "15:00",
+      "competition": "하나은행 K리그1 2026",
+      "home_team": "포항",
+      "home_team_id": "K03",
+      "away_team": "강원",
+      "away_team_id": "K21",
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "포항 스틸야드",
+      "attendance": 0,
+      "finished": false,
+      "broadcast": "ENA SPORTS//COUPANGPLAY",
+      "source": "kleague"
+    },
+    {
+      "game_id": 32,
+      "season": 2026,
+      "round": 6,
+      "date": "2026.04.04",
+      "time": "14:00",
+      "competition": "하나은행 K리그1 2026",
+      "home_team": "전북",
+      "home_team_id": "K05",
+      "away_team": "울산",
+      "away_team_id": "K01",
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "전주 월드컵 경기장",
+      "attendance": 0,
+      "finished": false,
+      "broadcast": "JTBC SPORTS//COUPANGPLAY",
+      "source": "kleague"
+    },
+    {
+      "game_id": 33,
+      "season": 2026,
+      "round": 6,
+      "date": "2026.04.04",
+      "time": "16:30",
+      "competition": "하나은행 K리그1 2026",
+      "home_team": "포항",
+      "home_team_id": "K03",
+      "away_team": "대전",
+      "away_team_id": "K10",
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "포항 스틸야드",
+      "attendance": 0,
+      "finished": false,
+      "broadcast": "JTBC SPORTS//COUPANGPLAY",
+      "source": "kleague"
+    }
+  ]
+}

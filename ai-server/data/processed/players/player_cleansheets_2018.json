@@ -1,0 +1,1953 @@
+{
+  "season": 2018,
+  "league": "K1",
+  "total_games": 218,
+  "games_with_lineup": 228,
+  "total_gks": 69,
+  "players": [
+    {
+      "player_name": "이창근",
+      "team": "제주",
+      "clean_sheets": 12,
+      "cs_home": 10,
+      "cs_away": 2,
+      "games_played": 22,
+      "cs_games": [
+        {
+          "game_id": 3,
+          "date": "2018.03.01",
+          "round": 1,
+          "home": "제주",
+          "away": "서울",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 30,
+          "date": "2018.04.08",
+          "round": 5,
+          "home": "제주",
+          "away": "상주",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 75,
+          "date": "2018.05.12",
+          "round": 13,
+          "home": "제주",
+          "away": "전남",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 94,
+          "date": "2018.07.11",
+          "round": 16,
+          "home": "제주",
+          "away": "경남",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 128,
+          "date": "2018.08.11",
+          "round": 22,
+          "home": "제주",
+          "away": "포항",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 153,
+          "date": "2018.08.25",
+          "round": 26,
+          "home": "제주",
+          "away": "인천",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 148,
+          "date": "2018.09.08",
+          "round": 25,
+          "home": "제주",
+          "away": "수원",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 183,
+          "date": "2018.09.29",
+          "round": 31,
+          "home": "제주",
+          "away": "전남",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 191,
+          "date": "2018.10.07",
+          "round": 32,
+          "home": "경남",
+          "away": "제주",
+          "score": "0-1",
+          "location": "원정"
+        },
+        {
+          "game_id": 195,
+          "date": "2018.10.20",
+          "round": 33,
+          "home": "제주",
+          "away": "서울",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 214,
+          "date": "2018.11.10",
+          "round": 36,
+          "home": "제주",
+          "away": "전북",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 221,
+          "date": "2018.11.25",
+          "round": 37,
+          "home": "울산",
+          "away": "제주",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 1,
+      "cs_rate": 54.5
+    },
+    {
+      "player_name": "송범근",
+      "team": "전북",
+      "clean_sheets": 9,
+      "cs_home": 8,
+      "cs_away": 1,
+      "games_played": 19,
+      "cs_games": [
+        {
+          "game_id": 1,
+          "date": "2018.03.01",
+          "round": 1,
+          "home": "전북",
+          "away": "울산",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 21,
+          "date": "2018.03.31",
+          "round": 4,
+          "home": "전북",
+          "away": "상주",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 39,
+          "date": "2018.04.14",
+          "round": 7,
+          "home": "전북",
+          "away": "전남",
+          "score": "3-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 58,
+          "date": "2018.04.29",
+          "round": 10,
+          "home": "전북",
+          "away": "수원",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 104,
+          "date": "2018.07.18",
+          "round": 18,
+          "home": "전북",
+          "away": "제주",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 163,
+          "date": "2018.09.15",
+          "round": 28,
+          "home": "전북",
+          "away": "제주",
+          "score": "4-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 179,
+          "date": "2018.09.26",
+          "round": 30,
+          "home": "전북",
+          "away": "전남",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 203,
+          "date": "2018.10.28",
+          "round": 34,
+          "home": "전북",
+          "away": "수원",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 214,
+          "date": "2018.11.10",
+          "round": 36,
+          "home": "제주",
+          "away": "전북",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 2,
+      "cs_rate": 47.4
+    },
+    {
+      "player_name": "손정현",
+      "team": "경남",
+      "clean_sheets": 6,
+      "cs_home": 5,
+      "cs_away": 1,
+      "games_played": 13,
+      "cs_games": [
+        {
+          "game_id": 9,
+          "date": "2018.03.10",
+          "round": 2,
+          "home": "경남",
+          "away": "제주",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 48,
+          "date": "2018.04.22",
+          "round": 8,
+          "home": "경남",
+          "away": "울산",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 63,
+          "date": "2018.05.02",
+          "round": 11,
+          "home": "경남",
+          "away": "서울",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 87,
+          "date": "2018.07.07",
+          "round": 15,
+          "home": "경남",
+          "away": "포항",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 98,
+          "date": "2018.07.14",
+          "round": 17,
+          "home": "경남",
+          "away": "인천",
+          "score": "3-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 205,
+          "date": "2018.11.03",
+          "round": 35,
+          "home": "제주",
+          "away": "경남",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 3,
+      "cs_rate": 46.2
+    },
+    {
+      "player_name": "이범영",
+      "team": "강원",
+      "clean_sheets": 6,
+      "cs_home": 5,
+      "cs_away": 1,
+      "games_played": 16,
+      "cs_games": [
+        {
+          "game_id": 59,
+          "date": "2018.04.29",
+          "round": 10,
+          "home": "강원",
+          "away": "포항",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 144,
+          "date": "2018.08.19",
+          "round": 24,
+          "home": "강원",
+          "away": "인천",
+          "score": "7-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 158,
+          "date": "2018.09.01",
+          "round": 27,
+          "home": "강원",
+          "away": "서울",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 175,
+          "date": "2018.09.26",
+          "round": 30,
+          "home": "강원",
+          "away": "수원",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 209,
+          "date": "2018.11.04",
+          "round": 35,
+          "home": "강원",
+          "away": "전남",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 218,
+          "date": "2018.11.24",
+          "round": 37,
+          "home": "상주",
+          "away": "강원",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 4,
+      "cs_rate": 37.5
+    },
+    {
+      "player_name": "강현무",
+      "team": "포항",
+      "clean_sheets": 4,
+      "cs_home": 4,
+      "cs_away": 0,
+      "games_played": 23,
+      "cs_games": [
+        {
+          "game_id": 4,
+          "date": "2018.03.03",
+          "round": 1,
+          "home": "포항",
+          "away": "대구",
+          "score": "3-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 64,
+          "date": "2018.05.02",
+          "round": 11,
+          "home": "포항",
+          "away": "인천",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 101,
+          "date": "2018.07.15",
+          "round": 17,
+          "home": "포항",
+          "away": "강원",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 170,
+          "date": "2018.09.22",
+          "round": 29,
+          "home": "포항",
+          "away": "인천",
+          "score": "1-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 5,
+      "cs_rate": 17.4
+    },
+    {
+      "player_name": "이호승",
+      "team": "전남",
+      "clean_sheets": 4,
+      "cs_home": 4,
+      "cs_away": 0,
+      "games_played": 19,
+      "cs_games": [
+        {
+          "game_id": 68,
+          "date": "2018.05.05",
+          "round": 12,
+          "home": "전남",
+          "away": "전북",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 99,
+          "date": "2018.07.14",
+          "round": 17,
+          "home": "전남",
+          "away": "상주",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 174,
+          "date": "2018.09.23",
+          "round": 29,
+          "home": "전남",
+          "away": "울산",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 189,
+          "date": "2018.10.06",
+          "round": 32,
+          "home": "전남",
+          "away": "서울",
+          "score": "1-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 6,
+      "cs_rate": 21.1
+    },
+    {
+      "player_name": "오승훈",
+      "team": "울산",
+      "clean_sheets": 4,
+      "cs_home": 4,
+      "cs_away": 0,
+      "games_played": 11,
+      "cs_games": [
+        {
+          "game_id": 37,
+          "date": "2018.04.14",
+          "round": 7,
+          "home": "울산",
+          "away": "서울",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 130,
+          "date": "2018.08.12",
+          "round": 22,
+          "home": "울산",
+          "away": "수원",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 196,
+          "date": "2018.10.20",
+          "round": 33,
+          "home": "울산",
+          "away": "강원",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 204,
+          "date": "2018.10.28",
+          "round": 34,
+          "home": "울산",
+          "away": "경남",
+          "score": "1-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 7,
+      "cs_rate": 36.4
+    },
+    {
+      "player_name": "양한빈",
+      "team": "서울",
+      "clean_sheets": 3,
+      "cs_home": 3,
+      "cs_away": 0,
+      "games_played": 22,
+      "cs_games": [
+        {
+          "game_id": 43,
+          "date": "2018.04.21",
+          "round": 8,
+          "home": "서울",
+          "away": "대구",
+          "score": "3-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 56,
+          "date": "2018.04.28",
+          "round": 10,
+          "home": "서울",
+          "away": "상주",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 121,
+          "date": "2018.08.04",
+          "round": 21,
+          "home": "서울",
+          "away": "제주",
+          "score": "3-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 8,
+      "cs_rate": 13.6
+    },
+    {
+      "player_name": "노동건",
+      "team": "수원",
+      "clean_sheets": 3,
+      "cs_home": 3,
+      "cs_away": 0,
+      "games_played": 10,
+      "cs_games": [
+        {
+          "game_id": 118,
+          "date": "2018.07.29",
+          "round": 20,
+          "home": "수원",
+          "away": "강원",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 173,
+          "date": "2018.09.23",
+          "round": 29,
+          "home": "수원",
+          "away": "전북",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 194,
+          "date": "2018.10.20",
+          "round": 33,
+          "home": "수원",
+          "away": "포항",
+          "score": "2-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 9,
+      "cs_rate": 30.0
+    },
+    {
+      "player_name": "신화용",
+      "team": "수원",
+      "clean_sheets": 3,
+      "cs_home": 3,
+      "cs_away": 0,
+      "games_played": 6,
+      "cs_games": [
+        {
+          "game_id": 27,
+          "date": "2018.04.08",
+          "round": 5,
+          "home": "수원",
+          "away": "서울",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 62,
+          "date": "2018.05.02",
+          "round": 11,
+          "home": "수원",
+          "away": "울산",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 77,
+          "date": "2018.05.13",
+          "round": 13,
+          "home": "수원",
+          "away": "대구",
+          "score": "2-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 10,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "윤보상",
+      "team": "상주",
+      "clean_sheets": 3,
+      "cs_home": 1,
+      "cs_away": 2,
+      "games_played": 10,
+      "cs_games": [
+        {
+          "game_id": 201,
+          "date": "2018.10.28",
+          "round": 34,
+          "home": "전남",
+          "away": "상주",
+          "score": "0-1",
+          "location": "원정"
+        },
+        {
+          "game_id": 216,
+          "date": "2018.11.11",
+          "round": 36,
+          "home": "대구",
+          "away": "상주",
+          "score": "0-0",
+          "location": "원정"
+        },
+        {
+          "game_id": 224,
+          "date": "2018.12.01",
+          "round": 38,
+          "home": "상주",
+          "away": "서울",
+          "score": "1-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 11,
+      "cs_rate": 30.0
+    },
+    {
+      "player_name": "김다솔",
+      "team": "전북",
+      "clean_sheets": 3,
+      "cs_home": 0,
+      "cs_away": 3,
+      "games_played": 3,
+      "cs_games": [
+        {
+          "game_id": 54,
+          "date": "2018.04.25",
+          "round": 9,
+          "home": "강원",
+          "away": "전북",
+          "score": "0-2",
+          "location": "원정"
+        },
+        {
+          "game_id": 114,
+          "date": "2018.07.22",
+          "round": 19,
+          "home": "상주",
+          "away": "전북",
+          "score": "0-2",
+          "location": "원정"
+        },
+        {
+          "game_id": 173,
+          "date": "2018.09.23",
+          "round": 29,
+          "home": "수원",
+          "away": "전북",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 12,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "유상훈",
+      "team": "상주",
+      "clean_sheets": 2,
+      "cs_home": 2,
+      "cs_away": 0,
+      "games_played": 5,
+      "cs_games": [
+        {
+          "game_id": 72,
+          "date": "2018.05.05",
+          "round": 12,
+          "home": "상주",
+          "away": "강원",
+          "score": "3-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 82,
+          "date": "2018.05.20",
+          "round": 14,
+          "home": "상주",
+          "away": "제주",
+          "score": "0-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 13,
+      "cs_rate": 40.0
+    },
+    {
+      "player_name": "조수혁",
+      "team": "울산",
+      "clean_sheets": 2,
+      "cs_home": 2,
+      "cs_away": 0,
+      "games_played": 5,
+      "cs_games": [
+        {
+          "game_id": 113,
+          "date": "2018.07.22",
+          "round": 19,
+          "home": "울산",
+          "away": "대구",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 164,
+          "date": "2018.09.15",
+          "round": 28,
+          "home": "울산",
+          "away": "포항",
+          "score": "2-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 14,
+      "cs_rate": 40.0
+    },
+    {
+      "player_name": "조현우",
+      "team": "대구",
+      "clean_sheets": 2,
+      "cs_home": 1,
+      "cs_away": 1,
+      "games_played": 17,
+      "cs_games": [
+        {
+          "game_id": 202,
+          "date": "2018.10.28",
+          "round": 34,
+          "home": "인천",
+          "away": "대구",
+          "score": "0-1",
+          "location": "원정"
+        },
+        {
+          "game_id": 216,
+          "date": "2018.11.11",
+          "round": 36,
+          "home": "대구",
+          "away": "상주",
+          "score": "0-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 15,
+      "cs_rate": 11.8
+    },
+    {
+      "player_name": "정산",
+      "team": "인천",
+      "clean_sheets": 2,
+      "cs_home": 1,
+      "cs_away": 1,
+      "games_played": 13,
+      "cs_games": [
+        {
+          "game_id": 165,
+          "date": "2018.09.15",
+          "round": 28,
+          "home": "인천",
+          "away": "수원",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 217,
+          "date": "2018.11.24",
+          "round": 37,
+          "home": "서울",
+          "away": "인천",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 16,
+      "cs_rate": 15.4
+    },
+    {
+      "player_name": "최영은",
+      "team": "대구",
+      "clean_sheets": 2,
+      "cs_home": 1,
+      "cs_away": 1,
+      "games_played": 6,
+      "cs_games": [
+        {
+          "game_id": 156,
+          "date": "2018.08.26",
+          "round": 26,
+          "home": "대구",
+          "away": "강원",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 223,
+          "date": "2018.12.01",
+          "round": 38,
+          "home": "강원",
+          "away": "대구",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 17,
+      "cs_rate": 33.3
+    },
+    {
+      "player_name": "김영광",
+      "team": "제주",
+      "clean_sheets": 2,
+      "cs_home": 0,
+      "cs_away": 2,
+      "games_played": 5,
+      "cs_games": [
+        {
+          "game_id": 17,
+          "date": "2018.03.18",
+          "round": 3,
+          "home": "울산",
+          "away": "제주",
+          "score": "0-1",
+          "location": "원정"
+        },
+        {
+          "game_id": 82,
+          "date": "2018.05.20",
+          "round": 14,
+          "home": "상주",
+          "away": "제주",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 18,
+      "cs_rate": 40.0
+    },
+    {
+      "player_name": "전수현",
+      "team": "전북",
+      "clean_sheets": 2,
+      "cs_home": 0,
+      "cs_away": 2,
+      "games_played": 3,
+      "cs_games": [
+        {
+          "game_id": 83,
+          "date": "2018.05.20",
+          "round": 14,
+          "home": "서울",
+          "away": "전북",
+          "score": "0-4",
+          "location": "원정"
+        },
+        {
+          "game_id": 97,
+          "date": "2018.07.14",
+          "round": 17,
+          "home": "수원",
+          "away": "전북",
+          "score": "0-3",
+          "location": "원정"
+        }
+      ],
+      "rank": 19,
+      "cs_rate": 66.7
+    },
+    {
+      "player_name": "이태희",
+      "team": "인천",
+      "clean_sheets": 1,
+      "cs_home": 1,
+      "cs_away": 0,
+      "games_played": 4,
+      "cs_games": [
+        {
+          "game_id": 13,
+          "date": "2018.03.17",
+          "round": 3,
+          "home": "인천",
+          "away": "대구",
+          "score": "0-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 20,
+      "cs_rate": 25.0
+    },
+    {
+      "player_name": "이진형",
+      "team": "인천",
+      "clean_sheets": 1,
+      "cs_home": 1,
+      "cs_away": 0,
+      "games_played": 6,
+      "cs_games": [
+        {
+          "game_id": 138,
+          "date": "2018.08.15",
+          "round": 23,
+          "home": "인천",
+          "away": "상주",
+          "score": "0-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 21,
+      "cs_rate": 16.7
+    },
+    {
+      "player_name": "이범수",
+      "team": "경남",
+      "clean_sheets": 1,
+      "cs_home": 1,
+      "cs_away": 0,
+      "games_played": 6,
+      "cs_games": [
+        {
+          "game_id": 131,
+          "date": "2018.08.12",
+          "round": 22,
+          "home": "경남",
+          "away": "전남",
+          "score": "3-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 22,
+      "cs_rate": 16.7
+    },
+    {
+      "player_name": "윤보상",
+      "team": "서울",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 3,
+          "date": "2018.03.01",
+          "round": 1,
+          "home": "제주",
+          "away": "서울",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 23,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "박배종",
+      "team": "전북",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 28,
+          "date": "2018.04.08",
+          "round": 5,
+          "home": "포항",
+          "away": "전북",
+          "score": "0-2",
+          "location": "원정"
+        }
+      ],
+      "rank": 24,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "전수현",
+      "team": "상주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 10,
+          "date": "2018.03.10",
+          "round": 2,
+          "home": "울산",
+          "away": "상주",
+          "score": "0-2",
+          "location": "원정"
+        }
+      ],
+      "rank": 25,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "이승빈",
+      "team": "수원",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 3,
+      "cs_games": [
+        {
+          "game_id": 8,
+          "date": "2018.03.10",
+          "round": 2,
+          "home": "대구",
+          "away": "수원",
+          "score": "0-2",
+          "location": "원정"
+        }
+      ],
+      "rank": 26,
+      "cs_rate": 33.3
+    },
+    {
+      "player_name": "윤보상",
+      "team": "대구",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 13,
+          "date": "2018.03.17",
+          "round": 3,
+          "home": "인천",
+          "away": "대구",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 27,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "김진영",
+      "team": "경남",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 70,
+          "date": "2018.05.05",
+          "round": 12,
+          "home": "대구",
+          "away": "경남",
+          "score": "0-2",
+          "location": "원정"
+        }
+      ],
+      "rank": 28,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "박배종",
+      "team": "포항",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 73,
+          "date": "2018.05.12",
+          "round": 13,
+          "home": "전북",
+          "away": "포항",
+          "score": "0-3",
+          "location": "원정"
+        }
+      ],
+      "rank": 29,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "김진영",
+      "team": "수원",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 20,
+          "date": "2018.03.31",
+          "round": 4,
+          "home": "제주",
+          "away": "수원",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 30,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "전수현",
+      "team": "인천",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 64,
+          "date": "2018.05.02",
+          "round": 11,
+          "home": "포항",
+          "away": "인천",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 31,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "전수현",
+      "team": "서울",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 27,
+          "date": "2018.04.08",
+          "round": 5,
+          "home": "수원",
+          "away": "서울",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 32,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "김영광",
+      "team": "상주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 30,
+          "date": "2018.04.08",
+          "round": 5,
+          "home": "제주",
+          "away": "상주",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 33,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "윤평국",
+      "team": "전북",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 32,
+          "date": "2018.04.11",
+          "round": 6,
+          "home": "경남",
+          "away": "전북",
+          "score": "0-4",
+          "location": "원정"
+        }
+      ],
+      "rank": 34,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "김영광",
+      "team": "울산",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 33,
+          "date": "2018.04.11",
+          "round": 6,
+          "home": "대구",
+          "away": "울산",
+          "score": "0-2",
+          "location": "원정"
+        }
+      ],
+      "rank": 35,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "김다솔",
+      "team": "상주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 35,
+          "date": "2018.04.11",
+          "round": 6,
+          "home": "인천",
+          "away": "상주",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 36,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "김근배",
+      "team": "제주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 34,
+          "date": "2018.04.11",
+          "round": 6,
+          "home": "전남",
+          "away": "제주",
+          "score": "0-3",
+          "location": "원정"
+        }
+      ],
+      "rank": 37,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "박배종",
+      "team": "상주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 45,
+          "date": "2018.04.21",
+          "round": 8,
+          "home": "포항",
+          "away": "상주",
+          "score": "0-2",
+          "location": "원정"
+        }
+      ],
+      "rank": 38,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "김다솔",
+      "team": "강원",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 79,
+          "date": "2018.05.19",
+          "round": 14,
+          "home": "경남",
+          "away": "강원",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 39,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "김근배",
+      "team": "전북",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 46,
+          "date": "2018.04.22",
+          "round": 8,
+          "home": "제주",
+          "away": "전북",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 40,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "전수현",
+      "team": "울산",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 48,
+          "date": "2018.04.22",
+          "round": 8,
+          "home": "경남",
+          "away": "울산",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 41,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "윤평국",
+      "team": "제주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 52,
+          "date": "2018.04.25",
+          "round": 9,
+          "home": "포항",
+          "away": "제주",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 42,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "최철원",
+      "team": "상주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 56,
+          "date": "2018.04.28",
+          "round": 10,
+          "home": "서울",
+          "away": "상주",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 43,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "황성민",
+      "team": "포항",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 3,
+      "cs_games": [
+        {
+          "game_id": 59,
+          "date": "2018.04.29",
+          "round": 10,
+          "home": "강원",
+          "away": "포항",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 44,
+      "cs_rate": 33.3
+    },
+    {
+      "player_name": "전종혁",
+      "team": "울산",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 62,
+          "date": "2018.05.02",
+          "round": 11,
+          "home": "수원",
+          "away": "울산",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 45,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "최철원",
+      "team": "서울",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 63,
+          "date": "2018.05.02",
+          "round": 11,
+          "home": "경남",
+          "away": "서울",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 46,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "최철원",
+      "team": "전북",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 68,
+          "date": "2018.05.05",
+          "round": 12,
+          "home": "전남",
+          "away": "전북",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 47,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "김근배",
+      "team": "포항",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 106,
+          "date": "2018.07.18",
+          "round": 18,
+          "home": "대구",
+          "away": "포항",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 48,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "김형근",
+      "team": "전북",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 91,
+          "date": "2018.07.11",
+          "round": 16,
+          "home": "울산",
+          "away": "전북",
+          "score": "0-2",
+          "location": "원정"
+        }
+      ],
+      "rank": 49,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "박주원",
+      "team": "서울",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 92,
+          "date": "2018.07.11",
+          "round": 16,
+          "home": "포항",
+          "away": "서울",
+          "score": "0-3",
+          "location": "원정"
+        }
+      ],
+      "rank": 50,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "김영광",
+      "team": "강원",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 101,
+          "date": "2018.07.15",
+          "round": 17,
+          "home": "포항",
+          "away": "강원",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 51,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "김근배",
+      "team": "경남",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 94,
+          "date": "2018.07.11",
+          "round": 16,
+          "home": "제주",
+          "away": "경남",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 52,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "박배종",
+      "team": "대구",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 96,
+          "date": "2018.07.11",
+          "round": 16,
+          "home": "상주",
+          "away": "대구",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 53,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "김다솔",
+      "team": "수원",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 93,
+          "date": "2018.07.11",
+          "round": 16,
+          "home": "전남",
+          "away": "수원",
+          "score": "0-2",
+          "location": "원정"
+        }
+      ],
+      "rank": 54,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "전수현",
+      "team": "경남",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 124,
+          "date": "2018.08.05",
+          "round": 21,
+          "home": "전북",
+          "away": "경남",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 55,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "최철원",
+      "team": "포항",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 128,
+          "date": "2018.08.11",
+          "round": 22,
+          "home": "제주",
+          "away": "포항",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 56,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "박준혁",
+      "team": "상주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 138,
+          "date": "2018.08.15",
+          "round": 23,
+          "home": "인천",
+          "away": "상주",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 57,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "박주원",
+      "team": "강원",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 136,
+          "date": "2018.08.15",
+          "round": 23,
+          "home": "전남",
+          "away": "강원",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 58,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "김형근",
+      "team": "울산",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 140,
+          "date": "2018.08.18",
+          "round": 24,
+          "home": "대구",
+          "away": "울산",
+          "score": "0-2",
+          "location": "원정"
+        }
+      ],
+      "rank": 59,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "박배종",
+      "team": "경남",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 139,
+          "date": "2018.08.18",
+          "round": 24,
+          "home": "포항",
+          "away": "경남",
+          "score": "0-3",
+          "location": "원정"
+        }
+      ],
+      "rank": 60,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "김영광",
+      "team": "전북",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 142,
+          "date": "2018.08.19",
+          "round": 24,
+          "home": "서울",
+          "away": "전북",
+          "score": "0-2",
+          "location": "원정"
+        }
+      ],
+      "rank": 61,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "제종현",
+      "team": "인천",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 153,
+          "date": "2018.08.25",
+          "round": 26,
+          "home": "제주",
+          "away": "인천",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 62,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "전수현",
+      "team": "포항",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 145,
+          "date": "2018.08.22",
+          "round": 25,
+          "home": "서울",
+          "away": "포항",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 63,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "이영창",
+      "team": "서울",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 158,
+          "date": "2018.09.01",
+          "round": 27,
+          "home": "강원",
+          "away": "서울",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 64,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "제종현",
+      "team": "전북",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 161,
+          "date": "2018.09.02",
+          "round": 27,
+          "home": "경남",
+          "away": "전북",
+          "score": "0-3",
+          "location": "원정"
+        }
+      ],
+      "rank": 65,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "박주원",
+      "team": "수원",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 148,
+          "date": "2018.09.08",
+          "round": 25,
+          "home": "제주",
+          "away": "수원",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 66,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "양형모",
+      "team": "수원",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 165,
+          "date": "2018.09.15",
+          "round": 28,
+          "home": "인천",
+          "away": "수원",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 67,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "김영광",
+      "team": "대구",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 167,
+          "date": "2018.09.16",
+          "round": 28,
+          "home": "서울",
+          "away": "대구",
+          "score": "0-2",
+          "location": "원정"
+        }
+      ],
+      "rank": 68,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "박한근",
+      "team": "제주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 227,
+          "date": "2018.12.02",
+          "round": 38,
+          "home": "수원",
+          "away": "제주",
+          "score": "0-2",
+          "location": "원정"
+        }
+      ],
+      "rank": 69,
+      "cs_rate": 100.0
+    }
+  ]
+}

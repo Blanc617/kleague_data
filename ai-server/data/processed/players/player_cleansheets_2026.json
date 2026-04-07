@@ -1,0 +1,324 @@
+{
+  "season": 2026,
+  "league": "K1",
+  "total_games": 28,
+  "games_with_lineup": 28,
+  "total_gks": 15,
+  "players": [
+    {
+      "player_name": "조현우",
+      "team": "울산",
+      "clean_sheets": 1,
+      "cs_home": 1,
+      "cs_away": 0,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 27,
+          "date": "2026.03.22",
+          "round": 5,
+          "home": "울산",
+          "away": "김천",
+          "score": "0-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 1,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "김동준",
+      "team": "제주",
+      "clean_sheets": 1,
+      "cs_home": 1,
+      "cs_away": 0,
+      "games_played": 3,
+      "cs_games": [
+        {
+          "game_id": 5,
+          "date": "2026.03.01",
+          "round": 1,
+          "home": "제주",
+          "away": "광주",
+          "score": "0-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 2,
+      "cs_rate": 33.3
+    },
+    {
+      "player_name": "김경민",
+      "team": "광주",
+      "clean_sheets": 1,
+      "cs_home": 1,
+      "cs_away": 0,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 13,
+          "date": "2026.03.14",
+          "round": 3,
+          "home": "광주",
+          "away": "전북",
+          "score": "0-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 3,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "황인재",
+      "team": "포항",
+      "clean_sheets": 1,
+      "cs_home": 1,
+      "cs_away": 0,
+      "games_played": 3,
+      "cs_games": [
+        {
+          "game_id": 30,
+          "date": "2026.03.22",
+          "round": 5,
+          "home": "포항",
+          "away": "부천",
+          "score": "0-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 4,
+      "cs_rate": 33.3
+    },
+    {
+      "player_name": "김현엽",
+      "team": "부천",
+      "clean_sheets": 1,
+      "cs_home": 1,
+      "cs_away": 0,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 20,
+          "date": "2026.03.18",
+          "round": 4,
+          "home": "부천",
+          "away": "강원",
+          "score": "0-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 5,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "구성윤",
+      "team": "서울",
+      "clean_sheets": 1,
+      "cs_home": 1,
+      "cs_away": 0,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 26,
+          "date": "2026.03.22",
+          "round": 5,
+          "home": "서울",
+          "away": "광주",
+          "score": "5-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 6,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "노동건",
+      "team": "광주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 5,
+          "date": "2026.03.01",
+          "round": 1,
+          "home": "제주",
+          "away": "광주",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 7,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "이승빈",
+      "team": "전북",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 13,
+          "date": "2026.03.14",
+          "round": 3,
+          "home": "광주",
+          "away": "전북",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 8,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "김승건",
+      "team": "서울",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 24,
+          "date": "2026.03.18",
+          "round": 4,
+          "home": "포항",
+          "away": "서울",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 9,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "신송훈",
+      "team": "울산",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 22,
+          "date": "2026.03.18",
+          "round": 4,
+          "home": "제주",
+          "away": "울산",
+          "score": "0-2",
+          "location": "원정"
+        }
+      ],
+      "rank": 10,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "노보",
+      "team": "강원",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 20,
+          "date": "2026.03.18",
+          "round": 4,
+          "home": "부천",
+          "away": "강원",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 11,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "이광연",
+      "team": "전북",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 25,
+          "date": "2026.03.21",
+          "round": 5,
+          "home": "대전",
+          "away": "전북",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 12,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "최필수",
+      "team": "김천",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 27,
+          "date": "2026.03.22",
+          "round": 5,
+          "home": "울산",
+          "away": "김천",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 13,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "김승건",
+      "team": "부천",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 30,
+          "date": "2026.03.22",
+          "round": 5,
+          "home": "포항",
+          "away": "부천",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 14,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "박대한",
+      "team": "인천",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 28,
+          "date": "2026.03.22",
+          "round": 5,
+          "home": "안양",
+          "away": "인천",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 15,
+      "cs_rate": 100.0
+    }
+  ]
+}

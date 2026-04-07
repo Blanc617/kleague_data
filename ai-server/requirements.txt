@@ -1,0 +1,39 @@
+# HTTP 클라이언트
+requests==2.32.3
+httpx==0.27.0
+fake-useragent==1.5.1
+
+# HTML 파싱 (lxml 제거 - Python 3.14 미지원, html.parser로 대체)
+beautifulsoup4==4.12.3
+
+# 위키텍스트 파싱 (순수 Python, 컴파일 불필요)
+wikitextparser>=0.56.3
+
+# 데이터 처리
+python-dotenv==1.0.1
+tenacity==8.3.0
+
+# 유틸리티
+tqdm==4.66.4
+loguru==0.7.2
+
+# ── Day 2: RAG 파이프라인 ──────────────────────────
+
+# LangChain 코어 + 텍스트 분할
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-openai>=0.2.0
+langchain-text-splitters>=0.3.0
+
+# OpenAI (임베딩 + LLM)
+openai>=1.40.0
+
+# Supabase pgvector
+supabase>=2.5.0
+
+# BM25 (Hybrid Search)
+rank-bm25>=0.2.2
+
+# Redis 캐시
+redis>=5.0.0

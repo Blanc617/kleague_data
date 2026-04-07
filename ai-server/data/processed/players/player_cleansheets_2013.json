@@ -1,0 +1,585 @@
+{
+  "season": 2013,
+  "league": "K1",
+  "total_games": 74,
+  "games_with_lineup": 266,
+  "total_gks": 18,
+  "players": [
+    {
+      "player_name": "김승규",
+      "team": "울산",
+      "clean_sheets": 4,
+      "cs_home": 2,
+      "cs_away": 2,
+      "games_played": 8,
+      "cs_games": [
+        {
+          "game_id": 202,
+          "date": "2013.10.20",
+          "round": 30,
+          "home": "서울",
+          "away": "울산",
+          "score": "0-2",
+          "location": "원정"
+        },
+        {
+          "game_id": 226,
+          "date": "2013.10.30",
+          "round": 34,
+          "home": "울산",
+          "away": "서울",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 232,
+          "date": "2013.11.03",
+          "round": 35,
+          "home": "인천",
+          "away": "울산",
+          "score": "0-1",
+          "location": "원정"
+        },
+        {
+          "game_id": 237,
+          "date": "2013.11.09",
+          "round": 36,
+          "home": "울산",
+          "away": "전북",
+          "score": "2-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 1,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "최은성",
+      "team": "전북",
+      "clean_sheets": 3,
+      "cs_home": 3,
+      "cs_away": 0,
+      "games_played": 11,
+      "cs_games": [
+        {
+          "game_id": 203,
+          "date": "2013.09.29",
+          "round": 30,
+          "home": "전북",
+          "away": "수원",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 215,
+          "date": "2013.10.09",
+          "round": 32,
+          "home": "전북",
+          "away": "울산",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 250,
+          "date": "2013.11.23",
+          "round": 38,
+          "home": "전북",
+          "away": "인천",
+          "score": "2-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 2,
+      "cs_rate": 27.3
+    },
+    {
+      "player_name": "정성룡",
+      "team": "수원",
+      "clean_sheets": 3,
+      "cs_home": 2,
+      "cs_away": 1,
+      "games_played": 10,
+      "cs_games": [
+        {
+          "game_id": 203,
+          "date": "2013.09.29",
+          "round": 30,
+          "home": "전북",
+          "away": "수원",
+          "score": "0-0",
+          "location": "원정"
+        },
+        {
+          "game_id": 213,
+          "date": "2013.10.09",
+          "round": 32,
+          "home": "수원",
+          "away": "서울",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 256,
+          "date": "2013.11.27",
+          "round": 39,
+          "home": "수원",
+          "away": "전북",
+          "score": "1-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 3,
+      "cs_rate": 30.0
+    },
+    {
+      "player_name": "이범영",
+      "team": "부산",
+      "clean_sheets": 3,
+      "cs_home": 2,
+      "cs_away": 1,
+      "games_played": 8,
+      "cs_games": [
+        {
+          "game_id": 185,
+          "date": "2013.09.08",
+          "round": 27,
+          "home": "부산",
+          "away": "서울",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 214,
+          "date": "2013.10.09",
+          "round": 32,
+          "home": "포항",
+          "away": "부산",
+          "score": "0-0",
+          "location": "원정"
+        },
+        {
+          "game_id": 221,
+          "date": "2013.10.27",
+          "round": 33,
+          "home": "부산",
+          "away": "인천",
+          "score": "0-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 4,
+      "cs_rate": 37.5
+    },
+    {
+      "player_name": "김선규",
+      "team": "대전",
+      "clean_sheets": 3,
+      "cs_home": 2,
+      "cs_away": 1,
+      "games_played": 8,
+      "cs_games": [
+        {
+          "game_id": 228,
+          "date": "2013.10.20",
+          "round": 34,
+          "home": "제주",
+          "away": "대전",
+          "score": "0-1",
+          "location": "원정"
+        },
+        {
+          "game_id": 248,
+          "date": "2013.11.17",
+          "round": 37,
+          "home": "대전",
+          "away": "성남",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 264,
+          "date": "2013.11.30",
+          "round": 40,
+          "home": "대전",
+          "away": "전남",
+          "score": "2-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 5,
+      "cs_rate": 37.5
+    },
+    {
+      "player_name": "전상욱",
+      "team": "성남",
+      "clean_sheets": 3,
+      "cs_home": 1,
+      "cs_away": 2,
+      "games_played": 9,
+      "cs_games": [
+        {
+          "game_id": 199,
+          "date": "2013.09.21",
+          "round": 29,
+          "home": "강원",
+          "away": "성남",
+          "score": "0-2",
+          "location": "원정"
+        },
+        {
+          "game_id": 252,
+          "date": "2013.11.23",
+          "round": 38,
+          "home": "성남",
+          "away": "대구",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 260,
+          "date": "2013.11.27",
+          "round": 39,
+          "home": "전남",
+          "away": "성남",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 6,
+      "cs_rate": 33.3
+    },
+    {
+      "player_name": "신화용",
+      "team": "포항",
+      "clean_sheets": 3,
+      "cs_home": 1,
+      "cs_away": 2,
+      "games_played": 9,
+      "cs_games": [
+        {
+          "game_id": 152,
+          "date": "2013.08.11",
+          "round": 22,
+          "home": "대전",
+          "away": "포항",
+          "score": "0-1",
+          "location": "원정"
+        },
+        {
+          "game_id": 214,
+          "date": "2013.10.09",
+          "round": 32,
+          "home": "포항",
+          "away": "부산",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 262,
+          "date": "2013.12.01",
+          "round": 40,
+          "home": "울산",
+          "away": "포항",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 7,
+      "cs_rate": 33.3
+    },
+    {
+      "player_name": "백민철",
+      "team": "경남",
+      "clean_sheets": 3,
+      "cs_home": 0,
+      "cs_away": 3,
+      "games_played": 8,
+      "cs_games": [
+        {
+          "game_id": 218,
+          "date": "2013.10.09",
+          "round": 32,
+          "home": "대전",
+          "away": "경남",
+          "score": "0-1",
+          "location": "원정"
+        },
+        {
+          "game_id": 253,
+          "date": "2013.11.24",
+          "round": 38,
+          "home": "제주",
+          "away": "경남",
+          "score": "0-1",
+          "location": "원정"
+        },
+        {
+          "game_id": 265,
+          "date": "2013.11.30",
+          "round": 40,
+          "home": "대구",
+          "away": "경남",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 8,
+      "cs_rate": 37.5
+    },
+    {
+      "player_name": "전수현",
+      "team": "제주",
+      "clean_sheets": 2,
+      "cs_home": 2,
+      "cs_away": 0,
+      "games_played": 6,
+      "cs_games": [
+        {
+          "game_id": 206,
+          "date": "2013.09.29",
+          "round": 30,
+          "home": "제주",
+          "away": "전남",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 241,
+          "date": "2013.11.10",
+          "round": 36,
+          "home": "제주",
+          "away": "성남",
+          "score": "1-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 9,
+      "cs_rate": 33.3
+    },
+    {
+      "player_name": "조현우",
+      "team": "대구",
+      "clean_sheets": 2,
+      "cs_home": 1,
+      "cs_away": 1,
+      "games_played": 6,
+      "cs_games": [
+        {
+          "game_id": 252,
+          "date": "2013.11.23",
+          "round": 38,
+          "home": "성남",
+          "away": "대구",
+          "score": "0-0",
+          "location": "원정"
+        },
+        {
+          "game_id": 265,
+          "date": "2013.11.30",
+          "round": 40,
+          "home": "대구",
+          "away": "경남",
+          "score": "0-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 10,
+      "cs_rate": 33.3
+    },
+    {
+      "player_name": "김병지",
+      "team": "전남",
+      "clean_sheets": 2,
+      "cs_home": 1,
+      "cs_away": 1,
+      "games_played": 8,
+      "cs_games": [
+        {
+          "game_id": 242,
+          "date": "2013.11.10",
+          "round": 36,
+          "home": "대구",
+          "away": "전남",
+          "score": "0-1",
+          "location": "원정"
+        },
+        {
+          "game_id": 254,
+          "date": "2013.11.23",
+          "round": 38,
+          "home": "전남",
+          "away": "강원",
+          "score": "1-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 11,
+      "cs_rate": 25.0
+    },
+    {
+      "player_name": "권정혁",
+      "team": "인천",
+      "clean_sheets": 2,
+      "cs_home": 1,
+      "cs_away": 1,
+      "games_played": 9,
+      "cs_games": [
+        {
+          "game_id": 209,
+          "date": "2013.10.06",
+          "round": 31,
+          "home": "인천",
+          "away": "서울",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 221,
+          "date": "2013.10.27",
+          "round": 33,
+          "home": "부산",
+          "away": "인천",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 12,
+      "cs_rate": 22.2
+    },
+    {
+      "player_name": "김용대",
+      "team": "서울",
+      "clean_sheets": 2,
+      "cs_home": 0,
+      "cs_away": 2,
+      "games_played": 11,
+      "cs_games": [
+        {
+          "game_id": 185,
+          "date": "2013.09.08",
+          "round": 27,
+          "home": "부산",
+          "away": "서울",
+          "score": "0-0",
+          "location": "원정"
+        },
+        {
+          "game_id": 209,
+          "date": "2013.10.06",
+          "round": 31,
+          "home": "인천",
+          "away": "서울",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 13,
+      "cs_rate": 18.2
+    },
+    {
+      "player_name": "하강진",
+      "team": "경남",
+      "clean_sheets": 1,
+      "cs_home": 1,
+      "cs_away": 0,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 98,
+          "date": "2013.06.23",
+          "round": 14,
+          "home": "경남",
+          "away": "대전",
+          "score": "6-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 14,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "김근배",
+      "team": "강원",
+      "clean_sheets": 1,
+      "cs_home": 1,
+      "cs_away": 0,
+      "games_played": 11,
+      "cs_games": [
+        {
+          "game_id": 266,
+          "date": "2013.11.30",
+          "round": 40,
+          "home": "강원",
+          "away": "제주",
+          "score": "3-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 15,
+      "cs_rate": 9.1
+    },
+    {
+      "player_name": "김영광",
+      "team": "울산",
+      "clean_sheets": 1,
+      "cs_home": 1,
+      "cs_away": 0,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 208,
+          "date": "2013.10.05",
+          "round": 31,
+          "home": "울산",
+          "away": "부산",
+          "score": "1-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 16,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "여명용",
+      "team": "전남",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 65,
+          "date": "2013.05.05",
+          "round": 10,
+          "home": "경남",
+          "away": "전남",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 17,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "박준혁",
+      "team": "제주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 4,
+      "cs_games": [
+        {
+          "game_id": 234,
+          "date": "2013.11.02",
+          "round": 35,
+          "home": "전남",
+          "away": "제주",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 18,
+      "cs_rate": 25.0
+    }
+  ]
+}

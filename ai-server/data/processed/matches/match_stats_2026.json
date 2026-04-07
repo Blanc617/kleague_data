@@ -1,0 +1,848 @@
+{
+  "season": 2026,
+  "source": "kleague_official",
+  "crawled_at": "2026-03-28 15:46",
+  "total_games": 28,
+  "stats": [
+    {
+      "game_id": 1,
+      "home_team": "인천",
+      "away_team": "서울",
+      "date": "2026.02.28",
+      "home": {
+        "fouls": 14,
+        "corners": 6,
+        "onTarget": 2,
+        "possession": 57,
+        "freeKicks": 15,
+        "yellowCards": 0,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 18,
+        "corners": 3,
+        "onTarget": 8,
+        "possession": 43,
+        "freeKicks": 18,
+        "yellowCards": 5,
+        "attempts": 10,
+        "doubleYellowCards": 1,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 2,
+      "home_team": "울산",
+      "away_team": "강원",
+      "date": "2026.02.28",
+      "home": {
+        "fouls": 10,
+        "corners": 2,
+        "onTarget": 6,
+        "possession": 35,
+        "freeKicks": 10,
+        "yellowCards": 2,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 2,
+        "onTarget": 5,
+        "possession": 65,
+        "freeKicks": 15,
+        "yellowCards": 3,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 3,
+      "home_team": "김천",
+      "away_team": "포항",
+      "date": "2026.02.28",
+      "home": {
+        "fouls": 9,
+        "corners": 2,
+        "onTarget": 6,
+        "possession": 50,
+        "freeKicks": 12,
+        "yellowCards": 1,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 9,
+        "corners": 4,
+        "onTarget": 2,
+        "possession": 50,
+        "freeKicks": 9,
+        "yellowCards": 3,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 1,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 4,
+      "home_team": "전북",
+      "away_team": "부천",
+      "date": "2026.03.01",
+      "home": {
+        "fouls": 11,
+        "corners": 4,
+        "onTarget": 5,
+        "possession": 66,
+        "freeKicks": 14,
+        "yellowCards": 1,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 12,
+        "corners": 2,
+        "onTarget": 3,
+        "possession": 34,
+        "freeKicks": 13,
+        "yellowCards": 3,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 5,
+      "home_team": "제주",
+      "away_team": "광주",
+      "date": "2026.03.01",
+      "home": {
+        "fouls": 11,
+        "corners": 3,
+        "onTarget": 2,
+        "possession": 33,
+        "freeKicks": 12,
+        "yellowCards": 2,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 1,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 3,
+        "onTarget": 3,
+        "possession": 67,
+        "freeKicks": 15,
+        "yellowCards": 4,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 6,
+      "home_team": "대전",
+      "away_team": "안양",
+      "date": "2026.03.02",
+      "home": {
+        "fouls": 12,
+        "corners": 6,
+        "onTarget": 6,
+        "possession": 60,
+        "freeKicks": 13,
+        "yellowCards": 5,
+        "attempts": 17,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 3,
+        "onTarget": 7,
+        "possession": 40,
+        "freeKicks": 18,
+        "yellowCards": 4,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 9,
+      "home_team": "광주",
+      "away_team": "인천",
+      "date": "2026.03.07",
+      "home": {
+        "fouls": 14,
+        "corners": 1,
+        "onTarget": 6,
+        "possession": 42,
+        "freeKicks": 16,
+        "yellowCards": 1,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 2,
+        "onTarget": 8,
+        "possession": 58,
+        "freeKicks": 19,
+        "yellowCards": 4,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 10,
+      "home_team": "부천",
+      "away_team": "대전",
+      "date": "2026.03.07",
+      "home": {
+        "fouls": 8,
+        "corners": 3,
+        "onTarget": 3,
+        "possession": 34,
+        "freeKicks": 9,
+        "yellowCards": 0,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 7,
+        "corners": 5,
+        "onTarget": 5,
+        "possession": 66,
+        "freeKicks": 8,
+        "yellowCards": 0,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 11,
+      "home_team": "김천",
+      "away_team": "전북",
+      "date": "2026.03.08",
+      "home": {
+        "fouls": 8,
+        "corners": 2,
+        "onTarget": 3,
+        "possession": 53,
+        "freeKicks": 8,
+        "yellowCards": 1,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 12,
+        "corners": 2,
+        "onTarget": 3,
+        "possession": 47,
+        "freeKicks": 12,
+        "yellowCards": 2,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 12,
+      "home_team": "안양",
+      "away_team": "제주",
+      "date": "2026.03.08",
+      "home": {
+        "fouls": 10,
+        "corners": 5,
+        "onTarget": 12,
+        "possession": 49,
+        "freeKicks": 15,
+        "yellowCards": 4,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 5
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 4,
+        "onTarget": 4,
+        "possession": 51,
+        "freeKicks": 18,
+        "yellowCards": 1,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      }
+    },
+    {
+      "game_id": 13,
+      "home_team": "광주",
+      "away_team": "전북",
+      "date": "2026.03.14",
+      "home": {
+        "fouls": 20,
+        "corners": 2,
+        "onTarget": 2,
+        "possession": 47,
+        "freeKicks": 22,
+        "yellowCards": 3,
+        "attempts": 3,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 6,
+        "onTarget": 6,
+        "possession": 53,
+        "freeKicks": 15,
+        "yellowCards": 3,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 14,
+      "home_team": "대전",
+      "away_team": "김천",
+      "date": "2026.03.14",
+      "home": {
+        "fouls": 10,
+        "corners": 6,
+        "onTarget": 6,
+        "possession": 55,
+        "freeKicks": 12,
+        "yellowCards": 1,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 5,
+        "onTarget": 3,
+        "possession": 45,
+        "freeKicks": 16,
+        "yellowCards": 2,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 15,
+      "home_team": "부천",
+      "away_team": "울산",
+      "date": "2026.03.15",
+      "home": {
+        "fouls": 15,
+        "corners": 5,
+        "onTarget": 4,
+        "possession": 49,
+        "freeKicks": 17,
+        "yellowCards": 2,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 13,
+        "corners": 4,
+        "onTarget": 6,
+        "possession": 51,
+        "freeKicks": 13,
+        "yellowCards": 1,
+        "attempts": 16,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 16,
+      "home_team": "제주",
+      "away_team": "서울",
+      "date": "2026.03.15",
+      "home": {
+        "fouls": 19,
+        "corners": 2,
+        "onTarget": 2,
+        "possession": 37,
+        "freeKicks": 20,
+        "yellowCards": 1,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 13,
+        "corners": 8,
+        "onTarget": 8,
+        "possession": 63,
+        "freeKicks": 13,
+        "yellowCards": 5,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 17,
+      "home_team": "강원",
+      "away_team": "안양",
+      "date": "2026.03.15",
+      "home": {
+        "fouls": 9,
+        "corners": 14,
+        "onTarget": 5,
+        "possession": 59,
+        "freeKicks": 10,
+        "yellowCards": 1,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 7,
+        "corners": 4,
+        "onTarget": 6,
+        "possession": 41,
+        "freeKicks": 9,
+        "yellowCards": 0,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 1,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 18,
+      "home_team": "포항",
+      "away_team": "인천",
+      "date": "2026.03.15",
+      "home": {
+        "fouls": 12,
+        "corners": 4,
+        "onTarget": 5,
+        "possession": 55,
+        "freeKicks": 17,
+        "yellowCards": 2,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 5
+      },
+      "away": {
+        "fouls": 9,
+        "corners": 3,
+        "onTarget": 5,
+        "possession": 45,
+        "freeKicks": 11,
+        "yellowCards": 2,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 19,
+      "home_team": "김천",
+      "away_team": "광주",
+      "date": "2026.03.17",
+      "home": {
+        "fouls": 15,
+        "corners": 8,
+        "onTarget": 5,
+        "possession": 48,
+        "freeKicks": 15,
+        "yellowCards": 4,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 1,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 18,
+        "corners": 4,
+        "onTarget": 6,
+        "possession": 52,
+        "freeKicks": 18,
+        "yellowCards": 4,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 20,
+      "home_team": "부천",
+      "away_team": "강원",
+      "date": "2026.03.18",
+      "home": {
+        "fouls": 14,
+        "corners": 2,
+        "onTarget": 6,
+        "possession": 40,
+        "freeKicks": 15,
+        "yellowCards": 1,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 18,
+        "corners": 3,
+        "onTarget": 2,
+        "possession": 60,
+        "freeKicks": 21,
+        "yellowCards": 3,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 21,
+      "home_team": "인천",
+      "away_team": "대전",
+      "date": "2026.03.18",
+      "home": {
+        "fouls": 8,
+        "corners": 7,
+        "onTarget": 9,
+        "possession": 50,
+        "freeKicks": 9,
+        "yellowCards": 3,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 2,
+        "onTarget": 5,
+        "possession": 50,
+        "freeKicks": 19,
+        "yellowCards": 3,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 22,
+      "home_team": "제주",
+      "away_team": "울산",
+      "date": "2026.03.18",
+      "home": {
+        "fouls": 12,
+        "corners": 4,
+        "onTarget": 7,
+        "possession": 46,
+        "freeKicks": 12,
+        "yellowCards": 2,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 12,
+        "corners": 8,
+        "onTarget": 5,
+        "possession": 54,
+        "freeKicks": 14,
+        "yellowCards": 2,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 23,
+      "home_team": "전북",
+      "away_team": "안양",
+      "date": "2026.03.18",
+      "home": {
+        "fouls": 9,
+        "corners": 6,
+        "onTarget": 6,
+        "possession": 65,
+        "freeKicks": 10,
+        "yellowCards": 3,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 10,
+        "corners": 3,
+        "onTarget": 3,
+        "possession": 35,
+        "freeKicks": 11,
+        "yellowCards": 2,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 24,
+      "home_team": "포항",
+      "away_team": "서울",
+      "date": "2026.03.18",
+      "home": {
+        "fouls": 18,
+        "corners": 4,
+        "onTarget": 4,
+        "possession": 42,
+        "freeKicks": 19,
+        "yellowCards": 6,
+        "attempts": 5,
+        "doubleYellowCards": 1,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 8,
+        "corners": 6,
+        "onTarget": 4,
+        "possession": 58,
+        "freeKicks": 10,
+        "yellowCards": 0,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 25,
+      "home_team": "대전",
+      "away_team": "전북",
+      "date": "2026.03.21",
+      "home": {
+        "fouls": 11,
+        "corners": 2,
+        "onTarget": 3,
+        "possession": 62,
+        "freeKicks": 12,
+        "yellowCards": 2,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 6,
+        "onTarget": 8,
+        "possession": 38,
+        "freeKicks": 14,
+        "yellowCards": 3,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 26,
+      "home_team": "서울",
+      "away_team": "광주",
+      "date": "2026.03.22",
+      "home": {
+        "fouls": 12,
+        "corners": 2,
+        "onTarget": 8,
+        "possession": 50,
+        "freeKicks": 13,
+        "yellowCards": 1,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 13,
+        "corners": 3,
+        "onTarget": 3,
+        "possession": 50,
+        "freeKicks": 14,
+        "yellowCards": 3,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 27,
+      "home_team": "울산",
+      "away_team": "김천",
+      "date": "2026.03.22",
+      "home": {
+        "fouls": 11,
+        "corners": 4,
+        "onTarget": 9,
+        "possession": 38,
+        "freeKicks": 13,
+        "yellowCards": 0,
+        "attempts": 18,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 21,
+        "corners": 2,
+        "onTarget": 2,
+        "possession": 62,
+        "freeKicks": 21,
+        "yellowCards": 4,
+        "attempts": 4,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 28,
+      "home_team": "안양",
+      "away_team": "인천",
+      "date": "2026.03.22",
+      "home": {
+        "fouls": 15,
+        "corners": 2,
+        "onTarget": 2,
+        "possession": 32,
+        "freeKicks": 17,
+        "yellowCards": 4,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 1,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 6,
+        "corners": 7,
+        "onTarget": 6,
+        "possession": 68,
+        "freeKicks": 7,
+        "yellowCards": 2,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 29,
+      "home_team": "강원",
+      "away_team": "제주",
+      "date": "2026.03.22",
+      "home": {
+        "fouls": 6,
+        "corners": 10,
+        "onTarget": 8,
+        "possession": 71,
+        "freeKicks": 9,
+        "yellowCards": 2,
+        "attempts": 18,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 17,
+        "corners": 3,
+        "onTarget": 5,
+        "possession": 29,
+        "freeKicks": 17,
+        "yellowCards": 1,
+        "attempts": 5,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 30,
+      "home_team": "포항",
+      "away_team": "부천",
+      "date": "2026.03.22",
+      "home": {
+        "fouls": 11,
+        "corners": 7,
+        "onTarget": 1,
+        "possession": 51,
+        "freeKicks": 13,
+        "yellowCards": 2,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 1,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 9,
+        "corners": 4,
+        "onTarget": 4,
+        "possession": 49,
+        "freeKicks": 11,
+        "yellowCards": 1,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    }
+  ]
+}

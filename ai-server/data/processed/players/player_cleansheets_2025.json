@@ -1,0 +1,1887 @@
+{
+  "season": 2025,
+  "league": "K1",
+  "total_games": 225,
+  "games_with_lineup": 225,
+  "total_gks": 68,
+  "players": [
+    {
+      "player_name": "황인재",
+      "team": "포항",
+      "clean_sheets": 8,
+      "cs_home": 8,
+      "cs_away": 0,
+      "games_played": 15,
+      "cs_games": [
+        {
+          "game_id": 14,
+          "date": "2025.03.01",
+          "round": 3,
+          "home": "포항",
+          "away": "대구",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 32,
+          "date": "2025.03.29",
+          "round": 6,
+          "home": "포항",
+          "away": "울산",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 58,
+          "date": "2025.04.27",
+          "round": 10,
+          "home": "포항",
+          "away": "서울",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 73,
+          "date": "2025.05.10",
+          "round": 13,
+          "home": "포항",
+          "away": "수원FC",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 149,
+          "date": "2025.08.10",
+          "round": 25,
+          "home": "포항",
+          "away": "광주",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 180,
+          "date": "2025.09.21",
+          "round": 30,
+          "home": "포항",
+          "away": "제주",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 215,
+          "date": "2025.11.09",
+          "round": 36,
+          "home": "포항",
+          "away": "서울",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 221,
+          "date": "2025.11.22",
+          "round": 37,
+          "home": "포항",
+          "away": "전북",
+          "score": "0-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 1,
+      "cs_rate": 53.3
+    },
+    {
+      "player_name": "조현우",
+      "team": "울산",
+      "clean_sheets": 7,
+      "cs_home": 7,
+      "cs_away": 0,
+      "games_played": 15,
+      "cs_games": [
+        {
+          "game_id": 22,
+          "date": "2025.03.09",
+          "round": 4,
+          "home": "울산",
+          "away": "제주",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 37,
+          "date": "2025.04.05",
+          "round": 7,
+          "home": "울산",
+          "away": "서울",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 61,
+          "date": "2025.05.02",
+          "round": 11,
+          "home": "울산",
+          "away": "광주",
+          "score": "3-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 147,
+          "date": "2025.08.09",
+          "round": 25,
+          "home": "울산",
+          "away": "제주",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 177,
+          "date": "2025.09.21",
+          "round": 30,
+          "home": "울산",
+          "away": "안양",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 193,
+          "date": "2025.10.18",
+          "round": 33,
+          "home": "울산",
+          "away": "광주",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 216,
+          "date": "2025.11.09",
+          "round": 36,
+          "home": "울산",
+          "away": "수원FC",
+          "score": "1-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 2,
+      "cs_rate": 46.7
+    },
+    {
+      "player_name": "김동준",
+      "team": "제주",
+      "clean_sheets": 6,
+      "cs_home": 6,
+      "cs_away": 0,
+      "games_played": 16,
+      "cs_games": [
+        {
+          "game_id": 2,
+          "date": "2025.02.15",
+          "round": 1,
+          "home": "제주",
+          "away": "서울",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 34,
+          "date": "2025.03.30",
+          "round": 6,
+          "home": "제주",
+          "away": "수원FC",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 53,
+          "date": "2025.04.20",
+          "round": 9,
+          "home": "제주",
+          "away": "포항",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 85,
+          "date": "2025.05.23",
+          "round": 15,
+          "home": "제주",
+          "away": "전북",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 131,
+          "date": "2025.07.19",
+          "round": 22,
+          "home": "제주",
+          "away": "안양",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 151,
+          "date": "2025.08.15",
+          "round": 26,
+          "home": "제주",
+          "away": "강원",
+          "score": "0-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 3,
+      "cs_rate": 37.5
+    },
+    {
+      "player_name": "김경민",
+      "team": "광주",
+      "clean_sheets": 6,
+      "cs_home": 6,
+      "cs_away": 0,
+      "games_played": 16,
+      "cs_games": [
+        {
+          "game_id": 42,
+          "date": "2025.04.06",
+          "round": 7,
+          "home": "광주",
+          "away": "제주",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 67,
+          "date": "2025.05.05",
+          "round": 12,
+          "home": "광주",
+          "away": "김천",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 156,
+          "date": "2025.08.17",
+          "round": 26,
+          "home": "광주",
+          "away": "대전",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 200,
+          "date": "2025.10.25",
+          "round": 34,
+          "home": "광주",
+          "away": "안양",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 209,
+          "date": "2025.11.02",
+          "round": 35,
+          "home": "광주",
+          "away": "제주",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 220,
+          "date": "2025.11.22",
+          "round": 37,
+          "home": "광주",
+          "away": "울산",
+          "score": "2-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 4,
+      "cs_rate": 37.5
+    },
+    {
+      "player_name": "송범근",
+      "team": "전북",
+      "clean_sheets": 5,
+      "cs_home": 5,
+      "cs_away": 0,
+      "games_played": 20,
+      "cs_games": [
+        {
+          "game_id": 79,
+          "date": "2025.05.17",
+          "round": 14,
+          "home": "전북",
+          "away": "안양",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 138,
+          "date": "2025.07.23",
+          "round": 23,
+          "home": "전북",
+          "away": "강원",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 153,
+          "date": "2025.08.16",
+          "round": 26,
+          "home": "전북",
+          "away": "대구",
+          "score": "3-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 171,
+          "date": "2025.09.13",
+          "round": 29,
+          "home": "전북",
+          "away": "대전",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 196,
+          "date": "2025.10.18",
+          "round": 33,
+          "home": "전북",
+          "away": "수원FC",
+          "score": "2-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 5,
+      "cs_rate": 25.0
+    },
+    {
+      "player_name": "박청효",
+      "team": "강원",
+      "clean_sheets": 5,
+      "cs_home": 5,
+      "cs_away": 0,
+      "games_played": 9,
+      "cs_games": [
+        {
+          "game_id": 115,
+          "date": "2025.06.21",
+          "round": 20,
+          "home": "강원",
+          "away": "대구",
+          "score": "3-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 148,
+          "date": "2025.08.09",
+          "round": 25,
+          "home": "강원",
+          "away": "김천",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 167,
+          "date": "2025.08.31",
+          "round": 28,
+          "home": "강원",
+          "away": "포항",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 181,
+          "date": "2025.09.27",
+          "round": 31,
+          "home": "강원",
+          "away": "대전",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 228,
+          "date": "2025.11.30",
+          "round": 38,
+          "home": "강원",
+          "away": "포항",
+          "score": "1-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 6,
+      "cs_rate": 55.6
+    },
+    {
+      "player_name": "이창근",
+      "team": "대전",
+      "clean_sheets": 4,
+      "cs_home": 4,
+      "cs_away": 0,
+      "games_played": 14,
+      "cs_games": [
+        {
+          "game_id": 16,
+          "date": "2025.03.02",
+          "round": 3,
+          "home": "대전",
+          "away": "수원FC",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 60,
+          "date": "2025.04.27",
+          "round": 10,
+          "home": "대전",
+          "away": "강원",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 74,
+          "date": "2025.05.10",
+          "round": 13,
+          "home": "대전",
+          "away": "서울",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 113,
+          "date": "2025.06.18",
+          "round": 19,
+          "home": "대전",
+          "away": "김천",
+          "score": "0-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 7,
+      "cs_rate": 28.6
+    },
+    {
+      "player_name": "이광연",
+      "team": "강원",
+      "clean_sheets": 4,
+      "cs_home": 4,
+      "cs_away": 0,
+      "games_played": 10,
+      "cs_games": [
+        {
+          "game_id": 17,
+          "date": "2025.03.02",
+          "round": 3,
+          "home": "강원",
+          "away": "제주",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 46,
+          "date": "2025.04.13",
+          "round": 8,
+          "home": "강원",
+          "away": "광주",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 66,
+          "date": "2025.05.03",
+          "round": 11,
+          "home": "강원",
+          "away": "수원FC",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 205,
+          "date": "2025.11.01",
+          "round": 35,
+          "home": "강원",
+          "away": "전북",
+          "score": "0-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 8,
+      "cs_rate": 40.0
+    },
+    {
+      "player_name": "김동헌",
+      "team": "김천",
+      "clean_sheets": 4,
+      "cs_home": 4,
+      "cs_away": 0,
+      "games_played": 8,
+      "cs_games": [
+        {
+          "game_id": 29,
+          "date": "2025.03.16",
+          "round": 5,
+          "home": "김천",
+          "away": "광주",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 35,
+          "date": "2025.03.30",
+          "round": 6,
+          "home": "김천",
+          "away": "강원",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 38,
+          "date": "2025.04.05",
+          "round": 7,
+          "home": "김천",
+          "away": "대구",
+          "score": "2-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 59,
+          "date": "2025.04.27",
+          "round": 10,
+          "home": "김천",
+          "away": "울산",
+          "score": "2-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 9,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "강현무",
+      "team": "서울",
+      "clean_sheets": 2,
+      "cs_home": 2,
+      "cs_away": 0,
+      "games_played": 14,
+      "cs_games": [
+        {
+          "game_id": 18,
+          "date": "2025.03.03",
+          "round": 3,
+          "home": "서울",
+          "away": "김천",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 132,
+          "date": "2025.07.20",
+          "round": 22,
+          "home": "서울",
+          "away": "울산",
+          "score": "1-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 10,
+      "cs_rate": 14.3
+    },
+    {
+      "player_name": "안준수",
+      "team": "수원FC",
+      "clean_sheets": 2,
+      "cs_home": 2,
+      "cs_away": 0,
+      "games_played": 14,
+      "cs_games": [
+        {
+          "game_id": 19,
+          "date": "2025.03.08",
+          "round": 4,
+          "home": "수원FC",
+          "away": "서울",
+          "score": "0-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 84,
+          "date": "2025.05.18",
+          "round": 14,
+          "home": "수원FC",
+          "away": "대전",
+          "score": "3-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 11,
+      "cs_rate": 14.3
+    },
+    {
+      "player_name": "김다솔",
+      "team": "안양",
+      "clean_sheets": 2,
+      "cs_home": 2,
+      "cs_away": 0,
+      "games_played": 15,
+      "cs_games": [
+        {
+          "game_id": 135,
+          "date": "2025.07.22",
+          "round": 23,
+          "home": "안양",
+          "away": "대구",
+          "score": "4-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 186,
+          "date": "2025.09.28",
+          "round": 31,
+          "home": "안양",
+          "away": "광주",
+          "score": "0-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 12,
+      "cs_rate": 13.3
+    },
+    {
+      "player_name": "이주현",
+      "team": "김천",
+      "clean_sheets": 2,
+      "cs_home": 2,
+      "cs_away": 0,
+      "games_played": 6,
+      "cs_games": [
+        {
+          "game_id": 105,
+          "date": "2025.06.14",
+          "round": 18,
+          "home": "김천",
+          "away": "포항",
+          "score": "1-0",
+          "location": "홈"
+        },
+        {
+          "game_id": 182,
+          "date": "2025.09.27",
+          "round": 31,
+          "home": "김천",
+          "away": "포항",
+          "score": "2-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 13,
+      "cs_rate": 33.3
+    },
+    {
+      "player_name": "노동건",
+      "team": "서울",
+      "clean_sheets": 2,
+      "cs_home": 0,
+      "cs_away": 2,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 19,
+          "date": "2025.03.08",
+          "round": 4,
+          "home": "수원FC",
+          "away": "서울",
+          "score": "0-0",
+          "location": "원정"
+        },
+        {
+          "game_id": 74,
+          "date": "2025.05.10",
+          "round": 13,
+          "home": "대전",
+          "away": "서울",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 14,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "이승빈",
+      "team": "광주",
+      "clean_sheets": 2,
+      "cs_home": 0,
+      "cs_away": 2,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 29,
+          "date": "2025.03.16",
+          "round": 5,
+          "home": "김천",
+          "away": "광주",
+          "score": "0-0",
+          "location": "원정"
+        },
+        {
+          "game_id": 82,
+          "date": "2025.05.18",
+          "round": 14,
+          "home": "포항",
+          "away": "광주",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 15,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "노동건",
+      "team": "전북",
+      "clean_sheets": 2,
+      "cs_home": 0,
+      "cs_away": 2,
+      "games_played": 3,
+      "cs_games": [
+        {
+          "game_id": 36,
+          "date": "2025.03.30",
+          "round": 6,
+          "home": "안양",
+          "away": "전북",
+          "score": "0-1",
+          "location": "원정"
+        },
+        {
+          "game_id": 93,
+          "date": "2025.05.27",
+          "round": 16,
+          "home": "대구",
+          "away": "전북",
+          "score": "0-4",
+          "location": "원정"
+        }
+      ],
+      "rank": 16,
+      "cs_rate": 66.7
+    },
+    {
+      "player_name": "민성준",
+      "team": "대전",
+      "clean_sheets": 2,
+      "cs_home": 0,
+      "cs_away": 2,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 50,
+          "date": "2025.04.19",
+          "round": 9,
+          "home": "김천",
+          "away": "대전",
+          "score": "0-2",
+          "location": "원정"
+        },
+        {
+          "game_id": 227,
+          "date": "2025.11.30",
+          "round": 38,
+          "home": "김천",
+          "away": "대전",
+          "score": "0-3",
+          "location": "원정"
+        }
+      ],
+      "rank": 17,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "김형근",
+      "team": "전북",
+      "clean_sheets": 2,
+      "cs_home": 0,
+      "cs_away": 2,
+      "games_played": 3,
+      "cs_games": [
+        {
+          "game_id": 65,
+          "date": "2025.05.03",
+          "round": 11,
+          "home": "서울",
+          "away": "전북",
+          "score": "0-1",
+          "location": "원정"
+        },
+        {
+          "game_id": 205,
+          "date": "2025.11.01",
+          "round": 35,
+          "home": "강원",
+          "away": "전북",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 18,
+      "cs_rate": 66.7
+    },
+    {
+      "player_name": "김승건",
+      "team": "강원",
+      "clean_sheets": 2,
+      "cs_home": 0,
+      "cs_away": 2,
+      "games_played": 3,
+      "cs_games": [
+        {
+          "game_id": 70,
+          "date": "2025.05.06",
+          "round": 12,
+          "home": "제주",
+          "away": "강원",
+          "score": "0-3",
+          "location": "원정"
+        },
+        {
+          "game_id": 158,
+          "date": "2025.08.23",
+          "round": 27,
+          "home": "광주",
+          "away": "강원",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 19,
+      "cs_rate": 66.7
+    },
+    {
+      "player_name": "문정인",
+      "team": "울산",
+      "clean_sheets": 1,
+      "cs_home": 1,
+      "cs_away": 0,
+      "games_played": 3,
+      "cs_games": [
+        {
+          "game_id": 13,
+          "date": "2025.03.01",
+          "round": 3,
+          "home": "울산",
+          "away": "전북",
+          "score": "1-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 20,
+      "cs_rate": 33.3
+    },
+    {
+      "player_name": "황병근",
+      "team": "안양",
+      "clean_sheets": 1,
+      "cs_home": 1,
+      "cs_away": 0,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 41,
+          "date": "2025.04.06",
+          "round": 7,
+          "home": "안양",
+          "away": "강원",
+          "score": "2-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 21,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "한태희",
+      "team": "대구",
+      "clean_sheets": 1,
+      "cs_home": 1,
+      "cs_away": 0,
+      "games_played": 9,
+      "cs_games": [
+        {
+          "game_id": 212,
+          "date": "2025.11.08",
+          "round": 36,
+          "home": "대구",
+          "away": "광주",
+          "score": "1-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 22,
+      "cs_rate": 11.1
+    },
+    {
+      "player_name": "황재윤",
+      "team": "수원FC",
+      "clean_sheets": 1,
+      "cs_home": 1,
+      "cs_away": 0,
+      "games_played": 5,
+      "cs_games": [
+        {
+          "game_id": 178,
+          "date": "2025.09.21",
+          "round": 30,
+          "home": "수원FC",
+          "away": "강원",
+          "score": "1-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 23,
+      "cs_rate": 20.0
+    },
+    {
+      "player_name": "최철원",
+      "team": "서울",
+      "clean_sheets": 1,
+      "cs_home": 1,
+      "cs_away": 0,
+      "games_played": 5,
+      "cs_games": [
+        {
+          "game_id": 179,
+          "date": "2025.09.21",
+          "round": 30,
+          "home": "서울",
+          "away": "광주",
+          "score": "3-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 24,
+      "cs_rate": 20.0
+    },
+    {
+      "player_name": "이준서",
+      "team": "대전",
+      "clean_sheets": 1,
+      "cs_home": 1,
+      "cs_away": 0,
+      "games_played": 5,
+      "cs_games": [
+        {
+          "game_id": 204,
+          "date": "2025.10.26",
+          "round": 34,
+          "home": "대전",
+          "away": "포항",
+          "score": "2-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 25,
+      "cs_rate": 20.0
+    },
+    {
+      "player_name": "김태훈",
+      "team": "김천",
+      "clean_sheets": 1,
+      "cs_home": 1,
+      "cs_away": 0,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 189,
+          "date": "2025.10.05",
+          "round": 32,
+          "home": "김천",
+          "away": "울산",
+          "score": "3-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 26,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "김경민",
+      "team": "제주",
+      "clean_sheets": 1,
+      "cs_home": 1,
+      "cs_away": 0,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 3,
+          "date": "2025.12.07",
+          "round": 2,
+          "home": "제주",
+          "away": "수원",
+          "score": "2-0",
+          "location": "홈"
+        }
+      ],
+      "rank": 27,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "이승빈",
+      "team": "울산",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 3,
+      "cs_games": [
+        {
+          "game_id": 10,
+          "date": "2025.02.23",
+          "round": 2,
+          "home": "대전",
+          "away": "울산",
+          "score": "0-2",
+          "location": "원정"
+        }
+      ],
+      "rank": 28,
+      "cs_rate": 33.3
+    },
+    {
+      "player_name": "유상훈",
+      "team": "대구",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 14,
+          "date": "2025.03.01",
+          "round": 3,
+          "home": "포항",
+          "away": "대구",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 29,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "김형근",
+      "team": "안양",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 4,
+      "cs_games": [
+        {
+          "game_id": 177,
+          "date": "2025.09.21",
+          "round": 30,
+          "home": "울산",
+          "away": "안양",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 30,
+      "cs_rate": 25.0
+    },
+    {
+      "player_name": "손정현",
+      "team": "제주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 17,
+          "date": "2025.03.02",
+          "round": 3,
+          "home": "강원",
+          "away": "제주",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 31,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "이승빈",
+      "team": "김천",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 18,
+          "date": "2025.03.03",
+          "round": 3,
+          "home": "서울",
+          "away": "김천",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 32,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "손정현",
+      "team": "강원",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 24,
+          "date": "2025.03.09",
+          "round": 4,
+          "home": "전북",
+          "away": "강원",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 33,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "민성준",
+      "team": "제주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 3,
+      "cs_games": [
+        {
+          "game_id": 1,
+          "date": "2025.12.03",
+          "round": 1,
+          "home": "수원",
+          "away": "제주",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 34,
+      "cs_rate": 33.3
+    },
+    {
+      "player_name": "구상민",
+      "team": "서울",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 26,
+          "date": "2025.03.15",
+          "round": 5,
+          "home": "강원",
+          "away": "서울",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 35,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "류원우",
+      "team": "안양",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 27,
+          "date": "2025.03.15",
+          "round": 5,
+          "home": "대구",
+          "away": "안양",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 36,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "김승건",
+      "team": "포항",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 3,
+      "cs_games": [
+        {
+          "game_id": 144,
+          "date": "2025.07.27",
+          "round": 24,
+          "home": "대구",
+          "away": "포항",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 37,
+      "cs_rate": 33.3
+    },
+    {
+      "player_name": "신송훈",
+      "team": "강원",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 4,
+      "cs_games": [
+        {
+          "game_id": 151,
+          "date": "2025.08.15",
+          "round": 26,
+          "home": "제주",
+          "away": "강원",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 38,
+      "cs_rate": 25.0
+    },
+    {
+      "player_name": "양형모",
+      "team": "전북",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 39,
+          "date": "2025.04.05",
+          "round": 7,
+          "home": "대전",
+          "away": "전북",
+          "score": "0-2",
+          "location": "원정"
+        }
+      ],
+      "rank": 39,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "이기현",
+      "team": "서울",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 37,
+          "date": "2025.04.05",
+          "round": 7,
+          "home": "울산",
+          "away": "서울",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 40,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "구상민",
+      "team": "울산",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 48,
+          "date": "2025.04.13",
+          "round": 8,
+          "home": "대구",
+          "away": "울산",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 41,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "양형모",
+      "team": "광주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 4,
+      "cs_games": [
+        {
+          "game_id": 112,
+          "date": "2025.06.18",
+          "round": 19,
+          "home": "제주",
+          "away": "광주",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 42,
+      "cs_rate": 25.0
+    },
+    {
+      "player_name": "허자웅",
+      "team": "울산",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 114,
+          "date": "2025.04.23",
+          "round": 19,
+          "home": "안양",
+          "away": "울산",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 43,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "신송훈",
+      "team": "전북",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 221,
+          "date": "2025.11.22",
+          "round": 37,
+          "home": "포항",
+          "away": "전북",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 44,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "민성준",
+      "team": "수원FC",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 66,
+          "date": "2025.05.03",
+          "round": 11,
+          "home": "강원",
+          "away": "수원FC",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 45,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "류원우",
+      "team": "전북",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 78,
+          "date": "2025.05.11",
+          "round": 13,
+          "home": "광주",
+          "away": "전북",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 46,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "양형모",
+      "team": "김천",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 77,
+          "date": "2025.05.11",
+          "round": 13,
+          "home": "강원",
+          "away": "김천",
+          "score": "0-4",
+          "location": "원정"
+        }
+      ],
+      "rank": 47,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "최봉진",
+      "team": "서울",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 3,
+      "cs_games": [
+        {
+          "game_id": 83,
+          "date": "2025.05.18",
+          "round": 14,
+          "home": "대구",
+          "away": "서울",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 48,
+      "cs_rate": 33.3
+    },
+    {
+      "player_name": "김승건",
+      "team": "전북",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 85,
+          "date": "2025.05.23",
+          "round": 15,
+          "home": "제주",
+          "away": "전북",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 49,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "이승환",
+      "team": "포항",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 86,
+          "date": "2025.05.23",
+          "round": 15,
+          "home": "안양",
+          "away": "포항",
+          "score": "0-2",
+          "location": "원정"
+        }
+      ],
+      "rank": 50,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "민성준",
+      "team": "강원",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 90,
+          "date": "2025.05.25",
+          "round": 15,
+          "home": "광주",
+          "away": "강원",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 51,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "양형모",
+      "team": "제주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 91,
+          "date": "2025.05.27",
+          "round": 16,
+          "home": "수원FC",
+          "away": "제주",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 52,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "이승환",
+      "team": "서울",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 94,
+          "date": "2025.05.28",
+          "round": 16,
+          "home": "김천",
+          "away": "서울",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 53,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "최필수",
+      "team": "전북",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 2,
+      "cs_games": [
+        {
+          "game_id": 103,
+          "date": "2025.06.13",
+          "round": 18,
+          "home": "강원",
+          "away": "전북",
+          "score": "0-3",
+          "location": "원정"
+        }
+      ],
+      "rank": 54,
+      "cs_rate": 50.0
+    },
+    {
+      "player_name": "민성준",
+      "team": "김천",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 113,
+          "date": "2025.06.18",
+          "round": 19,
+          "home": "대전",
+          "away": "김천",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 55,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "신송훈",
+      "team": "대전",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 3,
+      "cs_games": [
+        {
+          "game_id": 181,
+          "date": "2025.09.27",
+          "round": 31,
+          "home": "강원",
+          "away": "대전",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 56,
+      "cs_rate": 33.3
+    },
+    {
+      "player_name": "구성윤",
+      "team": "서울",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 143,
+          "date": "2025.07.27",
+          "round": 24,
+          "home": "대전",
+          "away": "서울",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 57,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "구상민",
+      "team": "김천",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 148,
+          "date": "2025.08.09",
+          "round": 25,
+          "home": "강원",
+          "away": "김천",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 58,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "민성준",
+      "team": "포항",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 152,
+          "date": "2025.08.15",
+          "round": 26,
+          "home": "안양",
+          "away": "포항",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 59,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "구상민",
+      "team": "전북",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 163,
+          "date": "2025.08.30",
+          "round": 28,
+          "home": "울산",
+          "away": "전북",
+          "score": "0-2",
+          "location": "원정"
+        }
+      ],
+      "rank": 60,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "양한빈",
+      "team": "광주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 3,
+      "cs_games": [
+        {
+          "game_id": 165,
+          "date": "2025.08.30",
+          "round": 28,
+          "home": "제주",
+          "away": "광주",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 61,
+      "cs_rate": 33.3
+    },
+    {
+      "player_name": "윤보상",
+      "team": "광주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 186,
+          "date": "2025.09.28",
+          "round": 31,
+          "home": "안양",
+          "away": "광주",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 62,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "양한빈",
+      "team": "포항",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 207,
+          "date": "2025.11.01",
+          "round": 35,
+          "home": "김천",
+          "away": "포항",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 63,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "정진욱",
+      "team": "강원",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 213,
+          "date": "2025.11.08",
+          "round": 36,
+          "home": "김천",
+          "away": "강원",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 64,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "김승건",
+      "team": "서울",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 215,
+          "date": "2025.11.09",
+          "round": 36,
+          "home": "포항",
+          "away": "서울",
+          "score": "0-0",
+          "location": "원정"
+        }
+      ],
+      "rank": 65,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "구성윤",
+      "team": "수원FC",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 217,
+          "date": "2025.11.22",
+          "round": 37,
+          "home": "안양",
+          "away": "수원FC",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 66,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "구성윤",
+      "team": "제주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 225,
+          "date": "2025.11.30",
+          "round": 38,
+          "home": "울산",
+          "away": "제주",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 67,
+      "cs_rate": 100.0
+    },
+    {
+      "player_name": "구상민",
+      "team": "광주",
+      "clean_sheets": 1,
+      "cs_home": 0,
+      "cs_away": 1,
+      "games_played": 1,
+      "cs_games": [
+        {
+          "game_id": 224,
+          "date": "2025.11.30",
+          "round": 38,
+          "home": "수원FC",
+          "away": "광주",
+          "score": "0-1",
+          "location": "원정"
+        }
+      ],
+      "rank": 68,
+      "cs_rate": 100.0
+    }
+  ]
+}

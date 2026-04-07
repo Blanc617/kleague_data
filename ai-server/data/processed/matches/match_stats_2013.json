@@ -1,0 +1,7988 @@
+{
+  "season": 2013,
+  "source": "kleague_official",
+  "crawled_at": "2026-03-28 16:05",
+  "total_games": 266,
+  "stats": [
+    {
+      "game_id": 1,
+      "home_team": "서울",
+      "away_team": "포항",
+      "date": "2013.03.02",
+      "home": {
+        "fouls": 11,
+        "corners": 4,
+        "onTarget": 7,
+        "possession": 55,
+        "freeKicks": 14,
+        "yellowCards": 0,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 20,
+        "corners": 2,
+        "onTarget": 4,
+        "possession": 45,
+        "freeKicks": 21,
+        "yellowCards": 4,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 2,
+      "home_team": "울산",
+      "away_team": "대구",
+      "date": "2013.03.02",
+      "home": {
+        "fouls": 11,
+        "corners": 7,
+        "onTarget": 4,
+        "possession": 58,
+        "freeKicks": 14,
+        "yellowCards": 1,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 24,
+        "corners": 1,
+        "onTarget": 4,
+        "possession": 42,
+        "freeKicks": 25,
+        "yellowCards": 3,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 3,
+      "home_team": "전남",
+      "away_team": "제주",
+      "date": "2013.03.02",
+      "home": {
+        "fouls": 7,
+        "corners": 3,
+        "onTarget": 8,
+        "possession": 47,
+        "freeKicks": 10,
+        "yellowCards": 0,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 11,
+        "corners": 0,
+        "onTarget": 4,
+        "possession": 53,
+        "freeKicks": 13,
+        "yellowCards": 1,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 4,
+      "home_team": "성남",
+      "away_team": "수원",
+      "date": "2013.03.03",
+      "home": {
+        "fouls": 22,
+        "corners": 3,
+        "onTarget": 6,
+        "possession": 47,
+        "freeKicks": 25,
+        "yellowCards": 3,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 4,
+        "onTarget": 7,
+        "possession": 53,
+        "freeKicks": 17,
+        "yellowCards": 2,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 5,
+      "home_team": "인천",
+      "away_team": "경남",
+      "date": "2013.03.03",
+      "home": {
+        "fouls": 24,
+        "corners": 7,
+        "onTarget": 5,
+        "possession": 50,
+        "freeKicks": 24,
+        "yellowCards": 2,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 26,
+        "corners": 1,
+        "onTarget": 1,
+        "possession": 50,
+        "freeKicks": 28,
+        "yellowCards": 2,
+        "attempts": 4,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 6,
+      "home_team": "부산",
+      "away_team": "강원",
+      "date": "2013.03.03",
+      "home": {
+        "fouls": 21,
+        "corners": 6,
+        "onTarget": 7,
+        "possession": 52,
+        "freeKicks": 24,
+        "yellowCards": 2,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 19,
+        "corners": 3,
+        "onTarget": 3,
+        "possession": 48,
+        "freeKicks": 21,
+        "yellowCards": 4,
+        "attempts": 4,
+        "doubleYellowCards": 0,
+        "redCards": 1,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 7,
+      "home_team": "대전",
+      "away_team": "전북",
+      "date": "2013.03.03",
+      "home": {
+        "fouls": 14,
+        "corners": 3,
+        "onTarget": 7,
+        "possession": 41,
+        "freeKicks": 15,
+        "yellowCards": 2,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 22,
+        "corners": 3,
+        "onTarget": 6,
+        "possession": 59,
+        "freeKicks": 22,
+        "yellowCards": 2,
+        "attempts": 16,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 8,
+      "home_team": "포항",
+      "away_team": "대전",
+      "date": "2013.03.09",
+      "home": {
+        "fouls": 14,
+        "corners": 5,
+        "onTarget": 8,
+        "possession": 53,
+        "freeKicks": 19,
+        "yellowCards": 3,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 5
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 4,
+        "onTarget": 3,
+        "possession": 47,
+        "freeKicks": 16,
+        "yellowCards": 1,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 9,
+      "home_team": "서울",
+      "away_team": "인천",
+      "date": "2013.03.09",
+      "home": {
+        "fouls": 12,
+        "corners": 9,
+        "onTarget": 14,
+        "possession": 57,
+        "freeKicks": 15,
+        "yellowCards": 2,
+        "attempts": 19,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 3,
+        "onTarget": 5,
+        "possession": 43,
+        "freeKicks": 21,
+        "yellowCards": 4,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 5
+      }
+    },
+    {
+      "game_id": 10,
+      "home_team": "수원",
+      "away_team": "강원",
+      "date": "2013.03.09",
+      "home": {
+        "fouls": 12,
+        "corners": 4,
+        "onTarget": 8,
+        "possession": 52,
+        "freeKicks": 13,
+        "yellowCards": 2,
+        "attempts": 19,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 1,
+        "onTarget": 3,
+        "possession": 48,
+        "freeKicks": 18,
+        "yellowCards": 1,
+        "attempts": 5,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 11,
+      "home_team": "제주",
+      "away_team": "성남",
+      "date": "2013.03.09",
+      "home": {
+        "fouls": 10,
+        "corners": 6,
+        "onTarget": 1,
+        "possession": 61,
+        "freeKicks": 10,
+        "yellowCards": 2,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 18,
+        "corners": 5,
+        "onTarget": 6,
+        "possession": 39,
+        "freeKicks": 18,
+        "yellowCards": 1,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 12,
+      "home_team": "전북",
+      "away_team": "울산",
+      "date": "2013.03.09",
+      "home": {
+        "fouls": 18,
+        "corners": 3,
+        "onTarget": 5,
+        "possession": 46,
+        "freeKicks": 20,
+        "yellowCards": 4,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 4,
+        "onTarget": 7,
+        "possession": 54,
+        "freeKicks": 17,
+        "yellowCards": 3,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 13,
+      "home_team": "경남",
+      "away_team": "부산",
+      "date": "2013.03.10",
+      "home": {
+        "fouls": 15,
+        "corners": 7,
+        "onTarget": 7,
+        "possession": 48,
+        "freeKicks": 19,
+        "yellowCards": 0,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 1,
+        "onTarget": 1,
+        "possession": 52,
+        "freeKicks": 18,
+        "yellowCards": 2,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 14,
+      "home_team": "대구",
+      "away_team": "전남",
+      "date": "2013.03.10",
+      "home": {
+        "fouls": 22,
+        "corners": 2,
+        "onTarget": 3,
+        "possession": 57,
+        "freeKicks": 25,
+        "yellowCards": 4,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 19,
+        "corners": 5,
+        "onTarget": 3,
+        "possession": 43,
+        "freeKicks": 19,
+        "yellowCards": 0,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 1,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 15,
+      "home_team": "대전",
+      "away_team": "제주",
+      "date": "2013.03.16",
+      "home": {
+        "fouls": 11,
+        "corners": 4,
+        "onTarget": 2,
+        "possession": 40,
+        "freeKicks": 12,
+        "yellowCards": 0,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 13,
+        "corners": 10,
+        "onTarget": 8,
+        "possession": 60,
+        "freeKicks": 17,
+        "yellowCards": 2,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      }
+    },
+    {
+      "game_id": 16,
+      "home_team": "성남",
+      "away_team": "인천",
+      "date": "2013.03.16",
+      "home": {
+        "fouls": 25,
+        "corners": 2,
+        "onTarget": 7,
+        "possession": 56,
+        "freeKicks": 28,
+        "yellowCards": 5,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 3,
+        "onTarget": 6,
+        "possession": 44,
+        "freeKicks": 18,
+        "yellowCards": 2,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 17,
+      "home_team": "강원",
+      "away_team": "대구",
+      "date": "2013.03.16",
+      "home": {
+        "fouls": 24,
+        "corners": 0,
+        "onTarget": 3,
+        "possession": 52,
+        "freeKicks": 25,
+        "yellowCards": 3,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 20,
+        "corners": 4,
+        "onTarget": 7,
+        "possession": 48,
+        "freeKicks": 22,
+        "yellowCards": 2,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 18,
+      "home_team": "경남",
+      "away_team": "전북",
+      "date": "2013.03.16",
+      "home": {
+        "fouls": 20,
+        "corners": 7,
+        "onTarget": 4,
+        "possession": 47,
+        "freeKicks": 22,
+        "yellowCards": 3,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 1,
+        "onTarget": 2,
+        "possession": 53,
+        "freeKicks": 15,
+        "yellowCards": 2,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 19,
+      "home_team": "부산",
+      "away_team": "서울",
+      "date": "2013.03.17",
+      "home": {
+        "fouls": 21,
+        "corners": 1,
+        "onTarget": 3,
+        "possession": 44,
+        "freeKicks": 27,
+        "yellowCards": 6,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 6
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 4,
+        "onTarget": 3,
+        "possession": 56,
+        "freeKicks": 18,
+        "yellowCards": 2,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 20,
+      "home_team": "전남",
+      "away_team": "울산",
+      "date": "2013.03.17",
+      "home": {
+        "fouls": 7,
+        "corners": 3,
+        "onTarget": 3,
+        "possession": 47,
+        "freeKicks": 7,
+        "yellowCards": 1,
+        "attempts": 5,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 13,
+        "corners": 5,
+        "onTarget": 6,
+        "possession": 53,
+        "freeKicks": 16,
+        "yellowCards": 3,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 21,
+      "home_team": "수원",
+      "away_team": "포항",
+      "date": "2013.03.17",
+      "home": {
+        "fouls": 6,
+        "corners": 4,
+        "onTarget": 11,
+        "possession": 53,
+        "freeKicks": 10,
+        "yellowCards": 1,
+        "attempts": 17,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 2,
+        "onTarget": 8,
+        "possession": 47,
+        "freeKicks": 18,
+        "yellowCards": 2,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 22,
+      "home_team": "서울",
+      "away_team": "경남",
+      "date": "2013.03.30",
+      "home": {
+        "fouls": 7,
+        "corners": 11,
+        "onTarget": 9,
+        "possession": 62,
+        "freeKicks": 10,
+        "yellowCards": 1,
+        "attempts": 19,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 9,
+        "corners": 6,
+        "onTarget": 3,
+        "possession": 38,
+        "freeKicks": 11,
+        "yellowCards": 0,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 1,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 23,
+      "home_team": "전북",
+      "away_team": "수원",
+      "date": "2013.03.30",
+      "home": {
+        "fouls": 11,
+        "corners": 9,
+        "onTarget": 9,
+        "possession": 64,
+        "freeKicks": 11,
+        "yellowCards": 1,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 29,
+        "corners": 3,
+        "onTarget": 3,
+        "possession": 36,
+        "freeKicks": 32,
+        "yellowCards": 5,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 24,
+      "home_team": "제주",
+      "away_team": "부산",
+      "date": "2013.03.30",
+      "home": {
+        "fouls": 14,
+        "corners": 4,
+        "onTarget": 8,
+        "possession": 53,
+        "freeKicks": 16,
+        "yellowCards": 3,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 2,
+        "onTarget": 6,
+        "possession": 47,
+        "freeKicks": 16,
+        "yellowCards": 0,
+        "attempts": 19,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 25,
+      "home_team": "대구",
+      "away_team": "성남",
+      "date": "2013.03.30",
+      "home": {
+        "fouls": 22,
+        "corners": 6,
+        "onTarget": 2,
+        "possession": 47,
+        "freeKicks": 25,
+        "yellowCards": 2,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 17,
+        "corners": 4,
+        "onTarget": 3,
+        "possession": 53,
+        "freeKicks": 18,
+        "yellowCards": 4,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 26,
+      "home_team": "포항",
+      "away_team": "전남",
+      "date": "2013.03.30",
+      "home": {
+        "fouls": 20,
+        "corners": 7,
+        "onTarget": 9,
+        "possession": 56,
+        "freeKicks": 21,
+        "yellowCards": 4,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 11,
+        "corners": 2,
+        "onTarget": 1,
+        "possession": 44,
+        "freeKicks": 12,
+        "yellowCards": 2,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 27,
+      "home_team": "울산",
+      "away_team": "강원",
+      "date": "2013.03.31",
+      "home": {
+        "fouls": 11,
+        "corners": 2,
+        "onTarget": 7,
+        "possession": 48,
+        "freeKicks": 14,
+        "yellowCards": 1,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 9,
+        "corners": 4,
+        "onTarget": 4,
+        "possession": 52,
+        "freeKicks": 10,
+        "yellowCards": 1,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 28,
+      "home_team": "인천",
+      "away_team": "대전",
+      "date": "2013.03.31",
+      "home": {
+        "fouls": 16,
+        "corners": 9,
+        "onTarget": 10,
+        "possession": 64,
+        "freeKicks": 22,
+        "yellowCards": 3,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 6
+      },
+      "away": {
+        "fouls": 20,
+        "corners": 1,
+        "onTarget": 3,
+        "possession": 36,
+        "freeKicks": 21,
+        "yellowCards": 4,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 29,
+      "home_team": "포항",
+      "away_team": "인천",
+      "date": "2013.04.06",
+      "home": {
+        "fouls": 21,
+        "corners": 7,
+        "onTarget": 5,
+        "possession": 53,
+        "freeKicks": 22,
+        "yellowCards": 3,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 13,
+        "corners": 2,
+        "onTarget": 3,
+        "possession": 47,
+        "freeKicks": 17,
+        "yellowCards": 1,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      }
+    },
+    {
+      "game_id": 30,
+      "home_team": "수원",
+      "away_team": "대구",
+      "date": "2013.04.06",
+      "home": {
+        "fouls": 25,
+        "corners": 3,
+        "onTarget": 11,
+        "possession": 48,
+        "freeKicks": 29,
+        "yellowCards": 6,
+        "attempts": 15,
+        "doubleYellowCards": 1,
+        "redCards": 0,
+        "offsides": 4
+      },
+      "away": {
+        "fouls": 19,
+        "corners": 4,
+        "onTarget": 7,
+        "possession": 52,
+        "freeKicks": 22,
+        "yellowCards": 2,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 31,
+      "home_team": "전북",
+      "away_team": "제주",
+      "date": "2013.04.06",
+      "home": {
+        "fouls": 11,
+        "corners": 3,
+        "onTarget": 13,
+        "possession": 51,
+        "freeKicks": 13,
+        "yellowCards": 2,
+        "attempts": 18,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 11,
+        "corners": 10,
+        "onTarget": 6,
+        "possession": 49,
+        "freeKicks": 12,
+        "yellowCards": 3,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 32,
+      "home_team": "서울",
+      "away_team": "울산",
+      "date": "2013.04.06",
+      "home": {
+        "fouls": 18,
+        "corners": 3,
+        "onTarget": 7,
+        "possession": 56,
+        "freeKicks": 19,
+        "yellowCards": 3,
+        "attempts": 19,
+        "doubleYellowCards": 1,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 25,
+        "corners": 4,
+        "onTarget": 6,
+        "possession": 44,
+        "freeKicks": 30,
+        "yellowCards": 3,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 5
+      }
+    },
+    {
+      "game_id": 33,
+      "home_team": "대전",
+      "away_team": "경남",
+      "date": "2013.04.07",
+      "home": {
+        "fouls": 17,
+        "corners": 3,
+        "onTarget": 4,
+        "possession": 45,
+        "freeKicks": 17,
+        "yellowCards": 1,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 22,
+        "corners": 5,
+        "onTarget": 6,
+        "possession": 55,
+        "freeKicks": 24,
+        "yellowCards": 3,
+        "attempts": 19,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 34,
+      "home_team": "부산",
+      "away_team": "성남",
+      "date": "2013.04.07",
+      "home": {
+        "fouls": 12,
+        "corners": 1,
+        "onTarget": 1,
+        "possession": 39,
+        "freeKicks": 14,
+        "yellowCards": 1,
+        "attempts": 3,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 4,
+        "onTarget": 1,
+        "possession": 61,
+        "freeKicks": 19,
+        "yellowCards": 1,
+        "attempts": 5,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 35,
+      "home_team": "강원",
+      "away_team": "전남",
+      "date": "2013.04.07",
+      "home": {
+        "fouls": 18,
+        "corners": 5,
+        "onTarget": 5,
+        "possession": 49,
+        "freeKicks": 23,
+        "yellowCards": 3,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 5
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 9,
+        "onTarget": 5,
+        "possession": 51,
+        "freeKicks": 20,
+        "yellowCards": 5,
+        "attempts": 16,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 5
+      }
+    },
+    {
+      "game_id": 36,
+      "home_team": "경남",
+      "away_team": "포항",
+      "date": "2013.04.13",
+      "home": {
+        "fouls": 19,
+        "corners": 8,
+        "onTarget": 4,
+        "possession": 47,
+        "freeKicks": 19,
+        "yellowCards": 3,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 12,
+        "corners": 7,
+        "onTarget": 3,
+        "possession": 53,
+        "freeKicks": 12,
+        "yellowCards": 3,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 37,
+      "home_team": "제주",
+      "away_team": "강원",
+      "date": "2013.04.13",
+      "home": {
+        "fouls": 23,
+        "corners": 3,
+        "onTarget": 10,
+        "possession": 52,
+        "freeKicks": 27,
+        "yellowCards": 2,
+        "attempts": 18,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      },
+      "away": {
+        "fouls": 17,
+        "corners": 9,
+        "onTarget": 5,
+        "possession": 48,
+        "freeKicks": 21,
+        "yellowCards": 1,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      }
+    },
+    {
+      "game_id": 38,
+      "home_team": "전남",
+      "away_team": "대전",
+      "date": "2013.04.13",
+      "home": {
+        "fouls": 15,
+        "corners": 3,
+        "onTarget": 6,
+        "possession": 51,
+        "freeKicks": 17,
+        "yellowCards": 3,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 18,
+        "corners": 7,
+        "onTarget": 1,
+        "possession": 49,
+        "freeKicks": 19,
+        "yellowCards": 8,
+        "attempts": 4,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 39,
+      "home_team": "대구",
+      "away_team": "인천",
+      "date": "2013.04.13",
+      "home": {
+        "fouls": 19,
+        "corners": 6,
+        "onTarget": 6,
+        "possession": 51,
+        "freeKicks": 21,
+        "yellowCards": 2,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 31,
+        "corners": 3,
+        "onTarget": 6,
+        "possession": 49,
+        "freeKicks": 32,
+        "yellowCards": 1,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 40,
+      "home_team": "울산",
+      "away_team": "부산",
+      "date": "2013.04.13",
+      "home": {
+        "fouls": 16,
+        "corners": 10,
+        "onTarget": 2,
+        "possession": 57,
+        "freeKicks": 18,
+        "yellowCards": 1,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 19,
+        "corners": 9,
+        "onTarget": 3,
+        "possession": 43,
+        "freeKicks": 21,
+        "yellowCards": 3,
+        "attempts": 8,
+        "doubleYellowCards": 1,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 41,
+      "home_team": "수원",
+      "away_team": "서울",
+      "date": "2013.04.14",
+      "home": {
+        "fouls": 18,
+        "corners": 3,
+        "onTarget": 6,
+        "possession": 48,
+        "freeKicks": 24,
+        "yellowCards": 6,
+        "attempts": 9,
+        "doubleYellowCards": 1,
+        "redCards": 0,
+        "offsides": 6
+      },
+      "away": {
+        "fouls": 21,
+        "corners": 3,
+        "onTarget": 3,
+        "possession": 52,
+        "freeKicks": 24,
+        "yellowCards": 3,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 42,
+      "home_team": "성남",
+      "away_team": "전북",
+      "date": "2013.04.14",
+      "home": {
+        "fouls": 23,
+        "corners": 2,
+        "onTarget": 4,
+        "possession": 38,
+        "freeKicks": 25,
+        "yellowCards": 1,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 11,
+        "corners": 3,
+        "onTarget": 10,
+        "possession": 62,
+        "freeKicks": 14,
+        "yellowCards": 2,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 1,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 43,
+      "home_team": "강원",
+      "away_team": "포항",
+      "date": "2013.04.16",
+      "home": {
+        "fouls": 20,
+        "corners": 6,
+        "onTarget": 3,
+        "possession": 54,
+        "freeKicks": 24,
+        "yellowCards": 1,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 2,
+        "onTarget": 7,
+        "possession": 46,
+        "freeKicks": 21,
+        "yellowCards": 1,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 5
+      }
+    },
+    {
+      "game_id": 44,
+      "home_team": "제주",
+      "away_team": "경남",
+      "date": "2013.05.01",
+      "home": {
+        "fouls": 17,
+        "corners": 6,
+        "onTarget": 7,
+        "possession": 54,
+        "freeKicks": 19,
+        "yellowCards": 1,
+        "attempts": 17,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 23,
+        "corners": 5,
+        "onTarget": 6,
+        "possession": 46,
+        "freeKicks": 25,
+        "yellowCards": 5,
+        "attempts": 14,
+        "doubleYellowCards": 1,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 45,
+      "home_team": "인천",
+      "away_team": "전남",
+      "date": "2013.04.16",
+      "home": {
+        "fouls": 15,
+        "corners": 7,
+        "onTarget": 12,
+        "possession": 62,
+        "freeKicks": 16,
+        "yellowCards": 2,
+        "attempts": 16,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 12,
+        "corners": 3,
+        "onTarget": 3,
+        "possession": 38,
+        "freeKicks": 12,
+        "yellowCards": 4,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 46,
+      "home_team": "전북",
+      "away_team": "대구",
+      "date": "2013.04.17",
+      "home": {
+        "fouls": 9,
+        "corners": 4,
+        "onTarget": 10,
+        "possession": 56,
+        "freeKicks": 11,
+        "yellowCards": 1,
+        "attempts": 16,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 27,
+        "corners": 0,
+        "onTarget": 4,
+        "possession": 44,
+        "freeKicks": 27,
+        "yellowCards": 3,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 47,
+      "home_team": "성남",
+      "away_team": "서울",
+      "date": "2013.04.17",
+      "home": {
+        "fouls": 15,
+        "corners": 2,
+        "onTarget": 9,
+        "possession": 39,
+        "freeKicks": 19,
+        "yellowCards": 2,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      },
+      "away": {
+        "fouls": 8,
+        "corners": 5,
+        "onTarget": 6,
+        "possession": 61,
+        "freeKicks": 10,
+        "yellowCards": 0,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 48,
+      "home_team": "대전",
+      "away_team": "울산",
+      "date": "2013.04.17",
+      "home": {
+        "fouls": 12,
+        "corners": 7,
+        "onTarget": 2,
+        "possession": 49,
+        "freeKicks": 14,
+        "yellowCards": 1,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 4,
+        "onTarget": 7,
+        "possession": 51,
+        "freeKicks": 16,
+        "yellowCards": 2,
+        "attempts": 18,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 49,
+      "home_team": "부산",
+      "away_team": "수원",
+      "date": "2013.04.17",
+      "home": {
+        "fouls": 13,
+        "corners": 4,
+        "onTarget": 4,
+        "possession": 57,
+        "freeKicks": 18,
+        "yellowCards": 4,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 5
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 1,
+        "onTarget": 3,
+        "possession": 43,
+        "freeKicks": 18,
+        "yellowCards": 2,
+        "attempts": 5,
+        "doubleYellowCards": 1,
+        "redCards": 0,
+        "offsides": 4
+      }
+    },
+    {
+      "game_id": 50,
+      "home_team": "포항",
+      "away_team": "제주",
+      "date": "2013.04.20",
+      "home": {
+        "fouls": 11,
+        "corners": 4,
+        "onTarget": 5,
+        "possession": 49,
+        "freeKicks": 11,
+        "yellowCards": 1,
+        "attempts": 17,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 11,
+        "corners": 4,
+        "onTarget": 2,
+        "possession": 51,
+        "freeKicks": 13,
+        "yellowCards": 2,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 51,
+      "home_team": "서울",
+      "away_team": "대구",
+      "date": "2013.04.20",
+      "home": {
+        "fouls": 14,
+        "corners": 5,
+        "onTarget": 8,
+        "possession": 45,
+        "freeKicks": 15,
+        "yellowCards": 3,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 18,
+        "corners": 2,
+        "onTarget": 4,
+        "possession": 55,
+        "freeKicks": 24,
+        "yellowCards": 3,
+        "attempts": 17,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 6
+      }
+    },
+    {
+      "game_id": 52,
+      "home_team": "대전",
+      "away_team": "수원",
+      "date": "2013.04.20",
+      "home": {
+        "fouls": 12,
+        "corners": 5,
+        "onTarget": 5,
+        "possession": 54,
+        "freeKicks": 16,
+        "yellowCards": 2,
+        "attempts": 16,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      },
+      "away": {
+        "fouls": 26,
+        "corners": 8,
+        "onTarget": 7,
+        "possession": 46,
+        "freeKicks": 27,
+        "yellowCards": 2,
+        "attempts": 18,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 53,
+      "home_team": "인천",
+      "away_team": "전북",
+      "date": "2013.04.20",
+      "home": {
+        "fouls": 22,
+        "corners": 3,
+        "onTarget": 6,
+        "possession": 50,
+        "freeKicks": 24,
+        "yellowCards": 2,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 4,
+        "onTarget": 5,
+        "possession": 50,
+        "freeKicks": 15,
+        "yellowCards": 4,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 54,
+      "home_team": "경남",
+      "away_team": "강원",
+      "date": "2013.04.21",
+      "home": {
+        "fouls": 18,
+        "corners": 2,
+        "onTarget": 4,
+        "possession": 57,
+        "freeKicks": 18,
+        "yellowCards": 0,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 21,
+        "corners": 3,
+        "onTarget": 3,
+        "possession": 43,
+        "freeKicks": 23,
+        "yellowCards": 2,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 55,
+      "home_team": "전남",
+      "away_team": "부산",
+      "date": "2013.04.21",
+      "home": {
+        "fouls": 12,
+        "corners": 4,
+        "onTarget": 4,
+        "possession": 53,
+        "freeKicks": 13,
+        "yellowCards": 1,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 18,
+        "corners": 3,
+        "onTarget": 4,
+        "possession": 47,
+        "freeKicks": 18,
+        "yellowCards": 4,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 56,
+      "home_team": "울산",
+      "away_team": "성남",
+      "date": "2013.04.21",
+      "home": {
+        "fouls": 19,
+        "corners": 2,
+        "onTarget": 3,
+        "possession": 43,
+        "freeKicks": 20,
+        "yellowCards": 2,
+        "attempts": 9,
+        "doubleYellowCards": 1,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 17,
+        "corners": 3,
+        "onTarget": 7,
+        "possession": 57,
+        "freeKicks": 20,
+        "yellowCards": 4,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 57,
+      "home_team": "전북",
+      "away_team": "포항",
+      "date": "2013.04.27",
+      "home": {
+        "fouls": 19,
+        "corners": 4,
+        "onTarget": 5,
+        "possession": 52,
+        "freeKicks": 22,
+        "yellowCards": 2,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 28,
+        "corners": 0,
+        "onTarget": 6,
+        "possession": 48,
+        "freeKicks": 30,
+        "yellowCards": 2,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 58,
+      "home_team": "성남",
+      "away_team": "전남",
+      "date": "2013.04.27",
+      "home": {
+        "fouls": 11,
+        "corners": 5,
+        "onTarget": 6,
+        "possession": 60,
+        "freeKicks": 13,
+        "yellowCards": 3,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 0,
+        "onTarget": 4,
+        "possession": 40,
+        "freeKicks": 19,
+        "yellowCards": 1,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 59,
+      "home_team": "대구",
+      "away_team": "제주",
+      "date": "2013.04.27",
+      "home": {
+        "fouls": 22,
+        "corners": 4,
+        "onTarget": 3,
+        "possession": 50,
+        "freeKicks": 22,
+        "yellowCards": 3,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 4,
+        "onTarget": 2,
+        "possession": 50,
+        "freeKicks": 16,
+        "yellowCards": 2,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 60,
+      "home_team": "수원",
+      "away_team": "경남",
+      "date": "2013.06.01",
+      "home": {
+        "fouls": 15,
+        "corners": 7,
+        "onTarget": 5,
+        "possession": 56,
+        "freeKicks": 19,
+        "yellowCards": 1,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 5,
+        "onTarget": 3,
+        "possession": 44,
+        "freeKicks": 18,
+        "yellowCards": 2,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 61,
+      "home_team": "울산",
+      "away_team": "인천",
+      "date": "2013.04.28",
+      "home": {
+        "fouls": 11,
+        "corners": 2,
+        "onTarget": 4,
+        "possession": 50,
+        "freeKicks": 12,
+        "yellowCards": 3,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 11,
+        "corners": 6,
+        "onTarget": 6,
+        "possession": 50,
+        "freeKicks": 13,
+        "yellowCards": 0,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 62,
+      "home_team": "부산",
+      "away_team": "대전",
+      "date": "2013.04.28",
+      "home": {
+        "fouls": 16,
+        "corners": 2,
+        "onTarget": 4,
+        "possession": 51,
+        "freeKicks": 22,
+        "yellowCards": 3,
+        "attempts": 9,
+        "doubleYellowCards": 1,
+        "redCards": 0,
+        "offsides": 6
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 2,
+        "onTarget": 5,
+        "possession": 49,
+        "freeKicks": 15,
+        "yellowCards": 0,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 63,
+      "home_team": "서울",
+      "away_team": "강원",
+      "date": "2013.04.28",
+      "home": {
+        "fouls": 15,
+        "corners": 7,
+        "onTarget": 13,
+        "possession": 62,
+        "freeKicks": 17,
+        "yellowCards": 4,
+        "attempts": 19,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 13,
+        "corners": 2,
+        "onTarget": 4,
+        "possession": 38,
+        "freeKicks": 18,
+        "yellowCards": 2,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 5
+      }
+    },
+    {
+      "game_id": 64,
+      "home_team": "전북",
+      "away_team": "서울",
+      "date": "2013.05.05",
+      "home": {
+        "fouls": 14,
+        "corners": 2,
+        "onTarget": 8,
+        "possession": 38,
+        "freeKicks": 15,
+        "yellowCards": 3,
+        "attempts": 12,
+        "doubleYellowCards": 1,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 19,
+        "corners": 9,
+        "onTarget": 5,
+        "possession": 62,
+        "freeKicks": 19,
+        "yellowCards": 2,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 65,
+      "home_team": "경남",
+      "away_team": "전남",
+      "date": "2013.05.05",
+      "home": {
+        "fouls": 12,
+        "corners": 11,
+        "onTarget": 2,
+        "possession": 52,
+        "freeKicks": 13,
+        "yellowCards": 2,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 3,
+        "onTarget": 5,
+        "possession": 48,
+        "freeKicks": 16,
+        "yellowCards": 3,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 66,
+      "home_team": "수원",
+      "away_team": "인천",
+      "date": "2013.05.05",
+      "home": {
+        "fouls": 15,
+        "corners": 5,
+        "onTarget": 5,
+        "possession": 48,
+        "freeKicks": 16,
+        "yellowCards": 1,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 17,
+        "corners": 5,
+        "onTarget": 3,
+        "possession": 52,
+        "freeKicks": 20,
+        "yellowCards": 4,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 67,
+      "home_team": "강원",
+      "away_team": "대전",
+      "date": "2013.05.05",
+      "home": {
+        "fouls": 24,
+        "corners": 4,
+        "onTarget": 3,
+        "possession": 48,
+        "freeKicks": 29,
+        "yellowCards": 2,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 5
+      },
+      "away": {
+        "fouls": 18,
+        "corners": 3,
+        "onTarget": 5,
+        "possession": 52,
+        "freeKicks": 20,
+        "yellowCards": 1,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 68,
+      "home_team": "제주",
+      "away_team": "울산",
+      "date": "2013.05.05",
+      "home": {
+        "fouls": 18,
+        "corners": 4,
+        "onTarget": 5,
+        "possession": 46,
+        "freeKicks": 19,
+        "yellowCards": 2,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 2,
+        "onTarget": 2,
+        "possession": 54,
+        "freeKicks": 17,
+        "yellowCards": 1,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 69,
+      "home_team": "대구",
+      "away_team": "부산",
+      "date": "2013.05.05",
+      "home": {
+        "fouls": 17,
+        "corners": 5,
+        "onTarget": 1,
+        "possession": 54,
+        "freeKicks": 18,
+        "yellowCards": 0,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 13,
+        "corners": 0,
+        "onTarget": 4,
+        "possession": 46,
+        "freeKicks": 15,
+        "yellowCards": 1,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 70,
+      "home_team": "포항",
+      "away_team": "성남",
+      "date": "2013.05.05",
+      "home": {
+        "fouls": 17,
+        "corners": 1,
+        "onTarget": 6,
+        "possession": 48,
+        "freeKicks": 20,
+        "yellowCards": 3,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 23,
+        "corners": 3,
+        "onTarget": 0,
+        "possession": 52,
+        "freeKicks": 24,
+        "yellowCards": 2,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 71,
+      "home_team": "부산",
+      "away_team": "포항",
+      "date": "2013.05.11",
+      "home": {
+        "fouls": 8,
+        "corners": 0,
+        "onTarget": 4,
+        "possession": 34,
+        "freeKicks": 12,
+        "yellowCards": 2,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 10,
+        "onTarget": 4,
+        "possession": 66,
+        "freeKicks": 16,
+        "yellowCards": 1,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 72,
+      "home_team": "울산",
+      "away_team": "수원",
+      "date": "2013.05.11",
+      "home": {
+        "fouls": 10,
+        "corners": 5,
+        "onTarget": 5,
+        "possession": 55,
+        "freeKicks": 11,
+        "yellowCards": 1,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 5,
+        "onTarget": 6,
+        "possession": 45,
+        "freeKicks": 16,
+        "yellowCards": 1,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 73,
+      "home_team": "전남",
+      "away_team": "전북",
+      "date": "2013.05.11",
+      "home": {
+        "fouls": 11,
+        "corners": 3,
+        "onTarget": 6,
+        "possession": 54,
+        "freeKicks": 11,
+        "yellowCards": 1,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 20,
+        "corners": 2,
+        "onTarget": 5,
+        "possession": 46,
+        "freeKicks": 23,
+        "yellowCards": 1,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 74,
+      "home_team": "대전",
+      "away_team": "서울",
+      "date": "2013.05.11",
+      "home": {
+        "fouls": 14,
+        "corners": 4,
+        "onTarget": 6,
+        "possession": 41,
+        "freeKicks": 15,
+        "yellowCards": 0,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 10,
+        "corners": 7,
+        "onTarget": 5,
+        "possession": 59,
+        "freeKicks": 16,
+        "yellowCards": 1,
+        "attempts": 19,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 6
+      }
+    },
+    {
+      "game_id": 75,
+      "home_team": "인천",
+      "away_team": "제주",
+      "date": "2013.05.12",
+      "home": {
+        "fouls": 12,
+        "corners": 8,
+        "onTarget": 13,
+        "possession": 53,
+        "freeKicks": 13,
+        "yellowCards": 2,
+        "attempts": 17,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 27,
+        "corners": 3,
+        "onTarget": 4,
+        "possession": 47,
+        "freeKicks": 28,
+        "yellowCards": 2,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 76,
+      "home_team": "강원",
+      "away_team": "성남",
+      "date": "2013.05.12",
+      "home": {
+        "fouls": 14,
+        "corners": 2,
+        "onTarget": 5,
+        "possession": 50,
+        "freeKicks": 18,
+        "yellowCards": 4,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 4,
+        "onTarget": 12,
+        "possession": 50,
+        "freeKicks": 18,
+        "yellowCards": 3,
+        "attempts": 17,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 77,
+      "home_team": "경남",
+      "away_team": "대구",
+      "date": "2013.05.12",
+      "home": {
+        "fouls": 17,
+        "corners": 6,
+        "onTarget": 7,
+        "possession": 50,
+        "freeKicks": 18,
+        "yellowCards": 5,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 21,
+        "corners": 5,
+        "onTarget": 5,
+        "possession": 50,
+        "freeKicks": 21,
+        "yellowCards": 5,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 78,
+      "home_team": "수원",
+      "away_team": "제주",
+      "date": "2013.05.18",
+      "home": {
+        "fouls": 9,
+        "corners": 10,
+        "onTarget": 8,
+        "possession": 61,
+        "freeKicks": 11,
+        "yellowCards": 0,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 0,
+        "onTarget": 5,
+        "possession": 39,
+        "freeKicks": 18,
+        "yellowCards": 1,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      }
+    },
+    {
+      "game_id": 79,
+      "home_team": "서울",
+      "away_team": "전남",
+      "date": "2013.06.01",
+      "home": {
+        "fouls": 12,
+        "corners": 2,
+        "onTarget": 6,
+        "possession": 53,
+        "freeKicks": 14,
+        "yellowCards": 0,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 13,
+        "corners": 3,
+        "onTarget": 4,
+        "possession": 47,
+        "freeKicks": 13,
+        "yellowCards": 3,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 80,
+      "home_team": "포항",
+      "away_team": "울산",
+      "date": "2013.05.18",
+      "home": {
+        "fouls": 19,
+        "corners": 2,
+        "onTarget": 6,
+        "possession": 55,
+        "freeKicks": 20,
+        "yellowCards": 3,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 22,
+        "corners": 4,
+        "onTarget": 6,
+        "possession": 45,
+        "freeKicks": 28,
+        "yellowCards": 2,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 6
+      }
+    },
+    {
+      "game_id": 81,
+      "home_team": "전북",
+      "away_team": "부산",
+      "date": "2013.06.01",
+      "home": {
+        "fouls": 14,
+        "corners": 8,
+        "onTarget": 5,
+        "possession": 55,
+        "freeKicks": 17,
+        "yellowCards": 3,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 13,
+        "corners": 5,
+        "onTarget": 10,
+        "possession": 45,
+        "freeKicks": 16,
+        "yellowCards": 4,
+        "attempts": 13,
+        "doubleYellowCards": 1,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 82,
+      "home_team": "인천",
+      "away_team": "강원",
+      "date": "2013.05.19",
+      "home": {
+        "fouls": 18,
+        "corners": 10,
+        "onTarget": 2,
+        "possession": 55,
+        "freeKicks": 23,
+        "yellowCards": 2,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 5
+      },
+      "away": {
+        "fouls": 22,
+        "corners": 1,
+        "onTarget": 10,
+        "possession": 45,
+        "freeKicks": 24,
+        "yellowCards": 2,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 83,
+      "home_team": "대구",
+      "away_team": "대전",
+      "date": "2013.05.19",
+      "home": {
+        "fouls": 14,
+        "corners": 5,
+        "onTarget": 4,
+        "possession": 57,
+        "freeKicks": 18,
+        "yellowCards": 1,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 10,
+        "onTarget": 3,
+        "possession": 43,
+        "freeKicks": 14,
+        "yellowCards": 3,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 84,
+      "home_team": "성남",
+      "away_team": "경남",
+      "date": "2013.05.19",
+      "home": {
+        "fouls": 15,
+        "corners": 9,
+        "onTarget": 12,
+        "possession": 50,
+        "freeKicks": 18,
+        "yellowCards": 1,
+        "attempts": 19,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 13,
+        "corners": 8,
+        "onTarget": 0,
+        "possession": 50,
+        "freeKicks": 15,
+        "yellowCards": 0,
+        "attempts": 4,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 85,
+      "home_team": "울산",
+      "away_team": "경남",
+      "date": "2013.05.25",
+      "home": {
+        "fouls": 14,
+        "corners": 2,
+        "onTarget": 10,
+        "possession": 53,
+        "freeKicks": 14,
+        "yellowCards": 0,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 6,
+        "onTarget": 3,
+        "possession": 47,
+        "freeKicks": 14,
+        "yellowCards": 2,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 86,
+      "home_team": "대전",
+      "away_team": "성남",
+      "date": "2013.05.25",
+      "home": {
+        "fouls": 15,
+        "corners": 7,
+        "onTarget": 4,
+        "possession": 57,
+        "freeKicks": 19,
+        "yellowCards": 1,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      },
+      "away": {
+        "fouls": 26,
+        "corners": 1,
+        "onTarget": 4,
+        "possession": 43,
+        "freeKicks": 26,
+        "yellowCards": 1,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 87,
+      "home_team": "부산",
+      "away_team": "인천",
+      "date": "2013.05.25",
+      "home": {
+        "fouls": 14,
+        "corners": 9,
+        "onTarget": 4,
+        "possession": 58,
+        "freeKicks": 14,
+        "yellowCards": 3,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 17,
+        "corners": 1,
+        "onTarget": 5,
+        "possession": 42,
+        "freeKicks": 19,
+        "yellowCards": 2,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 88,
+      "home_team": "포항",
+      "away_team": "대구",
+      "date": "2013.05.26",
+      "home": {
+        "fouls": 18,
+        "corners": 6,
+        "onTarget": 9,
+        "possession": 54,
+        "freeKicks": 19,
+        "yellowCards": 2,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 10,
+        "corners": 7,
+        "onTarget": 5,
+        "possession": 46,
+        "freeKicks": 11,
+        "yellowCards": 4,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 89,
+      "home_team": "강원",
+      "away_team": "전북",
+      "date": "2013.05.26",
+      "home": {
+        "fouls": 9,
+        "corners": 2,
+        "onTarget": 8,
+        "possession": 54,
+        "freeKicks": 11,
+        "yellowCards": 3,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 11,
+        "corners": 5,
+        "onTarget": 10,
+        "possession": 46,
+        "freeKicks": 14,
+        "yellowCards": 1,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 90,
+      "home_team": "제주",
+      "away_team": "서울",
+      "date": "2013.05.26",
+      "home": {
+        "fouls": 16,
+        "corners": 5,
+        "onTarget": 6,
+        "possession": 46,
+        "freeKicks": 19,
+        "yellowCards": 4,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 10,
+        "corners": 9,
+        "onTarget": 4,
+        "possession": 54,
+        "freeKicks": 14,
+        "yellowCards": 3,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      }
+    },
+    {
+      "game_id": 91,
+      "home_team": "전남",
+      "away_team": "수원",
+      "date": "2013.05.26",
+      "home": {
+        "fouls": 7,
+        "corners": 3,
+        "onTarget": 5,
+        "possession": 54,
+        "freeKicks": 12,
+        "yellowCards": 1,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 5
+      },
+      "away": {
+        "fouls": 27,
+        "corners": 3,
+        "onTarget": 6,
+        "possession": 46,
+        "freeKicks": 30,
+        "yellowCards": 2,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 92,
+      "home_team": "제주",
+      "away_team": "포항",
+      "date": "2013.06.01",
+      "home": {
+        "fouls": 14,
+        "corners": 13,
+        "onTarget": 8,
+        "possession": 56,
+        "freeKicks": 16,
+        "yellowCards": 1,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 6,
+        "onTarget": 4,
+        "possession": 44,
+        "freeKicks": 18,
+        "yellowCards": 0,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      }
+    },
+    {
+      "game_id": 93,
+      "home_team": "전남",
+      "away_team": "강원",
+      "date": "2013.06.23",
+      "home": {
+        "fouls": 14,
+        "corners": 6,
+        "onTarget": 2,
+        "possession": 44,
+        "freeKicks": 17,
+        "yellowCards": 3,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 11,
+        "corners": 4,
+        "onTarget": 4,
+        "possession": 56,
+        "freeKicks": 13,
+        "yellowCards": 2,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 94,
+      "home_team": "서울",
+      "away_team": "부산",
+      "date": "2013.06.23",
+      "home": {
+        "fouls": 19,
+        "corners": 7,
+        "onTarget": 4,
+        "possession": 53,
+        "freeKicks": 21,
+        "yellowCards": 0,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 10,
+        "corners": 5,
+        "onTarget": 3,
+        "possession": 47,
+        "freeKicks": 13,
+        "yellowCards": 0,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 95,
+      "home_team": "수원",
+      "away_team": "전북",
+      "date": "2013.06.26",
+      "home": {
+        "fouls": 10,
+        "corners": 6,
+        "onTarget": 8,
+        "possession": 51,
+        "freeKicks": 12,
+        "yellowCards": 2,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 12,
+        "corners": 3,
+        "onTarget": 6,
+        "possession": 49,
+        "freeKicks": 13,
+        "yellowCards": 0,
+        "attempts": 17,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 96,
+      "home_team": "인천",
+      "away_team": "성남",
+      "date": "2013.06.26",
+      "home": {
+        "fouls": 13,
+        "corners": 5,
+        "onTarget": 3,
+        "possession": 54,
+        "freeKicks": 17,
+        "yellowCards": 1,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      },
+      "away": {
+        "fouls": 17,
+        "corners": 6,
+        "onTarget": 8,
+        "possession": 46,
+        "freeKicks": 20,
+        "yellowCards": 2,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 97,
+      "home_team": "대구",
+      "away_team": "울산",
+      "date": "2013.06.23",
+      "home": {
+        "fouls": 10,
+        "corners": 6,
+        "onTarget": 8,
+        "possession": 49,
+        "freeKicks": 12,
+        "yellowCards": 1,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 7,
+        "onTarget": 7,
+        "possession": 51,
+        "freeKicks": 16,
+        "yellowCards": 3,
+        "attempts": 16,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 98,
+      "home_team": "경남",
+      "away_team": "대전",
+      "date": "2013.06.23",
+      "home": {
+        "fouls": 17,
+        "corners": 3,
+        "onTarget": 7,
+        "possession": 51,
+        "freeKicks": 20,
+        "yellowCards": 1,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 19,
+        "corners": 4,
+        "onTarget": 1,
+        "possession": 49,
+        "freeKicks": 20,
+        "yellowCards": 1,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 99,
+      "home_team": "인천",
+      "away_team": "포항",
+      "date": "2013.06.29",
+      "home": {
+        "fouls": 16,
+        "corners": 6,
+        "onTarget": 7,
+        "possession": 51,
+        "freeKicks": 19,
+        "yellowCards": 3,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 23,
+        "corners": 3,
+        "onTarget": 7,
+        "possession": 49,
+        "freeKicks": 23,
+        "yellowCards": 2,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 100,
+      "home_team": "부산",
+      "away_team": "대구",
+      "date": "2013.06.29",
+      "home": {
+        "fouls": 11,
+        "corners": 2,
+        "onTarget": 5,
+        "possession": 52,
+        "freeKicks": 13,
+        "yellowCards": 2,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 12,
+        "corners": 3,
+        "onTarget": 0,
+        "possession": 48,
+        "freeKicks": 13,
+        "yellowCards": 3,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 101,
+      "home_team": "성남",
+      "away_team": "제주",
+      "date": "2013.06.29",
+      "home": {
+        "fouls": 10,
+        "corners": 6,
+        "onTarget": 6,
+        "possession": 51,
+        "freeKicks": 13,
+        "yellowCards": 4,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 4,
+        "onTarget": 4,
+        "possession": 49,
+        "freeKicks": 17,
+        "yellowCards": 2,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 1,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 102,
+      "home_team": "강원",
+      "away_team": "수원",
+      "date": "2013.06.30",
+      "home": {
+        "fouls": 14,
+        "corners": 5,
+        "onTarget": 4,
+        "possession": 52,
+        "freeKicks": 17,
+        "yellowCards": 4,
+        "attempts": 12,
+        "doubleYellowCards": 1,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 5,
+        "onTarget": 12,
+        "possession": 48,
+        "freeKicks": 18,
+        "yellowCards": 5,
+        "attempts": 19,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 103,
+      "home_team": "대전",
+      "away_team": "전남",
+      "date": "2013.06.30",
+      "home": {
+        "fouls": 20,
+        "corners": 5,
+        "onTarget": 2,
+        "possession": 56,
+        "freeKicks": 21,
+        "yellowCards": 3,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 22,
+        "corners": 1,
+        "onTarget": 6,
+        "possession": 44,
+        "freeKicks": 24,
+        "yellowCards": 1,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 104,
+      "home_team": "울산",
+      "away_team": "서울",
+      "date": "2013.06.30",
+      "home": {
+        "fouls": 18,
+        "corners": 4,
+        "onTarget": 6,
+        "possession": 45,
+        "freeKicks": 19,
+        "yellowCards": 2,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 12,
+        "corners": 7,
+        "onTarget": 4,
+        "possession": 55,
+        "freeKicks": 16,
+        "yellowCards": 4,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      }
+    },
+    {
+      "game_id": 105,
+      "home_team": "전북",
+      "away_team": "경남",
+      "date": "2013.06.30",
+      "home": {
+        "fouls": 19,
+        "corners": 5,
+        "onTarget": 9,
+        "possession": 46,
+        "freeKicks": 19,
+        "yellowCards": 2,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 2,
+        "onTarget": 6,
+        "possession": 54,
+        "freeKicks": 17,
+        "yellowCards": 1,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 106,
+      "home_team": "전북",
+      "away_team": "성남",
+      "date": "2013.07.03",
+      "home": {
+        "fouls": 6,
+        "corners": 5,
+        "onTarget": 12,
+        "possession": 55,
+        "freeKicks": 13,
+        "yellowCards": 3,
+        "attempts": 20,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 7
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 3,
+        "onTarget": 5,
+        "possession": 45,
+        "freeKicks": 18,
+        "yellowCards": 2,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 1,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 107,
+      "home_team": "강원",
+      "away_team": "부산",
+      "date": "2013.07.03",
+      "home": {
+        "fouls": 19,
+        "corners": 7,
+        "onTarget": 7,
+        "possession": 52,
+        "freeKicks": 20,
+        "yellowCards": 0,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 11,
+        "corners": 4,
+        "onTarget": 10,
+        "possession": 48,
+        "freeKicks": 16,
+        "yellowCards": 1,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 5
+      }
+    },
+    {
+      "game_id": 108,
+      "home_team": "제주",
+      "away_team": "인천",
+      "date": "2013.07.21",
+      "home": {
+        "fouls": 10,
+        "corners": 6,
+        "onTarget": 3,
+        "possession": 51,
+        "freeKicks": 10,
+        "yellowCards": 2,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 26,
+        "corners": 5,
+        "onTarget": 6,
+        "possession": 49,
+        "freeKicks": 28,
+        "yellowCards": 5,
+        "attempts": 15,
+        "doubleYellowCards": 1,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 109,
+      "home_team": "포항",
+      "away_team": "서울",
+      "date": "2013.07.03",
+      "home": {
+        "fouls": 17,
+        "corners": 1,
+        "onTarget": 8,
+        "possession": 54,
+        "freeKicks": 19,
+        "yellowCards": 1,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 13,
+        "corners": 3,
+        "onTarget": 4,
+        "possession": 46,
+        "freeKicks": 14,
+        "yellowCards": 1,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 110,
+      "home_team": "울산",
+      "away_team": "전남",
+      "date": "2013.07.03",
+      "home": {
+        "fouls": 21,
+        "corners": 2,
+        "onTarget": 5,
+        "possession": 51,
+        "freeKicks": 21,
+        "yellowCards": 2,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 22,
+        "corners": 6,
+        "onTarget": 3,
+        "possession": 49,
+        "freeKicks": 22,
+        "yellowCards": 2,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 111,
+      "home_team": "대구",
+      "away_team": "경남",
+      "date": "2013.07.03",
+      "home": {
+        "fouls": 19,
+        "corners": 3,
+        "onTarget": 6,
+        "possession": 49,
+        "freeKicks": 21,
+        "yellowCards": 2,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 12,
+        "corners": 2,
+        "onTarget": 3,
+        "possession": 51,
+        "freeKicks": 15,
+        "yellowCards": 2,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 112,
+      "home_team": "수원",
+      "away_team": "대전",
+      "date": "2013.07.03",
+      "home": {
+        "fouls": 17,
+        "corners": 2,
+        "onTarget": 6,
+        "possession": 46,
+        "freeKicks": 17,
+        "yellowCards": 1,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 10,
+        "corners": 3,
+        "onTarget": 8,
+        "possession": 54,
+        "freeKicks": 13,
+        "yellowCards": 1,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 113,
+      "home_team": "대전",
+      "away_team": "부산",
+      "date": "2013.07.06",
+      "home": {
+        "fouls": 22,
+        "corners": 3,
+        "onTarget": 4,
+        "possession": 59,
+        "freeKicks": 24,
+        "yellowCards": 1,
+        "attempts": 17,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 4,
+        "onTarget": 8,
+        "possession": 41,
+        "freeKicks": 18,
+        "yellowCards": 2,
+        "attempts": 17,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 114,
+      "home_team": "대구",
+      "away_team": "강원",
+      "date": "2013.07.06",
+      "home": {
+        "fouls": 11,
+        "corners": 7,
+        "onTarget": 4,
+        "possession": 55,
+        "freeKicks": 12,
+        "yellowCards": 1,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 23,
+        "corners": 4,
+        "onTarget": 1,
+        "possession": 45,
+        "freeKicks": 25,
+        "yellowCards": 2,
+        "attempts": 5,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 115,
+      "home_team": "경남",
+      "away_team": "제주",
+      "date": "2013.07.06",
+      "home": {
+        "fouls": 11,
+        "corners": 6,
+        "onTarget": 4,
+        "possession": 53,
+        "freeKicks": 13,
+        "yellowCards": 2,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 13,
+        "corners": 3,
+        "onTarget": 9,
+        "possession": 47,
+        "freeKicks": 13,
+        "yellowCards": 1,
+        "attempts": 21,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 116,
+      "home_team": "전남",
+      "away_team": "인천",
+      "date": "2013.07.06",
+      "home": {
+        "fouls": 13,
+        "corners": 7,
+        "onTarget": 8,
+        "possession": 55,
+        "freeKicks": 13,
+        "yellowCards": 2,
+        "attempts": 17,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 19,
+        "corners": 1,
+        "onTarget": 2,
+        "possession": 45,
+        "freeKicks": 22,
+        "yellowCards": 4,
+        "attempts": 3,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 117,
+      "home_team": "포항",
+      "away_team": "전북",
+      "date": "2013.07.07",
+      "home": {
+        "fouls": 25,
+        "corners": 9,
+        "onTarget": 8,
+        "possession": 63,
+        "freeKicks": 30,
+        "yellowCards": 2,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 5
+      },
+      "away": {
+        "fouls": 24,
+        "corners": 0,
+        "onTarget": 8,
+        "possession": 37,
+        "freeKicks": 26,
+        "yellowCards": 4,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 118,
+      "home_team": "서울",
+      "away_team": "성남",
+      "date": "2013.07.07",
+      "home": {
+        "fouls": 13,
+        "corners": 6,
+        "onTarget": 6,
+        "possession": 48,
+        "freeKicks": 13,
+        "yellowCards": 0,
+        "attempts": 16,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 2,
+        "onTarget": 4,
+        "possession": 52,
+        "freeKicks": 14,
+        "yellowCards": 1,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 1,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 119,
+      "home_team": "수원",
+      "away_team": "울산",
+      "date": "2013.07.07",
+      "home": {
+        "fouls": 12,
+        "corners": 4,
+        "onTarget": 4,
+        "possession": 56,
+        "freeKicks": 13,
+        "yellowCards": 2,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 11,
+        "corners": 3,
+        "onTarget": 3,
+        "possession": 44,
+        "freeKicks": 16,
+        "yellowCards": 0,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 5
+      }
+    },
+    {
+      "game_id": 120,
+      "home_team": "성남",
+      "away_team": "포항",
+      "date": "2013.07.13",
+      "home": {
+        "fouls": 18,
+        "corners": 5,
+        "onTarget": 8,
+        "possession": 57,
+        "freeKicks": 21,
+        "yellowCards": 1,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 6,
+        "onTarget": 8,
+        "possession": 43,
+        "freeKicks": 17,
+        "yellowCards": 3,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 121,
+      "home_team": "인천",
+      "away_team": "대구",
+      "date": "2013.07.13",
+      "home": {
+        "fouls": 21,
+        "corners": 7,
+        "onTarget": 7,
+        "possession": 49,
+        "freeKicks": 23,
+        "yellowCards": 2,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 7,
+        "onTarget": 8,
+        "possession": 51,
+        "freeKicks": 17,
+        "yellowCards": 4,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 122,
+      "home_team": "전남",
+      "away_team": "서울",
+      "date": "2013.07.13",
+      "home": {
+        "fouls": 15,
+        "corners": 2,
+        "onTarget": 3,
+        "possession": 49,
+        "freeKicks": 15,
+        "yellowCards": 3,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 12,
+        "corners": 4,
+        "onTarget": 8,
+        "possession": 51,
+        "freeKicks": 12,
+        "yellowCards": 1,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 123,
+      "home_team": "부산",
+      "away_team": "전북",
+      "date": "2013.07.13",
+      "home": {
+        "fouls": 12,
+        "corners": 3,
+        "onTarget": 3,
+        "possession": 56,
+        "freeKicks": 14,
+        "yellowCards": 3,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 20,
+        "corners": 2,
+        "onTarget": 4,
+        "possession": 44,
+        "freeKicks": 20,
+        "yellowCards": 1,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 124,
+      "home_team": "울산",
+      "away_team": "대전",
+      "date": "2013.07.13",
+      "home": {
+        "fouls": 12,
+        "corners": 4,
+        "onTarget": 4,
+        "possession": 53,
+        "freeKicks": 13,
+        "yellowCards": 2,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 12,
+        "corners": 5,
+        "onTarget": 4,
+        "possession": 47,
+        "freeKicks": 15,
+        "yellowCards": 2,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 125,
+      "home_team": "강원",
+      "away_team": "경남",
+      "date": "2013.07.13",
+      "home": {
+        "fouls": 13,
+        "corners": 7,
+        "onTarget": 4,
+        "possession": 50,
+        "freeKicks": 19,
+        "yellowCards": 0,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 6
+      },
+      "away": {
+        "fouls": 19,
+        "corners": 6,
+        "onTarget": 7,
+        "possession": 50,
+        "freeKicks": 19,
+        "yellowCards": 1,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 126,
+      "home_team": "제주",
+      "away_team": "수원",
+      "date": "2013.07.13",
+      "home": {
+        "fouls": 12,
+        "corners": 5,
+        "onTarget": 4,
+        "possession": 49,
+        "freeKicks": 21,
+        "yellowCards": 0,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 9
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 4,
+        "onTarget": 3,
+        "possession": 51,
+        "freeKicks": 17,
+        "yellowCards": 1,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 127,
+      "home_team": "강원",
+      "away_team": "서울",
+      "date": "2013.07.16",
+      "home": {
+        "fouls": 12,
+        "corners": 8,
+        "onTarget": 8,
+        "possession": 54,
+        "freeKicks": 16,
+        "yellowCards": 1,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      },
+      "away": {
+        "fouls": 13,
+        "corners": 5,
+        "onTarget": 6,
+        "possession": 46,
+        "freeKicks": 17,
+        "yellowCards": 0,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      }
+    },
+    {
+      "game_id": 128,
+      "home_team": "전북",
+      "away_team": "대전",
+      "date": "2013.07.16",
+      "home": {
+        "fouls": 14,
+        "corners": 8,
+        "onTarget": 6,
+        "possession": 52,
+        "freeKicks": 16,
+        "yellowCards": 1,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 20,
+        "corners": 3,
+        "onTarget": 5,
+        "possession": 48,
+        "freeKicks": 20,
+        "yellowCards": 3,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 129,
+      "home_team": "포항",
+      "away_team": "수원",
+      "date": "2013.07.16",
+      "home": {
+        "fouls": 17,
+        "corners": 4,
+        "onTarget": 6,
+        "possession": 47,
+        "freeKicks": 19,
+        "yellowCards": 1,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 4,
+        "onTarget": 3,
+        "possession": 53,
+        "freeKicks": 19,
+        "yellowCards": 3,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      }
+    },
+    {
+      "game_id": 130,
+      "home_team": "울산",
+      "away_team": "제주",
+      "date": "2013.07.16",
+      "home": {
+        "fouls": 12,
+        "corners": 4,
+        "onTarget": 8,
+        "possession": 41,
+        "freeKicks": 19,
+        "yellowCards": 2,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 7
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 5,
+        "onTarget": 2,
+        "possession": 59,
+        "freeKicks": 16,
+        "yellowCards": 1,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 131,
+      "home_team": "부산",
+      "away_team": "전남",
+      "date": "2013.07.16",
+      "home": {
+        "fouls": 11,
+        "corners": 2,
+        "onTarget": 5,
+        "possession": 45,
+        "freeKicks": 12,
+        "yellowCards": 1,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 1,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 6,
+        "onTarget": 6,
+        "possession": 55,
+        "freeKicks": 16,
+        "yellowCards": 2,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 132,
+      "home_team": "성남",
+      "away_team": "대구",
+      "date": "2013.07.16",
+      "home": {
+        "fouls": 17,
+        "corners": 10,
+        "onTarget": 6,
+        "possession": 51,
+        "freeKicks": 18,
+        "yellowCards": 1,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 24,
+        "corners": 2,
+        "onTarget": 8,
+        "possession": 49,
+        "freeKicks": 27,
+        "yellowCards": 3,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 133,
+      "home_team": "경남",
+      "away_team": "인천",
+      "date": "2013.07.16",
+      "home": {
+        "fouls": 21,
+        "corners": 2,
+        "onTarget": 3,
+        "possession": 44,
+        "freeKicks": 21,
+        "yellowCards": 2,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 6,
+        "onTarget": 4,
+        "possession": 56,
+        "freeKicks": 16,
+        "yellowCards": 3,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 134,
+      "home_team": "서울",
+      "away_team": "제주",
+      "date": "2013.07.31",
+      "home": {
+        "fouls": 8,
+        "corners": 9,
+        "onTarget": 7,
+        "possession": 52,
+        "freeKicks": 9,
+        "yellowCards": 0,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 10,
+        "corners": 4,
+        "onTarget": 5,
+        "possession": 48,
+        "freeKicks": 10,
+        "yellowCards": 2,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 135,
+      "home_team": "수원",
+      "away_team": "부산",
+      "date": "2013.07.31",
+      "home": {
+        "fouls": 15,
+        "corners": 4,
+        "onTarget": 6,
+        "possession": 52,
+        "freeKicks": 16,
+        "yellowCards": 2,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 5,
+        "corners": 10,
+        "onTarget": 5,
+        "possession": 48,
+        "freeKicks": 5,
+        "yellowCards": 1,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 136,
+      "home_team": "대전",
+      "away_team": "인천",
+      "date": "2013.07.31",
+      "home": {
+        "fouls": 19,
+        "corners": 9,
+        "onTarget": 8,
+        "possession": 59,
+        "freeKicks": 20,
+        "yellowCards": 0,
+        "attempts": 22,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 18,
+        "corners": 1,
+        "onTarget": 5,
+        "possession": 41,
+        "freeKicks": 21,
+        "yellowCards": 2,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 137,
+      "home_team": "대구",
+      "away_team": "전북",
+      "date": "2013.07.31",
+      "home": {
+        "fouls": 15,
+        "corners": 4,
+        "onTarget": 5,
+        "possession": 55,
+        "freeKicks": 17,
+        "yellowCards": 0,
+        "attempts": 16,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 22,
+        "corners": 4,
+        "onTarget": 5,
+        "possession": 45,
+        "freeKicks": 22,
+        "yellowCards": 3,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 138,
+      "home_team": "전남",
+      "away_team": "성남",
+      "date": "2013.07.31",
+      "home": {
+        "fouls": 19,
+        "corners": 2,
+        "onTarget": 3,
+        "possession": 46,
+        "freeKicks": 22,
+        "yellowCards": 4,
+        "attempts": 5,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 11,
+        "onTarget": 4,
+        "possession": 54,
+        "freeKicks": 17,
+        "yellowCards": 2,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 139,
+      "home_team": "포항",
+      "away_team": "강원",
+      "date": "2013.07.31",
+      "home": {
+        "fouls": 21,
+        "corners": 1,
+        "onTarget": 9,
+        "possession": 46,
+        "freeKicks": 23,
+        "yellowCards": 1,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 13,
+        "corners": 1,
+        "onTarget": 3,
+        "possession": 54,
+        "freeKicks": 15,
+        "yellowCards": 3,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 1,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 140,
+      "home_team": "경남",
+      "away_team": "울산",
+      "date": "2013.07.31",
+      "home": {
+        "fouls": 13,
+        "corners": 5,
+        "onTarget": 3,
+        "possession": 52,
+        "freeKicks": 16,
+        "yellowCards": 2,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 8,
+        "corners": 7,
+        "onTarget": 4,
+        "possession": 48,
+        "freeKicks": 9,
+        "yellowCards": 1,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 141,
+      "home_team": "부산",
+      "away_team": "경남",
+      "date": "2013.08.03",
+      "home": {
+        "fouls": 9,
+        "corners": 4,
+        "onTarget": 12,
+        "possession": 47,
+        "freeKicks": 10,
+        "yellowCards": 0,
+        "attempts": 17,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 18,
+        "corners": 8,
+        "onTarget": 5,
+        "possession": 53,
+        "freeKicks": 23,
+        "yellowCards": 0,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 5
+      }
+    },
+    {
+      "game_id": 142,
+      "home_team": "제주",
+      "away_team": "전남",
+      "date": "2013.08.03",
+      "home": {
+        "fouls": 11,
+        "corners": 1,
+        "onTarget": 3,
+        "possession": 58,
+        "freeKicks": 13,
+        "yellowCards": 2,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 4,
+        "onTarget": 5,
+        "possession": 42,
+        "freeKicks": 16,
+        "yellowCards": 1,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 143,
+      "home_team": "서울",
+      "away_team": "수원",
+      "date": "2013.08.03",
+      "home": {
+        "fouls": 6,
+        "corners": 5,
+        "onTarget": 5,
+        "possession": 49,
+        "freeKicks": 9,
+        "yellowCards": 2,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 20,
+        "corners": 3,
+        "onTarget": 3,
+        "possession": 51,
+        "freeKicks": 21,
+        "yellowCards": 3,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 144,
+      "home_team": "대구",
+      "away_team": "포항",
+      "date": "2013.08.03",
+      "home": {
+        "fouls": 14,
+        "corners": 8,
+        "onTarget": 7,
+        "possession": 53,
+        "freeKicks": 14,
+        "yellowCards": 1,
+        "attempts": 17,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 1,
+        "onTarget": 7,
+        "possession": 47,
+        "freeKicks": 15,
+        "yellowCards": 2,
+        "attempts": 17,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 145,
+      "home_team": "인천",
+      "away_team": "울산",
+      "date": "2013.08.03",
+      "home": {
+        "fouls": 21,
+        "corners": 10,
+        "onTarget": 8,
+        "possession": 49,
+        "freeKicks": 23,
+        "yellowCards": 4,
+        "attempts": 15,
+        "doubleYellowCards": 1,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 8,
+        "onTarget": 10,
+        "possession": 51,
+        "freeKicks": 16,
+        "yellowCards": 2,
+        "attempts": 16,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 146,
+      "home_team": "전북",
+      "away_team": "강원",
+      "date": "2013.08.04",
+      "home": {
+        "fouls": 22,
+        "corners": 9,
+        "onTarget": 15,
+        "possession": 51,
+        "freeKicks": 24,
+        "yellowCards": 3,
+        "attempts": 22,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 6,
+        "onTarget": 7,
+        "possession": 49,
+        "freeKicks": 18,
+        "yellowCards": 3,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 147,
+      "home_team": "성남",
+      "away_team": "대전",
+      "date": "2013.08.04",
+      "home": {
+        "fouls": 8,
+        "corners": 7,
+        "onTarget": 9,
+        "possession": 46,
+        "freeKicks": 9,
+        "yellowCards": 2,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 7,
+        "onTarget": 7,
+        "possession": 54,
+        "freeKicks": 19,
+        "yellowCards": 4,
+        "attempts": 11,
+        "doubleYellowCards": 1,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 148,
+      "home_team": "울산",
+      "away_team": "전북",
+      "date": "2013.08.10",
+      "home": {
+        "fouls": 21,
+        "corners": 5,
+        "onTarget": 7,
+        "possession": 52,
+        "freeKicks": 22,
+        "yellowCards": 1,
+        "attempts": 16,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 10,
+        "corners": 7,
+        "onTarget": 9,
+        "possession": 48,
+        "freeKicks": 15,
+        "yellowCards": 1,
+        "attempts": 16,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 5
+      }
+    },
+    {
+      "game_id": 149,
+      "home_team": "경남",
+      "away_team": "수원",
+      "date": "2013.08.11",
+      "home": {
+        "fouls": 19,
+        "corners": 7,
+        "onTarget": 5,
+        "possession": 52,
+        "freeKicks": 21,
+        "yellowCards": 4,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 17,
+        "corners": 1,
+        "onTarget": 5,
+        "possession": 48,
+        "freeKicks": 20,
+        "yellowCards": 1,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 150,
+      "home_team": "강원",
+      "away_team": "제주",
+      "date": "2013.08.10",
+      "home": {
+        "fouls": 12,
+        "corners": 4,
+        "onTarget": 3,
+        "possession": 54,
+        "freeKicks": 13,
+        "yellowCards": 3,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 20,
+        "corners": 4,
+        "onTarget": 7,
+        "possession": 46,
+        "freeKicks": 23,
+        "yellowCards": 1,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 151,
+      "home_team": "인천",
+      "away_team": "서울",
+      "date": "2013.08.10",
+      "home": {
+        "fouls": 21,
+        "corners": 2,
+        "onTarget": 6,
+        "possession": 47,
+        "freeKicks": 22,
+        "yellowCards": 1,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 9,
+        "corners": 4,
+        "onTarget": 8,
+        "possession": 53,
+        "freeKicks": 9,
+        "yellowCards": 1,
+        "attempts": 16,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 152,
+      "home_team": "대전",
+      "away_team": "포항",
+      "date": "2013.08.11",
+      "home": {
+        "fouls": 16,
+        "corners": 4,
+        "onTarget": 4,
+        "possession": 53,
+        "freeKicks": 19,
+        "yellowCards": 2,
+        "attempts": 14,
+        "doubleYellowCards": 1,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 13,
+        "corners": 2,
+        "onTarget": 9,
+        "possession": 47,
+        "freeKicks": 16,
+        "yellowCards": 1,
+        "attempts": 16,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 153,
+      "home_team": "전남",
+      "away_team": "대구",
+      "date": "2013.08.11",
+      "home": {
+        "fouls": 17,
+        "corners": 5,
+        "onTarget": 4,
+        "possession": 52,
+        "freeKicks": 19,
+        "yellowCards": 1,
+        "attempts": 16,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 9,
+        "corners": 2,
+        "onTarget": 5,
+        "possession": 48,
+        "freeKicks": 9,
+        "yellowCards": 1,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 154,
+      "home_team": "성남",
+      "away_team": "부산",
+      "date": "2013.08.11",
+      "home": {
+        "fouls": 15,
+        "corners": 8,
+        "onTarget": 9,
+        "possession": 58,
+        "freeKicks": 18,
+        "yellowCards": 4,
+        "attempts": 16,
+        "doubleYellowCards": 0,
+        "redCards": 1,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 9,
+        "corners": 3,
+        "onTarget": 5,
+        "possession": 42,
+        "freeKicks": 12,
+        "yellowCards": 1,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 155,
+      "home_team": "수원",
+      "away_team": "성남",
+      "date": "2013.08.17",
+      "home": {
+        "fouls": 14,
+        "corners": 2,
+        "onTarget": 8,
+        "possession": 49,
+        "freeKicks": 15,
+        "yellowCards": 1,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 19,
+        "corners": 5,
+        "onTarget": 8,
+        "possession": 51,
+        "freeKicks": 21,
+        "yellowCards": 1,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 156,
+      "home_team": "서울",
+      "away_team": "대전",
+      "date": "2013.08.15",
+      "home": {
+        "fouls": 7,
+        "corners": 1,
+        "onTarget": 8,
+        "possession": 54,
+        "freeKicks": 8,
+        "yellowCards": 0,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 4,
+        "onTarget": 8,
+        "possession": 46,
+        "freeKicks": 14,
+        "yellowCards": 1,
+        "attempts": 17,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 157,
+      "home_team": "포항",
+      "away_team": "경남",
+      "date": "2013.08.18",
+      "home": {
+        "fouls": 8,
+        "corners": 2,
+        "onTarget": 4,
+        "possession": 53,
+        "freeKicks": 9,
+        "yellowCards": 2,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 2,
+        "onTarget": 3,
+        "possession": 47,
+        "freeKicks": 16,
+        "yellowCards": 3,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 158,
+      "home_team": "전북",
+      "away_team": "전남",
+      "date": "2013.08.17",
+      "home": {
+        "fouls": 16,
+        "corners": 6,
+        "onTarget": 7,
+        "possession": 50,
+        "freeKicks": 17,
+        "yellowCards": 3,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 19,
+        "corners": 2,
+        "onTarget": 4,
+        "possession": 50,
+        "freeKicks": 19,
+        "yellowCards": 1,
+        "attempts": 5,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 159,
+      "home_team": "강원",
+      "away_team": "인천",
+      "date": "2013.08.18",
+      "home": {
+        "fouls": 19,
+        "corners": 0,
+        "onTarget": 3,
+        "possession": 52,
+        "freeKicks": 19,
+        "yellowCards": 6,
+        "attempts": 5,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 21,
+        "corners": 5,
+        "onTarget": 11,
+        "possession": 48,
+        "freeKicks": 22,
+        "yellowCards": 1,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 160,
+      "home_team": "제주",
+      "away_team": "대구",
+      "date": "2013.08.18",
+      "home": {
+        "fouls": 11,
+        "corners": 4,
+        "onTarget": 4,
+        "possession": 53,
+        "freeKicks": 12,
+        "yellowCards": 0,
+        "attempts": 22,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 3,
+        "onTarget": 2,
+        "possession": 47,
+        "freeKicks": 19,
+        "yellowCards": 1,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 5
+      }
+    },
+    {
+      "game_id": 161,
+      "home_team": "부산",
+      "away_team": "울산",
+      "date": "2013.08.18",
+      "home": {
+        "fouls": 13,
+        "corners": 4,
+        "onTarget": 4,
+        "possession": 50,
+        "freeKicks": 17,
+        "yellowCards": 2,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 10,
+        "onTarget": 4,
+        "possession": 50,
+        "freeKicks": 17,
+        "yellowCards": 1,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 162,
+      "home_team": "대전",
+      "away_team": "강원",
+      "date": "2013.08.24",
+      "home": {
+        "fouls": 18,
+        "corners": 3,
+        "onTarget": 13,
+        "possession": 52,
+        "freeKicks": 19,
+        "yellowCards": 3,
+        "attempts": 20,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 13,
+        "corners": 5,
+        "onTarget": 5,
+        "possession": 48,
+        "freeKicks": 15,
+        "yellowCards": 2,
+        "attempts": 18,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 163,
+      "home_team": "성남",
+      "away_team": "울산",
+      "date": "2013.08.24",
+      "home": {
+        "fouls": 16,
+        "corners": 4,
+        "onTarget": 8,
+        "possession": 48,
+        "freeKicks": 17,
+        "yellowCards": 4,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 8,
+        "corners": 4,
+        "onTarget": 9,
+        "possession": 52,
+        "freeKicks": 9,
+        "yellowCards": 1,
+        "attempts": 16,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 164,
+      "home_team": "제주",
+      "away_team": "전북",
+      "date": "2013.08.24",
+      "home": {
+        "fouls": 22,
+        "corners": 2,
+        "onTarget": 2,
+        "possession": 55,
+        "freeKicks": 22,
+        "yellowCards": 2,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 21,
+        "corners": 2,
+        "onTarget": 6,
+        "possession": 45,
+        "freeKicks": 25,
+        "yellowCards": 1,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      }
+    },
+    {
+      "game_id": 165,
+      "home_team": "인천",
+      "away_team": "부산",
+      "date": "2013.08.24",
+      "home": {
+        "fouls": 18,
+        "corners": 7,
+        "onTarget": 5,
+        "possession": 50,
+        "freeKicks": 18,
+        "yellowCards": 4,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 1,
+        "onTarget": 6,
+        "possession": 50,
+        "freeKicks": 16,
+        "yellowCards": 2,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 166,
+      "home_team": "대구",
+      "away_team": "수원",
+      "date": "2013.08.25",
+      "home": {
+        "fouls": 10,
+        "corners": 4,
+        "onTarget": 2,
+        "possession": 47,
+        "freeKicks": 12,
+        "yellowCards": 1,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 1,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 4,
+        "onTarget": 6,
+        "possession": 53,
+        "freeKicks": 17,
+        "yellowCards": 1,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 167,
+      "home_team": "경남",
+      "away_team": "서울",
+      "date": "2013.08.25",
+      "home": {
+        "fouls": 21,
+        "corners": 7,
+        "onTarget": 2,
+        "possession": 51,
+        "freeKicks": 22,
+        "yellowCards": 4,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 13,
+        "corners": 6,
+        "onTarget": 4,
+        "possession": 49,
+        "freeKicks": 13,
+        "yellowCards": 1,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 168,
+      "home_team": "전남",
+      "away_team": "포항",
+      "date": "2013.08.25",
+      "home": {
+        "fouls": 15,
+        "corners": 3,
+        "onTarget": 4,
+        "possession": 49,
+        "freeKicks": 17,
+        "yellowCards": 1,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 20,
+        "corners": 3,
+        "onTarget": 6,
+        "possession": 51,
+        "freeKicks": 21,
+        "yellowCards": 1,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 169,
+      "home_team": "전남",
+      "away_team": "경남",
+      "date": "2013.08.28",
+      "home": {
+        "fouls": 12,
+        "corners": 5,
+        "onTarget": 3,
+        "possession": 54,
+        "freeKicks": 16,
+        "yellowCards": 2,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      },
+      "away": {
+        "fouls": 17,
+        "corners": 9,
+        "onTarget": 2,
+        "possession": 46,
+        "freeKicks": 17,
+        "yellowCards": 1,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 170,
+      "home_team": "울산",
+      "away_team": "포항",
+      "date": "2013.08.28",
+      "home": {
+        "fouls": 21,
+        "corners": 3,
+        "onTarget": 5,
+        "possession": 42,
+        "freeKicks": 24,
+        "yellowCards": 3,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 21,
+        "corners": 10,
+        "onTarget": 11,
+        "possession": 58,
+        "freeKicks": 22,
+        "yellowCards": 4,
+        "attempts": 18,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 171,
+      "home_team": "부산",
+      "away_team": "제주",
+      "date": "2013.08.28",
+      "home": {
+        "fouls": 6,
+        "corners": 3,
+        "onTarget": 3,
+        "possession": 51,
+        "freeKicks": 9,
+        "yellowCards": 0,
+        "attempts": 5,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 5,
+        "onTarget": 6,
+        "possession": 49,
+        "freeKicks": 17,
+        "yellowCards": 1,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 172,
+      "home_team": "대전",
+      "away_team": "대구",
+      "date": "2013.08.28",
+      "home": {
+        "fouls": 24,
+        "corners": 4,
+        "onTarget": 10,
+        "possession": 53,
+        "freeKicks": 26,
+        "yellowCards": 3,
+        "attempts": 23,
+        "doubleYellowCards": 0,
+        "redCards": 1,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 2,
+        "onTarget": 7,
+        "possession": 47,
+        "freeKicks": 18,
+        "yellowCards": 1,
+        "attempts": 19,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      }
+    },
+    {
+      "game_id": 173,
+      "home_team": "성남",
+      "away_team": "강원",
+      "date": "2013.08.28",
+      "home": {
+        "fouls": 18,
+        "corners": 9,
+        "onTarget": 9,
+        "possession": 50,
+        "freeKicks": 19,
+        "yellowCards": 2,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 13,
+        "corners": 5,
+        "onTarget": 6,
+        "possession": 50,
+        "freeKicks": 15,
+        "yellowCards": 3,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 174,
+      "home_team": "인천",
+      "away_team": "수원",
+      "date": "2013.08.28",
+      "home": {
+        "fouls": 29,
+        "corners": 5,
+        "onTarget": 8,
+        "possession": 39,
+        "freeKicks": 32,
+        "yellowCards": 1,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 20,
+        "corners": 1,
+        "onTarget": 6,
+        "possession": 61,
+        "freeKicks": 22,
+        "yellowCards": 1,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 175,
+      "home_team": "서울",
+      "away_team": "전북",
+      "date": "2013.08.28",
+      "home": {
+        "fouls": 14,
+        "corners": 4,
+        "onTarget": 5,
+        "possession": 51,
+        "freeKicks": 15,
+        "yellowCards": 2,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 11,
+        "corners": 8,
+        "onTarget": 7,
+        "possession": 49,
+        "freeKicks": 13,
+        "yellowCards": 1,
+        "attempts": 17,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 176,
+      "home_team": "수원",
+      "away_team": "전남",
+      "date": "2013.09.01",
+      "home": {
+        "fouls": 11,
+        "corners": 5,
+        "onTarget": 8,
+        "possession": 57,
+        "freeKicks": 11,
+        "yellowCards": 2,
+        "attempts": 16,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 9,
+        "corners": 4,
+        "onTarget": 2,
+        "possession": 43,
+        "freeKicks": 13,
+        "yellowCards": 2,
+        "attempts": 4,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      }
+    },
+    {
+      "game_id": 177,
+      "home_team": "포항",
+      "away_team": "부산",
+      "date": "2013.09.01",
+      "home": {
+        "fouls": 21,
+        "corners": 9,
+        "onTarget": 6,
+        "possession": 54,
+        "freeKicks": 22,
+        "yellowCards": 2,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 11,
+        "corners": 8,
+        "onTarget": 5,
+        "possession": 46,
+        "freeKicks": 13,
+        "yellowCards": 1,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 178,
+      "home_team": "대구",
+      "away_team": "서울",
+      "date": "2013.09.01",
+      "home": {
+        "fouls": 15,
+        "corners": 6,
+        "onTarget": 4,
+        "possession": 53,
+        "freeKicks": 19,
+        "yellowCards": 3,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      },
+      "away": {
+        "fouls": 12,
+        "corners": 1,
+        "onTarget": 6,
+        "possession": 47,
+        "freeKicks": 12,
+        "yellowCards": 3,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 179,
+      "home_team": "경남",
+      "away_team": "성남",
+      "date": "2013.09.01",
+      "home": {
+        "fouls": 20,
+        "corners": 2,
+        "onTarget": 1,
+        "possession": 49,
+        "freeKicks": 22,
+        "yellowCards": 4,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 7,
+        "onTarget": 6,
+        "possession": 51,
+        "freeKicks": 18,
+        "yellowCards": 3,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      }
+    },
+    {
+      "game_id": 180,
+      "home_team": "전북",
+      "away_team": "인천",
+      "date": "2013.09.01",
+      "home": {
+        "fouls": 18,
+        "corners": 7,
+        "onTarget": 10,
+        "possession": 52,
+        "freeKicks": 19,
+        "yellowCards": 1,
+        "attempts": 22,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 17,
+        "corners": 2,
+        "onTarget": 1,
+        "possession": 48,
+        "freeKicks": 19,
+        "yellowCards": 0,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 181,
+      "home_team": "강원",
+      "away_team": "울산",
+      "date": "2013.09.01",
+      "home": {
+        "fouls": 9,
+        "corners": 3,
+        "onTarget": 6,
+        "possession": 55,
+        "freeKicks": 11,
+        "yellowCards": 3,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 20,
+        "corners": 0,
+        "onTarget": 3,
+        "possession": 45,
+        "freeKicks": 22,
+        "yellowCards": 0,
+        "attempts": 5,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 182,
+      "home_team": "제주",
+      "away_team": "대전",
+      "date": "2013.09.01",
+      "home": {
+        "fouls": 12,
+        "corners": 3,
+        "onTarget": 4,
+        "possession": 53,
+        "freeKicks": 14,
+        "yellowCards": 1,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 21,
+        "corners": 8,
+        "onTarget": 3,
+        "possession": 47,
+        "freeKicks": 25,
+        "yellowCards": 1,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      }
+    },
+    {
+      "game_id": 183,
+      "home_team": "전북",
+      "away_team": "포항",
+      "date": "2013.09.08",
+      "home": {
+        "fouls": 16,
+        "corners": 4,
+        "onTarget": 11,
+        "possession": 55,
+        "freeKicks": 19,
+        "yellowCards": 1,
+        "attempts": 19,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 18,
+        "corners": 3,
+        "onTarget": 9,
+        "possession": 45,
+        "freeKicks": 19,
+        "yellowCards": 1,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 184,
+      "home_team": "울산",
+      "away_team": "인천",
+      "date": "2013.09.08",
+      "home": {
+        "fouls": 12,
+        "corners": 5,
+        "onTarget": 5,
+        "possession": 37,
+        "freeKicks": 14,
+        "yellowCards": 1,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 11,
+        "corners": 2,
+        "onTarget": 2,
+        "possession": 63,
+        "freeKicks": 14,
+        "yellowCards": 1,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 185,
+      "home_team": "부산",
+      "away_team": "서울",
+      "date": "2013.09.08",
+      "home": {
+        "fouls": 16,
+        "corners": 4,
+        "onTarget": 4,
+        "possession": 49,
+        "freeKicks": 18,
+        "yellowCards": 2,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 6,
+        "corners": 3,
+        "onTarget": 3,
+        "possession": 51,
+        "freeKicks": 8,
+        "yellowCards": 3,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 186,
+      "home_team": "대구",
+      "away_team": "제주",
+      "date": "2013.09.07",
+      "home": {
+        "fouls": 9,
+        "corners": 3,
+        "onTarget": 2,
+        "possession": 54,
+        "freeKicks": 11,
+        "yellowCards": 1,
+        "attempts": 17,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 24,
+        "corners": 3,
+        "onTarget": 2,
+        "possession": 46,
+        "freeKicks": 26,
+        "yellowCards": 5,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 187,
+      "home_team": "성남",
+      "away_team": "대전",
+      "date": "2013.09.07",
+      "home": {
+        "fouls": 15,
+        "corners": 11,
+        "onTarget": 7,
+        "possession": 52,
+        "freeKicks": 19,
+        "yellowCards": 4,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 0,
+        "onTarget": 7,
+        "possession": 48,
+        "freeKicks": 15,
+        "yellowCards": 3,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 188,
+      "home_team": "전남",
+      "away_team": "경남",
+      "date": "2013.09.07",
+      "home": {
+        "fouls": 15,
+        "corners": 5,
+        "onTarget": 3,
+        "possession": 55,
+        "freeKicks": 16,
+        "yellowCards": 0,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 20,
+        "corners": 9,
+        "onTarget": 3,
+        "possession": 45,
+        "freeKicks": 21,
+        "yellowCards": 4,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 189,
+      "home_team": "수원",
+      "away_team": "부산",
+      "date": "2013.09.11",
+      "home": {
+        "fouls": 12,
+        "corners": 6,
+        "onTarget": 1,
+        "possession": 55,
+        "freeKicks": 14,
+        "yellowCards": 1,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 9,
+        "onTarget": 7,
+        "possession": 45,
+        "freeKicks": 15,
+        "yellowCards": 0,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 190,
+      "home_team": "서울",
+      "away_team": "포항",
+      "date": "2013.09.11",
+      "home": {
+        "fouls": 12,
+        "corners": 2,
+        "onTarget": 7,
+        "possession": 59,
+        "freeKicks": 12,
+        "yellowCards": 1,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 11,
+        "corners": 4,
+        "onTarget": 0,
+        "possession": 41,
+        "freeKicks": 14,
+        "yellowCards": 1,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 191,
+      "home_team": "인천",
+      "away_team": "전북",
+      "date": "2013.09.11",
+      "home": {
+        "fouls": 25,
+        "corners": 5,
+        "onTarget": 10,
+        "possession": 56,
+        "freeKicks": 25,
+        "yellowCards": 2,
+        "attempts": 17,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 22,
+        "corners": 7,
+        "onTarget": 3,
+        "possession": 44,
+        "freeKicks": 23,
+        "yellowCards": 3,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 192,
+      "home_team": "대구",
+      "away_team": "강원",
+      "date": "2013.09.11",
+      "home": {
+        "fouls": 14,
+        "corners": 6,
+        "onTarget": 4,
+        "possession": 57,
+        "freeKicks": 15,
+        "yellowCards": 3,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 5,
+        "onTarget": 4,
+        "possession": 43,
+        "freeKicks": 16,
+        "yellowCards": 2,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 193,
+      "home_team": "대전",
+      "away_team": "제주",
+      "date": "2013.09.11",
+      "home": {
+        "fouls": 11,
+        "corners": 6,
+        "onTarget": 8,
+        "possession": 57,
+        "freeKicks": 16,
+        "yellowCards": 1,
+        "attempts": 23,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 5
+      },
+      "away": {
+        "fouls": 21,
+        "corners": 2,
+        "onTarget": 3,
+        "possession": 43,
+        "freeKicks": 21,
+        "yellowCards": 3,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 194,
+      "home_team": "성남",
+      "away_team": "전남",
+      "date": "2013.09.11",
+      "home": {
+        "fouls": 18,
+        "corners": 8,
+        "onTarget": 4,
+        "possession": 51,
+        "freeKicks": 22,
+        "yellowCards": 4,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      },
+      "away": {
+        "fouls": 8,
+        "corners": 5,
+        "onTarget": 9,
+        "possession": 49,
+        "freeKicks": 8,
+        "yellowCards": 0,
+        "attempts": 17,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 195,
+      "home_team": "부산",
+      "away_team": "전북",
+      "date": "2013.09.21",
+      "home": {
+        "fouls": 11,
+        "corners": 6,
+        "onTarget": 5,
+        "possession": 55,
+        "freeKicks": 14,
+        "yellowCards": 1,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 19,
+        "corners": 6,
+        "onTarget": 5,
+        "possession": 45,
+        "freeKicks": 20,
+        "yellowCards": 2,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 196,
+      "home_team": "포항",
+      "away_team": "울산",
+      "date": "2013.09.22",
+      "home": {
+        "fouls": 17,
+        "corners": 3,
+        "onTarget": 2,
+        "possession": 51,
+        "freeKicks": 19,
+        "yellowCards": 0,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 12,
+        "corners": 6,
+        "onTarget": 5,
+        "possession": 49,
+        "freeKicks": 13,
+        "yellowCards": 0,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 197,
+      "home_team": "수원",
+      "away_team": "인천",
+      "date": "2013.09.22",
+      "home": {
+        "fouls": 14,
+        "corners": 9,
+        "onTarget": 7,
+        "possession": 61,
+        "freeKicks": 15,
+        "yellowCards": 1,
+        "attempts": 16,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 21,
+        "corners": 3,
+        "onTarget": 6,
+        "possession": 39,
+        "freeKicks": 25,
+        "yellowCards": 1,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      }
+    },
+    {
+      "game_id": 198,
+      "home_team": "경남",
+      "away_team": "대구",
+      "date": "2013.09.22",
+      "home": {
+        "fouls": 12,
+        "corners": 2,
+        "onTarget": 3,
+        "possession": 39,
+        "freeKicks": 13,
+        "yellowCards": 4,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 11,
+        "corners": 7,
+        "onTarget": 5,
+        "possession": 61,
+        "freeKicks": 15,
+        "yellowCards": 2,
+        "attempts": 17,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      }
+    },
+    {
+      "game_id": 199,
+      "home_team": "강원",
+      "away_team": "성남",
+      "date": "2013.09.21",
+      "home": {
+        "fouls": 15,
+        "corners": 2,
+        "onTarget": 5,
+        "possession": 49,
+        "freeKicks": 17,
+        "yellowCards": 0,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 6,
+        "onTarget": 6,
+        "possession": 51,
+        "freeKicks": 18,
+        "yellowCards": 2,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 200,
+      "home_team": "전남",
+      "away_team": "대전",
+      "date": "2013.09.22",
+      "home": {
+        "fouls": 12,
+        "corners": 5,
+        "onTarget": 6,
+        "possession": 53,
+        "freeKicks": 14,
+        "yellowCards": 2,
+        "attempts": 11,
+        "doubleYellowCards": 1,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 19,
+        "corners": 5,
+        "onTarget": 4,
+        "possession": 47,
+        "freeKicks": 21,
+        "yellowCards": 1,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 201,
+      "home_team": "인천",
+      "away_team": "포항",
+      "date": "2013.09.28",
+      "home": {
+        "fouls": 14,
+        "corners": 6,
+        "onTarget": 6,
+        "possession": 56,
+        "freeKicks": 18,
+        "yellowCards": 0,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 2,
+        "onTarget": 7,
+        "possession": 44,
+        "freeKicks": 17,
+        "yellowCards": 2,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 202,
+      "home_team": "서울",
+      "away_team": "울산",
+      "date": "2013.10.20",
+      "home": {
+        "fouls": 10,
+        "corners": 8,
+        "onTarget": 3,
+        "possession": 57,
+        "freeKicks": 12,
+        "yellowCards": 0,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 13,
+        "corners": 3,
+        "onTarget": 7,
+        "possession": 43,
+        "freeKicks": 15,
+        "yellowCards": 2,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 203,
+      "home_team": "전북",
+      "away_team": "수원",
+      "date": "2013.09.29",
+      "home": {
+        "fouls": 10,
+        "corners": 4,
+        "onTarget": 9,
+        "possession": 50,
+        "freeKicks": 16,
+        "yellowCards": 1,
+        "attempts": 17,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 6
+      },
+      "away": {
+        "fouls": 19,
+        "corners": 2,
+        "onTarget": 2,
+        "possession": 50,
+        "freeKicks": 20,
+        "yellowCards": 2,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 204,
+      "home_team": "경남",
+      "away_team": "성남",
+      "date": "2013.09.28",
+      "home": {
+        "fouls": 20,
+        "corners": 1,
+        "onTarget": 3,
+        "possession": 48,
+        "freeKicks": 21,
+        "yellowCards": 2,
+        "attempts": 5,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 8,
+        "onTarget": 4,
+        "possession": 52,
+        "freeKicks": 17,
+        "yellowCards": 3,
+        "attempts": 16,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 205,
+      "home_team": "대전",
+      "away_team": "강원",
+      "date": "2013.09.28",
+      "home": {
+        "fouls": 13,
+        "corners": 2,
+        "onTarget": 5,
+        "possession": 53,
+        "freeKicks": 15,
+        "yellowCards": 1,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 20,
+        "corners": 1,
+        "onTarget": 5,
+        "possession": 47,
+        "freeKicks": 20,
+        "yellowCards": 4,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 206,
+      "home_team": "제주",
+      "away_team": "전남",
+      "date": "2013.09.29",
+      "home": {
+        "fouls": 13,
+        "corners": 5,
+        "onTarget": 4,
+        "possession": 53,
+        "freeKicks": 14,
+        "yellowCards": 3,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 8,
+        "onTarget": 4,
+        "possession": 47,
+        "freeKicks": 17,
+        "yellowCards": 2,
+        "attempts": 16,
+        "doubleYellowCards": 1,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 207,
+      "home_team": "포항",
+      "away_team": "수원",
+      "date": "2013.10.05",
+      "home": {
+        "fouls": 16,
+        "corners": 2,
+        "onTarget": 4,
+        "possession": 46,
+        "freeKicks": 17,
+        "yellowCards": 0,
+        "attempts": 5,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 18,
+        "corners": 3,
+        "onTarget": 8,
+        "possession": 54,
+        "freeKicks": 21,
+        "yellowCards": 1,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 208,
+      "home_team": "울산",
+      "away_team": "부산",
+      "date": "2013.10.05",
+      "home": {
+        "fouls": 21,
+        "corners": 2,
+        "onTarget": 5,
+        "possession": 50,
+        "freeKicks": 21,
+        "yellowCards": 1,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 19,
+        "corners": 6,
+        "onTarget": 9,
+        "possession": 50,
+        "freeKicks": 22,
+        "yellowCards": 1,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 209,
+      "home_team": "인천",
+      "away_team": "서울",
+      "date": "2013.10.06",
+      "home": {
+        "fouls": 25,
+        "corners": 2,
+        "onTarget": 4,
+        "possession": 53,
+        "freeKicks": 27,
+        "yellowCards": 2,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 12,
+        "corners": 2,
+        "onTarget": 4,
+        "possession": 47,
+        "freeKicks": 13,
+        "yellowCards": 1,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 210,
+      "home_team": "강원",
+      "away_team": "경남",
+      "date": "2013.10.05",
+      "home": {
+        "fouls": 18,
+        "corners": 2,
+        "onTarget": 4,
+        "possession": 43,
+        "freeKicks": 20,
+        "yellowCards": 2,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 6,
+        "onTarget": 5,
+        "possession": 57,
+        "freeKicks": 18,
+        "yellowCards": 2,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 211,
+      "home_team": "대구",
+      "away_team": "대전",
+      "date": "2013.10.05",
+      "home": {
+        "fouls": 11,
+        "corners": 8,
+        "onTarget": 6,
+        "possession": 55,
+        "freeKicks": 12,
+        "yellowCards": 0,
+        "attempts": 16,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 21,
+        "corners": 6,
+        "onTarget": 7,
+        "possession": 45,
+        "freeKicks": 22,
+        "yellowCards": 2,
+        "attempts": 16,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 212,
+      "home_team": "성남",
+      "away_team": "제주",
+      "date": "2013.10.06",
+      "home": {
+        "fouls": 16,
+        "corners": 9,
+        "onTarget": 4,
+        "possession": 55,
+        "freeKicks": 18,
+        "yellowCards": 0,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 0,
+        "onTarget": 1,
+        "possession": 45,
+        "freeKicks": 15,
+        "yellowCards": 3,
+        "attempts": 5,
+        "doubleYellowCards": 0,
+        "redCards": 1,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 213,
+      "home_team": "수원",
+      "away_team": "서울",
+      "date": "2013.10.09",
+      "home": {
+        "fouls": 11,
+        "corners": 6,
+        "onTarget": 7,
+        "possession": 49,
+        "freeKicks": 12,
+        "yellowCards": 1,
+        "attempts": 22,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 11,
+        "corners": 5,
+        "onTarget": 8,
+        "possession": 51,
+        "freeKicks": 13,
+        "yellowCards": 1,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 214,
+      "home_team": "포항",
+      "away_team": "부산",
+      "date": "2013.10.09",
+      "home": {
+        "fouls": 19,
+        "corners": 6,
+        "onTarget": 5,
+        "possession": 55,
+        "freeKicks": 20,
+        "yellowCards": 2,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 21,
+        "corners": 1,
+        "onTarget": 2,
+        "possession": 45,
+        "freeKicks": 22,
+        "yellowCards": 3,
+        "attempts": 5,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 215,
+      "home_team": "전북",
+      "away_team": "울산",
+      "date": "2013.10.09",
+      "home": {
+        "fouls": 15,
+        "corners": 7,
+        "onTarget": 5,
+        "possession": 53,
+        "freeKicks": 17,
+        "yellowCards": 1,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 21,
+        "corners": 1,
+        "onTarget": 5,
+        "possession": 47,
+        "freeKicks": 22,
+        "yellowCards": 1,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 216,
+      "home_team": "제주",
+      "away_team": "강원",
+      "date": "2013.10.09",
+      "home": {
+        "fouls": 11,
+        "corners": 4,
+        "onTarget": 6,
+        "possession": 57,
+        "freeKicks": 14,
+        "yellowCards": 2,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 12,
+        "corners": 2,
+        "onTarget": 2,
+        "possession": 43,
+        "freeKicks": 14,
+        "yellowCards": 1,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 217,
+      "home_team": "전남",
+      "away_team": "대구",
+      "date": "2013.10.09",
+      "home": {
+        "fouls": 10,
+        "corners": 4,
+        "onTarget": 5,
+        "possession": 56,
+        "freeKicks": 11,
+        "yellowCards": 1,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 22,
+        "corners": 5,
+        "onTarget": 3,
+        "possession": 44,
+        "freeKicks": 23,
+        "yellowCards": 3,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 218,
+      "home_team": "대전",
+      "away_team": "경남",
+      "date": "2013.10.09",
+      "home": {
+        "fouls": 17,
+        "corners": 4,
+        "onTarget": 3,
+        "possession": 58,
+        "freeKicks": 18,
+        "yellowCards": 2,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 28,
+        "corners": 1,
+        "onTarget": 3,
+        "possession": 42,
+        "freeKicks": 33,
+        "yellowCards": 5,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 5
+      }
+    },
+    {
+      "game_id": 219,
+      "home_team": "서울",
+      "away_team": "전북",
+      "date": "2013.11.20",
+      "home": {
+        "fouls": 9,
+        "corners": 1,
+        "onTarget": 6,
+        "possession": 44,
+        "freeKicks": 10,
+        "yellowCards": 0,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 7,
+        "onTarget": 9,
+        "possession": 56,
+        "freeKicks": 17,
+        "yellowCards": 3,
+        "attempts": 18,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 220,
+      "home_team": "울산",
+      "away_team": "수원",
+      "date": "2013.10.27",
+      "home": {
+        "fouls": 12,
+        "corners": 1,
+        "onTarget": 4,
+        "possession": 37,
+        "freeKicks": 18,
+        "yellowCards": 2,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 6
+      },
+      "away": {
+        "fouls": 9,
+        "corners": 6,
+        "onTarget": 7,
+        "possession": 63,
+        "freeKicks": 12,
+        "yellowCards": 2,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 221,
+      "home_team": "부산",
+      "away_team": "인천",
+      "date": "2013.10.27",
+      "home": {
+        "fouls": 18,
+        "corners": 2,
+        "onTarget": 5,
+        "possession": 51,
+        "freeKicks": 20,
+        "yellowCards": 3,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 20,
+        "corners": 5,
+        "onTarget": 2,
+        "possession": 49,
+        "freeKicks": 22,
+        "yellowCards": 1,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 222,
+      "home_team": "경남",
+      "away_team": "제주",
+      "date": "2013.10.26",
+      "home": {
+        "fouls": 19,
+        "corners": 7,
+        "onTarget": 6,
+        "possession": 47,
+        "freeKicks": 21,
+        "yellowCards": 3,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 20,
+        "corners": 1,
+        "onTarget": 3,
+        "possession": 53,
+        "freeKicks": 22,
+        "yellowCards": 1,
+        "attempts": 5,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 223,
+      "home_team": "강원",
+      "away_team": "전남",
+      "date": "2013.10.27",
+      "home": {
+        "fouls": 10,
+        "corners": 3,
+        "onTarget": 4,
+        "possession": 50,
+        "freeKicks": 10,
+        "yellowCards": 3,
+        "attempts": 7,
+        "doubleYellowCards": 1,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 19,
+        "corners": 4,
+        "onTarget": 5,
+        "possession": 50,
+        "freeKicks": 20,
+        "yellowCards": 3,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 224,
+      "home_team": "대구",
+      "away_team": "성남",
+      "date": "2013.10.27",
+      "home": {
+        "fouls": 12,
+        "corners": 3,
+        "onTarget": 3,
+        "possession": 50,
+        "freeKicks": 13,
+        "yellowCards": 1,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 20,
+        "corners": 6,
+        "onTarget": 7,
+        "possession": 50,
+        "freeKicks": 22,
+        "yellowCards": 3,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 225,
+      "home_team": "포항",
+      "away_team": "인천",
+      "date": "2013.10.30",
+      "home": {
+        "fouls": 17,
+        "corners": 3,
+        "onTarget": 5,
+        "possession": 53,
+        "freeKicks": 17,
+        "yellowCards": 2,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 17,
+        "corners": 4,
+        "onTarget": 5,
+        "possession": 47,
+        "freeKicks": 19,
+        "yellowCards": 2,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 226,
+      "home_team": "울산",
+      "away_team": "서울",
+      "date": "2013.10.30",
+      "home": {
+        "fouls": 18,
+        "corners": 5,
+        "onTarget": 3,
+        "possession": 46,
+        "freeKicks": 22,
+        "yellowCards": 1,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      },
+      "away": {
+        "fouls": 12,
+        "corners": 4,
+        "onTarget": 5,
+        "possession": 54,
+        "freeKicks": 13,
+        "yellowCards": 0,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 227,
+      "home_team": "전북",
+      "away_team": "부산",
+      "date": "2013.10.30",
+      "home": {
+        "fouls": 14,
+        "corners": 7,
+        "onTarget": 8,
+        "possession": 49,
+        "freeKicks": 16,
+        "yellowCards": 1,
+        "attempts": 16,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 19,
+        "corners": 3,
+        "onTarget": 6,
+        "possession": 51,
+        "freeKicks": 21,
+        "yellowCards": 0,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 228,
+      "home_team": "제주",
+      "away_team": "대전",
+      "date": "2013.10.20",
+      "home": {
+        "fouls": 15,
+        "corners": 5,
+        "onTarget": 5,
+        "possession": 56,
+        "freeKicks": 16,
+        "yellowCards": 0,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 27,
+        "corners": 5,
+        "onTarget": 5,
+        "possession": 44,
+        "freeKicks": 30,
+        "yellowCards": 1,
+        "attempts": 20,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 229,
+      "home_team": "경남",
+      "away_team": "전남",
+      "date": "2013.10.30",
+      "home": {
+        "fouls": 15,
+        "corners": 2,
+        "onTarget": 5,
+        "possession": 54,
+        "freeKicks": 15,
+        "yellowCards": 2,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 3,
+        "onTarget": 5,
+        "possession": 46,
+        "freeKicks": 14,
+        "yellowCards": 3,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 230,
+      "home_team": "성남",
+      "away_team": "강원",
+      "date": "2013.10.30",
+      "home": {
+        "fouls": 20,
+        "corners": 7,
+        "onTarget": 3,
+        "possession": 51,
+        "freeKicks": 23,
+        "yellowCards": 3,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 1,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 17,
+        "corners": 2,
+        "onTarget": 3,
+        "possession": 49,
+        "freeKicks": 21,
+        "yellowCards": 3,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      }
+    },
+    {
+      "game_id": 231,
+      "home_team": "서울",
+      "away_team": "수원",
+      "date": "2013.11.02",
+      "home": {
+        "fouls": 6,
+        "corners": 3,
+        "onTarget": 9,
+        "possession": 51,
+        "freeKicks": 8,
+        "yellowCards": 2,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 11,
+        "corners": 3,
+        "onTarget": 2,
+        "possession": 49,
+        "freeKicks": 12,
+        "yellowCards": 2,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 232,
+      "home_team": "인천",
+      "away_team": "울산",
+      "date": "2013.11.03",
+      "home": {
+        "fouls": 27,
+        "corners": 8,
+        "onTarget": 6,
+        "possession": 52,
+        "freeKicks": 28,
+        "yellowCards": 2,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 4,
+        "onTarget": 7,
+        "possession": 48,
+        "freeKicks": 16,
+        "yellowCards": 0,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 233,
+      "home_team": "부산",
+      "away_team": "포항",
+      "date": "2013.11.03",
+      "home": {
+        "fouls": 17,
+        "corners": 1,
+        "onTarget": 2,
+        "possession": 48,
+        "freeKicks": 21,
+        "yellowCards": 3,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 7,
+        "onTarget": 7,
+        "possession": 52,
+        "freeKicks": 16,
+        "yellowCards": 1,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 234,
+      "home_team": "전남",
+      "away_team": "제주",
+      "date": "2013.11.02",
+      "home": {
+        "fouls": 11,
+        "corners": 5,
+        "onTarget": 4,
+        "possession": 46,
+        "freeKicks": 14,
+        "yellowCards": 2,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 21,
+        "corners": 5,
+        "onTarget": 3,
+        "possession": 54,
+        "freeKicks": 23,
+        "yellowCards": 1,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 235,
+      "home_team": "성남",
+      "away_team": "경남",
+      "date": "2013.11.03",
+      "home": {
+        "fouls": 23,
+        "corners": 9,
+        "onTarget": 5,
+        "possession": 51,
+        "freeKicks": 26,
+        "yellowCards": 3,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 17,
+        "corners": 4,
+        "onTarget": 1,
+        "possession": 49,
+        "freeKicks": 22,
+        "yellowCards": 1,
+        "attempts": 4,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 5
+      }
+    },
+    {
+      "game_id": 236,
+      "home_team": "대전",
+      "away_team": "대구",
+      "date": "2013.11.03",
+      "home": {
+        "fouls": 14,
+        "corners": 9,
+        "onTarget": 7,
+        "possession": 51,
+        "freeKicks": 14,
+        "yellowCards": 3,
+        "attempts": 21,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 0,
+        "onTarget": 7,
+        "possession": 49,
+        "freeKicks": 18,
+        "yellowCards": 1,
+        "attempts": 16,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 237,
+      "home_team": "울산",
+      "away_team": "전북",
+      "date": "2013.11.09",
+      "home": {
+        "fouls": 17,
+        "corners": 7,
+        "onTarget": 4,
+        "possession": 55,
+        "freeKicks": 18,
+        "yellowCards": 1,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 18,
+        "corners": 5,
+        "onTarget": 4,
+        "possession": 45,
+        "freeKicks": 20,
+        "yellowCards": 1,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 238,
+      "home_team": "수원",
+      "away_team": "포항",
+      "date": "2013.11.10",
+      "home": {
+        "fouls": 15,
+        "corners": 1,
+        "onTarget": 5,
+        "possession": 50,
+        "freeKicks": 16,
+        "yellowCards": 3,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 9,
+        "corners": 2,
+        "onTarget": 2,
+        "possession": 50,
+        "freeKicks": 13,
+        "yellowCards": 1,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      }
+    },
+    {
+      "game_id": 239,
+      "home_team": "인천",
+      "away_team": "부산",
+      "date": "2013.11.10",
+      "home": {
+        "fouls": 20,
+        "corners": 1,
+        "onTarget": 3,
+        "possession": 52,
+        "freeKicks": 23,
+        "yellowCards": 1,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 11,
+        "corners": 4,
+        "onTarget": 4,
+        "possession": 48,
+        "freeKicks": 13,
+        "yellowCards": 2,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 240,
+      "home_team": "강원",
+      "away_team": "대전",
+      "date": "2013.11.09",
+      "home": {
+        "fouls": 14,
+        "corners": 6,
+        "onTarget": 9,
+        "possession": 54,
+        "freeKicks": 16,
+        "yellowCards": 2,
+        "attempts": 20,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 2,
+        "onTarget": 5,
+        "possession": 46,
+        "freeKicks": 16,
+        "yellowCards": 0,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 241,
+      "home_team": "제주",
+      "away_team": "성남",
+      "date": "2013.11.10",
+      "home": {
+        "fouls": 18,
+        "corners": 2,
+        "onTarget": 1,
+        "possession": 41,
+        "freeKicks": 19,
+        "yellowCards": 3,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 17,
+        "corners": 9,
+        "onTarget": 6,
+        "possession": 59,
+        "freeKicks": 18,
+        "yellowCards": 1,
+        "attempts": 16,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 242,
+      "home_team": "대구",
+      "away_team": "전남",
+      "date": "2013.11.10",
+      "home": {
+        "fouls": 18,
+        "corners": 6,
+        "onTarget": 2,
+        "possession": 55,
+        "freeKicks": 21,
+        "yellowCards": 2,
+        "attempts": 16,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 5,
+        "onTarget": 8,
+        "possession": 45,
+        "freeKicks": 17,
+        "yellowCards": 0,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 243,
+      "home_team": "포항",
+      "away_team": "전북",
+      "date": "2013.11.16",
+      "home": {
+        "fouls": 12,
+        "corners": 4,
+        "onTarget": 6,
+        "possession": 51,
+        "freeKicks": 12,
+        "yellowCards": 3,
+        "attempts": 10,
+        "doubleYellowCards": 1,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 23,
+        "corners": 2,
+        "onTarget": 3,
+        "possession": 49,
+        "freeKicks": 25,
+        "yellowCards": 4,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 1,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 244,
+      "home_team": "서울",
+      "away_team": "인천",
+      "date": "2013.11.17",
+      "home": {
+        "fouls": 12,
+        "corners": 2,
+        "onTarget": 6,
+        "possession": 52,
+        "freeKicks": 13,
+        "yellowCards": 1,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 23,
+        "corners": 4,
+        "onTarget": 7,
+        "possession": 48,
+        "freeKicks": 25,
+        "yellowCards": 2,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 245,
+      "home_team": "부산",
+      "away_team": "수원",
+      "date": "2013.11.17",
+      "home": {
+        "fouls": 11,
+        "corners": 14,
+        "onTarget": 9,
+        "possession": 50,
+        "freeKicks": 15,
+        "yellowCards": 2,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      },
+      "away": {
+        "fouls": 17,
+        "corners": 3,
+        "onTarget": 3,
+        "possession": 50,
+        "freeKicks": 18,
+        "yellowCards": 0,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 246,
+      "home_team": "경남",
+      "away_team": "강원",
+      "date": "2013.11.16",
+      "home": {
+        "fouls": 16,
+        "corners": 2,
+        "onTarget": 1,
+        "possession": 55,
+        "freeKicks": 17,
+        "yellowCards": 2,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 22,
+        "corners": 0,
+        "onTarget": 3,
+        "possession": 45,
+        "freeKicks": 23,
+        "yellowCards": 2,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 247,
+      "home_team": "제주",
+      "away_team": "대구",
+      "date": "2013.11.17",
+      "home": {
+        "fouls": 11,
+        "corners": 2,
+        "onTarget": 2,
+        "possession": 55,
+        "freeKicks": 13,
+        "yellowCards": 2,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 17,
+        "corners": 5,
+        "onTarget": 9,
+        "possession": 45,
+        "freeKicks": 17,
+        "yellowCards": 3,
+        "attempts": 12,
+        "doubleYellowCards": 1,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 248,
+      "home_team": "대전",
+      "away_team": "성남",
+      "date": "2013.11.17",
+      "home": {
+        "fouls": 14,
+        "corners": 2,
+        "onTarget": 2,
+        "possession": 40,
+        "freeKicks": 15,
+        "yellowCards": 2,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 11,
+        "corners": 7,
+        "onTarget": 5,
+        "possession": 60,
+        "freeKicks": 15,
+        "yellowCards": 3,
+        "attempts": 20,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      }
+    },
+    {
+      "game_id": 249,
+      "home_team": "수원",
+      "away_team": "울산",
+      "date": "2013.11.23",
+      "home": {
+        "fouls": 8,
+        "corners": 0,
+        "onTarget": 4,
+        "possession": 58,
+        "freeKicks": 9,
+        "yellowCards": 0,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 0,
+        "onTarget": 4,
+        "possession": 42,
+        "freeKicks": 19,
+        "yellowCards": 2,
+        "attempts": 5,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 250,
+      "home_team": "전북",
+      "away_team": "인천",
+      "date": "2013.11.23",
+      "home": {
+        "fouls": 18,
+        "corners": 4,
+        "onTarget": 3,
+        "possession": 51,
+        "freeKicks": 23,
+        "yellowCards": 2,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 5
+      },
+      "away": {
+        "fouls": 17,
+        "corners": 5,
+        "onTarget": 14,
+        "possession": 49,
+        "freeKicks": 18,
+        "yellowCards": 3,
+        "attempts": 18,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 251,
+      "home_team": "서울",
+      "away_team": "부산",
+      "date": "2013.11.24",
+      "home": {
+        "fouls": 15,
+        "corners": 4,
+        "onTarget": 11,
+        "possession": 55,
+        "freeKicks": 17,
+        "yellowCards": 0,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 9,
+        "corners": 1,
+        "onTarget": 5,
+        "possession": 45,
+        "freeKicks": 10,
+        "yellowCards": 3,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 252,
+      "home_team": "성남",
+      "away_team": "대구",
+      "date": "2013.11.23",
+      "home": {
+        "fouls": 30,
+        "corners": 1,
+        "onTarget": 4,
+        "possession": 51,
+        "freeKicks": 32,
+        "yellowCards": 5,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 6,
+        "onTarget": 2,
+        "possession": 49,
+        "freeKicks": 16,
+        "yellowCards": 1,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 253,
+      "home_team": "제주",
+      "away_team": "경남",
+      "date": "2013.11.24",
+      "home": {
+        "fouls": 16,
+        "corners": 2,
+        "onTarget": 3,
+        "possession": 50,
+        "freeKicks": 19,
+        "yellowCards": 3,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      },
+      "away": {
+        "fouls": 29,
+        "corners": 3,
+        "onTarget": 8,
+        "possession": 50,
+        "freeKicks": 31,
+        "yellowCards": 3,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 254,
+      "home_team": "전남",
+      "away_team": "강원",
+      "date": "2013.11.23",
+      "home": {
+        "fouls": 17,
+        "corners": 6,
+        "onTarget": 7,
+        "possession": 42,
+        "freeKicks": 18,
+        "yellowCards": 1,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 18,
+        "corners": 2,
+        "onTarget": 4,
+        "possession": 58,
+        "freeKicks": 18,
+        "yellowCards": 3,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 255,
+      "home_team": "포항",
+      "away_team": "서울",
+      "date": "2013.11.27",
+      "home": {
+        "fouls": 18,
+        "corners": 2,
+        "onTarget": 9,
+        "possession": 50,
+        "freeKicks": 19,
+        "yellowCards": 3,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 11,
+        "corners": 2,
+        "onTarget": 7,
+        "possession": 50,
+        "freeKicks": 15,
+        "yellowCards": 0,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      }
+    },
+    {
+      "game_id": 256,
+      "home_team": "수원",
+      "away_team": "전북",
+      "date": "2013.11.27",
+      "home": {
+        "fouls": 20,
+        "corners": 3,
+        "onTarget": 4,
+        "possession": 53,
+        "freeKicks": 21,
+        "yellowCards": 1,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 18,
+        "corners": 1,
+        "onTarget": 2,
+        "possession": 47,
+        "freeKicks": 20,
+        "yellowCards": 1,
+        "attempts": 5,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 257,
+      "home_team": "부산",
+      "away_team": "울산",
+      "date": "2013.11.27",
+      "home": {
+        "fouls": 22,
+        "corners": 2,
+        "onTarget": 4,
+        "possession": 52,
+        "freeKicks": 27,
+        "yellowCards": 5,
+        "attempts": 4,
+        "doubleYellowCards": 1,
+        "redCards": 0,
+        "offsides": 5
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 2,
+        "onTarget": 4,
+        "possession": 48,
+        "freeKicks": 16,
+        "yellowCards": 2,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 258,
+      "home_team": "경남",
+      "away_team": "대전",
+      "date": "2013.11.27",
+      "home": {
+        "fouls": 20,
+        "corners": 6,
+        "onTarget": 2,
+        "possession": 52,
+        "freeKicks": 20,
+        "yellowCards": 3,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 20,
+        "corners": 1,
+        "onTarget": 1,
+        "possession": 48,
+        "freeKicks": 22,
+        "yellowCards": 2,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 259,
+      "home_team": "강원",
+      "away_team": "대구",
+      "date": "2013.11.27",
+      "home": {
+        "fouls": 23,
+        "corners": 2,
+        "onTarget": 5,
+        "possession": 50,
+        "freeKicks": 23,
+        "yellowCards": 3,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 10,
+        "corners": 2,
+        "onTarget": 5,
+        "possession": 50,
+        "freeKicks": 10,
+        "yellowCards": 0,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 260,
+      "home_team": "전남",
+      "away_team": "성남",
+      "date": "2013.11.27",
+      "home": {
+        "fouls": 11,
+        "corners": 5,
+        "onTarget": 4,
+        "possession": 50,
+        "freeKicks": 11,
+        "yellowCards": 0,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 21,
+        "corners": 7,
+        "onTarget": 5,
+        "possession": 50,
+        "freeKicks": 22,
+        "yellowCards": 2,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 261,
+      "home_team": "전북",
+      "away_team": "서울",
+      "date": "2013.12.01",
+      "home": {
+        "fouls": 19,
+        "corners": 6,
+        "onTarget": 8,
+        "possession": 48,
+        "freeKicks": 21,
+        "yellowCards": 3,
+        "attempts": 16,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 7,
+        "onTarget": 11,
+        "possession": 52,
+        "freeKicks": 16,
+        "yellowCards": 3,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 262,
+      "home_team": "울산",
+      "away_team": "포항",
+      "date": "2013.12.01",
+      "home": {
+        "fouls": 11,
+        "corners": 1,
+        "onTarget": 1,
+        "possession": 37,
+        "freeKicks": 11,
+        "yellowCards": 6,
+        "attempts": 4,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 7,
+        "onTarget": 8,
+        "possession": 63,
+        "freeKicks": 16,
+        "yellowCards": 3,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 263,
+      "home_team": "인천",
+      "away_team": "수원",
+      "date": "2013.12.01",
+      "home": {
+        "fouls": 30,
+        "corners": 2,
+        "onTarget": 4,
+        "possession": 49,
+        "freeKicks": 31,
+        "yellowCards": 3,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 3,
+        "onTarget": 7,
+        "possession": 51,
+        "freeKicks": 15,
+        "yellowCards": 0,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 264,
+      "home_team": "대전",
+      "away_team": "전남",
+      "date": "2013.11.30",
+      "home": {
+        "fouls": 14,
+        "corners": 3,
+        "onTarget": 3,
+        "possession": 58,
+        "freeKicks": 14,
+        "yellowCards": 2,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 6,
+        "corners": 1,
+        "onTarget": 7,
+        "possession": 42,
+        "freeKicks": 8,
+        "yellowCards": 2,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 265,
+      "home_team": "대구",
+      "away_team": "경남",
+      "date": "2013.11.30",
+      "home": {
+        "fouls": 11,
+        "corners": 3,
+        "onTarget": 2,
+        "possession": 55,
+        "freeKicks": 16,
+        "yellowCards": 1,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 5
+      },
+      "away": {
+        "fouls": 30,
+        "corners": 2,
+        "onTarget": 5,
+        "possession": 45,
+        "freeKicks": 30,
+        "yellowCards": 3,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 266,
+      "home_team": "강원",
+      "away_team": "제주",
+      "date": "2013.11.30",
+      "home": {
+        "fouls": 12,
+        "corners": 1,
+        "onTarget": 7,
+        "possession": 45,
+        "freeKicks": 18,
+        "yellowCards": 3,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 6
+      },
+      "away": {
+        "fouls": 11,
+        "corners": 7,
+        "onTarget": 4,
+        "possession": 55,
+        "freeKicks": 13,
+        "yellowCards": 3,
+        "attempts": 5,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    }
+  ]
+}

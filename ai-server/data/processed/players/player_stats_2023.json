@@ -1,0 +1,3248 @@
+{
+  "season": 2023,
+  "league": "K1",
+  "source": "kleague_crawled",
+  "total_players": 324,
+  "players": [
+    {
+      "team": "대전",
+      "player_name": "티아고",
+      "appearances": 19,
+      "goals": 17,
+      "assists": 7,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "울산",
+      "player_name": "주민규",
+      "appearances": 18,
+      "goals": 17,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 5,
+      "red_cards": 0
+    },
+    {
+      "team": "포항",
+      "player_name": "제카",
+      "appearances": 20,
+      "goals": 12,
+      "assists": 7,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "나상호",
+      "appearances": 13,
+      "goals": 12,
+      "assists": 4,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "울산",
+      "player_name": "바코",
+      "appearances": 9,
+      "goals": 11,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "제주",
+      "player_name": "유리 조나탄",
+      "appearances": 14,
+      "goals": 10,
+      "assists": 4,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "수원FC",
+      "player_name": "이승우",
+      "appearances": 16,
+      "goals": 10,
+      "assists": 3,
+      "own_goals": 0,
+      "yellow_cards": 5,
+      "red_cards": 1
+    },
+    {
+      "team": "수원FC",
+      "player_name": "라스",
+      "appearances": 12,
+      "goals": 9,
+      "assists": 5,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "대구",
+      "player_name": "에드가",
+      "appearances": 14,
+      "goals": 9,
+      "assists": 3,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 1
+    },
+    {
+      "team": "대구",
+      "player_name": "고재현",
+      "appearances": 12,
+      "goals": 9,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 6,
+      "red_cards": 0
+    },
+    {
+      "team": "대전",
+      "player_name": "김인균",
+      "appearances": 12,
+      "goals": 8,
+      "assists": 6,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "대구",
+      "player_name": "세징야",
+      "appearances": 13,
+      "goals": 8,
+      "assists": 5,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "제주",
+      "player_name": "헤이스",
+      "appearances": 14,
+      "goals": 8,
+      "assists": 5,
+      "own_goals": 0,
+      "yellow_cards": 5,
+      "red_cards": 0
+    },
+    {
+      "team": "수원FC",
+      "player_name": "윤빛가람",
+      "appearances": 15,
+      "goals": 8,
+      "assists": 5,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "윌리안",
+      "appearances": 11,
+      "goals": 8,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "포항",
+      "player_name": "이호재",
+      "appearances": 10,
+      "goals": 8,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 1
+    },
+    {
+      "team": "포항",
+      "player_name": "고영준",
+      "appearances": 7,
+      "goals": 8,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "인천",
+      "player_name": "제르소",
+      "appearances": 11,
+      "goals": 7,
+      "assists": 6,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "송민규",
+      "appearances": 10,
+      "goals": 7,
+      "assists": 3,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "광주",
+      "player_name": "아사니",
+      "appearances": 9,
+      "goals": 7,
+      "assists": 3,
+      "own_goals": 0,
+      "yellow_cards": 6,
+      "red_cards": 0
+    },
+    {
+      "team": "인천",
+      "player_name": "에르난데스",
+      "appearances": 10,
+      "goals": 6,
+      "assists": 5,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "울산",
+      "player_name": "루빅손",
+      "appearances": 10,
+      "goals": 6,
+      "assists": 3,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "대전",
+      "player_name": "마사",
+      "appearances": 8,
+      "goals": 6,
+      "assists": 3,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "문선민",
+      "appearances": 9,
+      "goals": 6,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "구스타보",
+      "appearances": 8,
+      "goals": 6,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "인천",
+      "player_name": "천성훈",
+      "appearances": 5,
+      "goals": 6,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "울산",
+      "player_name": "마틴 아담",
+      "appearances": 12,
+      "goals": 5,
+      "assists": 4,
+      "own_goals": 0,
+      "yellow_cards": 7,
+      "red_cards": 0
+    },
+    {
+      "team": "광주",
+      "player_name": "엄지성",
+      "appearances": 7,
+      "goals": 5,
+      "assists": 3,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "제주",
+      "player_name": "서진수",
+      "appearances": 7,
+      "goals": 5,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "한교원",
+      "appearances": 6,
+      "goals": 5,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "대구",
+      "player_name": "바셀루스",
+      "appearances": 7,
+      "goals": 5,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "김신진",
+      "appearances": 10,
+      "goals": 5,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 5,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "조규성",
+      "appearances": 4,
+      "goals": 5,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "일류첸코",
+      "appearances": 5,
+      "goals": 5,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "안병준",
+      "appearances": 6,
+      "goals": 5,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "광주",
+      "player_name": "이건희",
+      "appearances": 6,
+      "goals": 5,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "김주찬",
+      "appearances": 5,
+      "goals": 5,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "포항",
+      "player_name": "백성동",
+      "appearances": 10,
+      "goals": 4,
+      "assists": 8,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "울산",
+      "player_name": "엄원상",
+      "appearances": 8,
+      "goals": 4,
+      "assists": 4,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "강원",
+      "player_name": "김대원",
+      "appearances": 9,
+      "goals": 4,
+      "assists": 4,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "아코스티",
+      "appearances": 6,
+      "goals": 4,
+      "assists": 3,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "황의조",
+      "appearances": 7,
+      "goals": 4,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "수원FC",
+      "player_name": "무릴로",
+      "appearances": 6,
+      "goals": 4,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "팔로세비치",
+      "appearances": 8,
+      "goals": 4,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 5,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "뮬리치",
+      "appearances": 6,
+      "goals": 4,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "대전",
+      "player_name": "신상은",
+      "appearances": 5,
+      "goals": 4,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "포항",
+      "player_name": "그랜트",
+      "appearances": 10,
+      "goals": 4,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 6,
+      "red_cards": 0
+    },
+    {
+      "team": "강원",
+      "player_name": "박상혁",
+      "appearances": 4,
+      "goals": 4,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "포항",
+      "player_name": "김승대",
+      "appearances": 9,
+      "goals": 3,
+      "assists": 7,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "대전",
+      "player_name": "이진현",
+      "appearances": 9,
+      "goals": 3,
+      "assists": 5,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "울산",
+      "player_name": "설영우",
+      "appearances": 13,
+      "goals": 3,
+      "assists": 4,
+      "own_goals": 0,
+      "yellow_cards": 6,
+      "red_cards": 0
+    },
+    {
+      "team": "인천",
+      "player_name": "김보섭",
+      "appearances": 8,
+      "goals": 3,
+      "assists": 4,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "광주",
+      "player_name": "허율",
+      "appearances": 12,
+      "goals": 3,
+      "assists": 3,
+      "own_goals": 0,
+      "yellow_cards": 6,
+      "red_cards": 0
+    },
+    {
+      "team": "울산",
+      "player_name": "아타루",
+      "appearances": 6,
+      "goals": 3,
+      "assists": 3,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "임상협",
+      "appearances": 5,
+      "goals": 3,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "박동진",
+      "appearances": 8,
+      "goals": 3,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "인천",
+      "player_name": "음포쿠",
+      "appearances": 7,
+      "goals": 3,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 5,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "백승호",
+      "appearances": 6,
+      "goals": 3,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "광주",
+      "player_name": "티모",
+      "appearances": 10,
+      "goals": 3,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 6,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "바사니",
+      "appearances": 7,
+      "goals": 3,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "하파 실바",
+      "appearances": 6,
+      "goals": 3,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "제주",
+      "player_name": "김주공",
+      "appearances": 4,
+      "goals": 3,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "강원",
+      "player_name": "가브리엘",
+      "appearances": 7,
+      "goals": 3,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "인천",
+      "player_name": "무고사",
+      "appearances": 3,
+      "goals": 3,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "수원FC",
+      "player_name": "로페즈",
+      "appearances": 4,
+      "goals": 3,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 1
+    },
+    {
+      "team": "인천",
+      "player_name": "오반석",
+      "appearances": 4,
+      "goals": 3,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "광주",
+      "player_name": "김한길",
+      "appearances": 8,
+      "goals": 3,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 5,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "한호강",
+      "appearances": 7,
+      "goals": 3,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 1
+    },
+    {
+      "team": "광주",
+      "player_name": "두현석",
+      "appearances": 10,
+      "goals": 2,
+      "assists": 7,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "대전",
+      "player_name": "레안드로",
+      "appearances": 5,
+      "goals": 2,
+      "assists": 7,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "기성용",
+      "appearances": 11,
+      "goals": 2,
+      "assists": 4,
+      "own_goals": 0,
+      "yellow_cards": 5,
+      "red_cards": 0
+    },
+    {
+      "team": "광주",
+      "player_name": "정호연",
+      "appearances": 11,
+      "goals": 2,
+      "assists": 4,
+      "own_goals": 0,
+      "yellow_cards": 5,
+      "red_cards": 0
+    },
+    {
+      "team": "수원FC",
+      "player_name": "이광혁",
+      "appearances": 10,
+      "goals": 2,
+      "assists": 4,
+      "own_goals": 0,
+      "yellow_cards": 6,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "이기제",
+      "appearances": 8,
+      "goals": 2,
+      "assists": 4,
+      "own_goals": 0,
+      "yellow_cards": 5,
+      "red_cards": 0
+    },
+    {
+      "team": "울산",
+      "player_name": "김민혁",
+      "appearances": 12,
+      "goals": 2,
+      "assists": 3,
+      "own_goals": 0,
+      "yellow_cards": 7,
+      "red_cards": 0
+    },
+    {
+      "team": "대전",
+      "player_name": "전병관",
+      "appearances": 4,
+      "goals": 2,
+      "assists": 3,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "수원FC",
+      "player_name": "김현",
+      "appearances": 6,
+      "goals": 2,
+      "assists": 3,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "포항",
+      "player_name": "완델손",
+      "appearances": 7,
+      "goals": 2,
+      "assists": 3,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "제주",
+      "player_name": "안현범",
+      "appearances": 6,
+      "goals": 2,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "강원",
+      "player_name": "김진호",
+      "appearances": 5,
+      "goals": 2,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "강원",
+      "player_name": "서민우",
+      "appearances": 11,
+      "goals": 2,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 8,
+      "red_cards": 0
+    },
+    {
+      "team": "수원FC",
+      "player_name": "오인표",
+      "appearances": 5,
+      "goals": 2,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "광주",
+      "player_name": "안영규",
+      "appearances": 8,
+      "goals": 2,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 5,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "김주성",
+      "appearances": 7,
+      "goals": 2,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "인천",
+      "player_name": "이명주",
+      "appearances": 7,
+      "goals": 2,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 5,
+      "red_cards": 0
+    },
+    {
+      "team": "대전",
+      "player_name": "조유민",
+      "appearances": 8,
+      "goals": 2,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 6,
+      "red_cards": 0
+    },
+    {
+      "team": "대전",
+      "player_name": "이현식",
+      "appearances": 10,
+      "goals": 2,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 9,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "김경중",
+      "appearances": 5,
+      "goals": 2,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "광주",
+      "player_name": "이희균",
+      "appearances": 9,
+      "goals": 2,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 6,
+      "red_cards": 0
+    },
+    {
+      "team": "제주",
+      "player_name": "김승섭",
+      "appearances": 5,
+      "goals": 2,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "광주",
+      "player_name": "하승운",
+      "appearances": 4,
+      "goals": 2,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "대구",
+      "player_name": "이근호",
+      "appearances": 4,
+      "goals": 2,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "인천",
+      "player_name": "홍시후",
+      "appearances": 5,
+      "goals": 2,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "강원",
+      "player_name": "이정협",
+      "appearances": 5,
+      "goals": 2,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "광주",
+      "player_name": "토마스",
+      "appearances": 6,
+      "goals": 2,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "고승범",
+      "appearances": 5,
+      "goals": 2,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "울산",
+      "player_name": "이동경",
+      "appearances": 3,
+      "goals": 2,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "안현범",
+      "appearances": 3,
+      "goals": 2,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "포항",
+      "player_name": "정재희",
+      "appearances": 3,
+      "goals": 2,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "제주",
+      "player_name": "정운",
+      "appearances": 8,
+      "goals": 2,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 6,
+      "red_cards": 0
+    },
+    {
+      "team": "제주",
+      "player_name": "김봉수",
+      "appearances": 6,
+      "goals": 2,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "오스마르",
+      "appearances": 7,
+      "goals": 2,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 1
+    },
+    {
+      "team": "포항",
+      "player_name": "하창래",
+      "appearances": 10,
+      "goals": 2,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 6,
+      "red_cards": 2
+    },
+    {
+      "team": "강원",
+      "player_name": "갈레고",
+      "appearances": 5,
+      "goals": 2,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "대전",
+      "player_name": "김민덕",
+      "appearances": 4,
+      "goals": 2,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "인천",
+      "player_name": "문지환",
+      "appearances": 9,
+      "goals": 2,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 8,
+      "red_cards": 0
+    },
+    {
+      "team": "대구",
+      "player_name": "케이타",
+      "appearances": 6,
+      "goals": 2,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 5,
+      "red_cards": 0
+    },
+    {
+      "team": "울산",
+      "player_name": "황재환",
+      "appearances": 1,
+      "goals": 2,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "이승모",
+      "appearances": 2,
+      "goals": 2,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "포항",
+      "player_name": "한찬희",
+      "appearances": 5,
+      "goals": 2,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "인천",
+      "player_name": "김민석",
+      "appearances": 2,
+      "goals": 2,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "제주",
+      "player_name": "연제운",
+      "appearances": 2,
+      "goals": 2,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "김경민",
+      "appearances": 2,
+      "goals": 2,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "대전",
+      "player_name": "배준호",
+      "appearances": 2,
+      "goals": 2,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "박재용",
+      "appearances": 2,
+      "goals": 2,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "포항",
+      "player_name": "홍윤상",
+      "appearances": 2,
+      "goals": 2,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "제주",
+      "player_name": "김건웅",
+      "appearances": 4,
+      "goals": 2,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "광주",
+      "player_name": "베카",
+      "appearances": 2,
+      "goals": 2,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "강성진",
+      "appearances": 1,
+      "goals": 2,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "대구",
+      "player_name": "홍철",
+      "appearances": 8,
+      "goals": 1,
+      "assists": 6,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "대구",
+      "player_name": "장성원",
+      "appearances": 6,
+      "goals": 1,
+      "assists": 4,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "아마노 준",
+      "appearances": 5,
+      "goals": 1,
+      "assists": 3,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "인천",
+      "player_name": "김도혁",
+      "appearances": 7,
+      "goals": 1,
+      "assists": 3,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "인천",
+      "player_name": "신진호",
+      "appearances": 8,
+      "goals": 1,
+      "assists": 3,
+      "own_goals": 0,
+      "yellow_cards": 5,
+      "red_cards": 0
+    },
+    {
+      "team": "대구",
+      "player_name": "황재원",
+      "appearances": 11,
+      "goals": 1,
+      "assists": 3,
+      "own_goals": 0,
+      "yellow_cards": 8,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "박수일",
+      "appearances": 7,
+      "goals": 1,
+      "assists": 3,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "수원FC",
+      "player_name": "이영재",
+      "appearances": 4,
+      "goals": 1,
+      "assists": 3,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "대전",
+      "player_name": "주세종",
+      "appearances": 7,
+      "goals": 1,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "박진섭",
+      "appearances": 6,
+      "goals": 1,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "울산",
+      "player_name": "박용우",
+      "appearances": 6,
+      "goals": 1,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "강원",
+      "player_name": "한국영",
+      "appearances": 6,
+      "goals": 1,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "울산",
+      "player_name": "이청용",
+      "appearances": 6,
+      "goals": 1,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 5,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "류재문",
+      "appearances": 3,
+      "goals": 1,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "광주",
+      "player_name": "산드로",
+      "appearances": 3,
+      "goals": 1,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "제주",
+      "player_name": "안태현",
+      "appearances": 5,
+      "goals": 1,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "인천",
+      "player_name": "김준엽",
+      "appearances": 6,
+      "goals": 1,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "대전",
+      "player_name": "유강현",
+      "appearances": 5,
+      "goals": 1,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "광주",
+      "player_name": "이순민",
+      "appearances": 13,
+      "goals": 1,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 10,
+      "red_cards": 0
+    },
+    {
+      "team": "포항",
+      "player_name": "오베르단",
+      "appearances": 7,
+      "goals": 1,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "카즈키",
+      "appearances": 5,
+      "goals": 1,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 1
+    },
+    {
+      "team": "울산",
+      "player_name": "김태환",
+      "appearances": 7,
+      "goals": 1,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 5,
+      "red_cards": 0
+    },
+    {
+      "team": "포항",
+      "player_name": "김인성",
+      "appearances": 7,
+      "goals": 1,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 5,
+      "red_cards": 0
+    },
+    {
+      "team": "대전",
+      "player_name": "안톤",
+      "appearances": 12,
+      "goals": 1,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 9,
+      "red_cards": 1
+    },
+    {
+      "team": "대구",
+      "player_name": "박세진",
+      "appearances": 6,
+      "goals": 1,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "대구",
+      "player_name": "김진혁",
+      "appearances": 5,
+      "goals": 1,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "광주",
+      "player_name": "이민기",
+      "appearances": 5,
+      "goals": 1,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "울산",
+      "player_name": "강윤구",
+      "appearances": 5,
+      "goals": 1,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "불투이스",
+      "appearances": 3,
+      "goals": 1,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "포항",
+      "player_name": "박승욱",
+      "appearances": 7,
+      "goals": 1,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 5,
+      "red_cards": 0
+    },
+    {
+      "team": "강원",
+      "player_name": "양현준",
+      "appearances": 3,
+      "goals": 1,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "수원FC",
+      "player_name": "이용",
+      "appearances": 4,
+      "goals": 1,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "전진우",
+      "appearances": 3,
+      "goals": 1,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "광주",
+      "player_name": "이강현",
+      "appearances": 5,
+      "goals": 1,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "대전",
+      "player_name": "강윤성",
+      "appearances": 3,
+      "goals": 1,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "강원",
+      "player_name": "야고",
+      "appearances": 2,
+      "goals": 1,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "지동원",
+      "appearances": 3,
+      "goals": 1,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "인천",
+      "player_name": "최우진",
+      "appearances": 2,
+      "goals": 1,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "제주",
+      "player_name": "김오규",
+      "appearances": 9,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 8,
+      "red_cards": 0
+    },
+    {
+      "team": "울산",
+      "player_name": "정승현",
+      "appearances": 5,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "광주",
+      "player_name": "박한빈",
+      "appearances": 3,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "제주",
+      "player_name": "송주훈",
+      "appearances": 2,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "대구",
+      "player_name": "김강산",
+      "appearances": 4,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "대전",
+      "player_name": "변준수",
+      "appearances": 4,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "울산",
+      "player_name": "장시영",
+      "appearances": 3,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "정태욱",
+      "appearances": 6,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 5,
+      "red_cards": 0
+    },
+    {
+      "team": "울산",
+      "player_name": "김영권",
+      "appearances": 8,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 7,
+      "red_cards": 0
+    },
+    {
+      "team": "강원",
+      "player_name": "정승용",
+      "appearances": 3,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "한찬희",
+      "appearances": 2,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "유제호",
+      "appearances": 3,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "강원",
+      "player_name": "이웅희",
+      "appearances": 3,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "제주",
+      "player_name": "임채민",
+      "appearances": 7,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 6,
+      "red_cards": 0
+    },
+    {
+      "team": "인천",
+      "player_name": "권한진",
+      "appearances": 2,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "강원",
+      "player_name": "유인수",
+      "appearances": 2,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "광주",
+      "player_name": "주영재",
+      "appearances": 1,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "보아텡",
+      "appearances": 2,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "강원",
+      "player_name": "강투지",
+      "appearances": 4,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "수원FC",
+      "player_name": "바우테르손",
+      "appearances": 3,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "수원FC",
+      "player_name": "우고 고메스",
+      "appearances": 4,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 1
+    },
+    {
+      "team": "서울",
+      "player_name": "한승규",
+      "appearances": 2,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "강원",
+      "player_name": "알리바예프",
+      "appearances": 2,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "대구",
+      "player_name": "밥신",
+      "appearances": 5,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 1
+    },
+    {
+      "team": "강원",
+      "player_name": "이지솔",
+      "appearances": 2,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "인천",
+      "player_name": "박승호",
+      "appearances": 2,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "비욘존슨",
+      "appearances": 1,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "포항",
+      "player_name": "강현제",
+      "appearances": 1,
+      "goals": 1,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "울산",
+      "player_name": "이명재",
+      "appearances": 7,
+      "goals": 0,
+      "assists": 5,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "이상민",
+      "appearances": 4,
+      "goals": 0,
+      "assists": 3,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "이종성",
+      "appearances": 9,
+      "goals": 0,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 9,
+      "red_cards": 0
+    },
+    {
+      "team": "울산",
+      "player_name": "이규성",
+      "appearances": 6,
+      "goals": 0,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "이시영",
+      "appearances": 4,
+      "goals": 0,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "김보경",
+      "appearances": 4,
+      "goals": 0,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "포항",
+      "player_name": "심상민",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "수원FC",
+      "player_name": "정동호",
+      "appearances": 7,
+      "goals": 0,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 5,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "이동준",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 2,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "김진수",
+      "appearances": 9,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 8,
+      "red_cards": 0
+    },
+    {
+      "team": "대구",
+      "player_name": "홍정운",
+      "appearances": 3,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "대구",
+      "player_name": "이용래",
+      "appearances": 3,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "포항",
+      "player_name": "김종우",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "대구",
+      "player_name": "조진우",
+      "appearances": 8,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 7,
+      "red_cards": 0
+    },
+    {
+      "team": "제주",
+      "player_name": "최영준",
+      "appearances": 4,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "강원",
+      "player_name": "김영빈",
+      "appearances": 6,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 5,
+      "red_cards": 0
+    },
+    {
+      "team": "인천",
+      "player_name": "정동윤",
+      "appearances": 3,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "인천",
+      "player_name": "송시우",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "제주",
+      "player_name": "이주용",
+      "appearances": 4,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "이태석",
+      "appearances": 5,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "김진야",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "제주",
+      "player_name": "구자철",
+      "appearances": 6,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 5,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "맹성웅",
+      "appearances": 5,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 5,
+      "red_cards": 0
+    },
+    {
+      "team": "대구",
+      "player_name": "이진용",
+      "appearances": 9,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 8,
+      "red_cards": 0
+    },
+    {
+      "team": "제주",
+      "player_name": "김주원",
+      "appearances": 5,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "인천",
+      "player_name": "민경현",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "이한범",
+      "appearances": 5,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 5,
+      "red_cards": 0
+    },
+    {
+      "team": "대전",
+      "player_name": "김지훈",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "김문환",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 1
+    },
+    {
+      "team": "전북",
+      "player_name": "최철순",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "수원FC",
+      "player_name": "장재웅",
+      "appearances": 3,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "강원",
+      "player_name": "임창우",
+      "appearances": 3,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "대전",
+      "player_name": "김현우",
+      "appearances": 3,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "수원FC",
+      "player_name": "루안",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "제주",
+      "player_name": "이기혁",
+      "appearances": 3,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "울산",
+      "player_name": "보야니치",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "포항",
+      "player_name": "윤민호",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "인천",
+      "player_name": "김동헌",
+      "appearances": 3,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "정우재",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "제주",
+      "player_name": "임창우",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "인천",
+      "player_name": "이태희",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "강원",
+      "player_name": "웰링턴",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "이준호",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "포항",
+      "player_name": "윤재운",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "울산",
+      "player_name": "김성준",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 1,
+      "own_goals": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "홍정호",
+      "appearances": 4,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "고명석",
+      "appearances": 3,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "수원FC",
+      "player_name": "박철우",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "수원FC",
+      "player_name": "잭슨",
+      "appearances": 4,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "대전",
+      "player_name": "오재석",
+      "appearances": 6,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 6,
+      "red_cards": 0
+    },
+    {
+      "team": "인천",
+      "player_name": "김동민",
+      "appearances": 7,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 5,
+      "red_cards": 2
+    },
+    {
+      "team": "제주",
+      "player_name": "이창민",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "김건웅",
+      "appearances": 4,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "김태환",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "강원",
+      "player_name": "세라토",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 1,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "포항",
+      "player_name": "박찬용",
+      "appearances": 3,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "광주",
+      "player_name": "김경민",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "인천",
+      "player_name": "델브리지",
+      "appearances": 4,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "김봉수",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 1,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "대구",
+      "player_name": "오승훈",
+      "appearances": 3,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "안드레 루이스",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "대전",
+      "player_name": "임덕근",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "포항",
+      "player_name": "신광훈",
+      "appearances": 6,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 6,
+      "red_cards": 0
+    },
+    {
+      "team": "인천",
+      "player_name": "이동수",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "수원FC",
+      "player_name": "이대광",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "수원FC",
+      "player_name": "박주호",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "대전",
+      "player_name": "오스마르",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 1,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "권완규",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "백종범",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "강원",
+      "player_name": "윤석영",
+      "appearances": 3,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "울산",
+      "player_name": "김기희",
+      "appearances": 7,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 7,
+      "red_cards": 0
+    },
+    {
+      "team": "광주",
+      "player_name": "신창무",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "정승원",
+      "appearances": 4,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "인천",
+      "player_name": "김연수",
+      "appearances": 3,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "광주",
+      "player_name": "아론",
+      "appearances": 3,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "강원",
+      "player_name": "디노",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "제주",
+      "player_name": "임동혁",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "박대원",
+      "appearances": 8,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 8,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "박창우",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "강원",
+      "player_name": "김대우",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "이수빈",
+      "appearances": 4,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "대구",
+      "player_name": "김영준",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "구자룡",
+      "appearances": 5,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 5,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "박희준1",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "류승우",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "장호익",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "포항",
+      "player_name": "이승모",
+      "appearances": 3,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "제주",
+      "player_name": "하창래",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 1,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "포항",
+      "player_name": "조재훈",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "김정훈",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "수원FC",
+      "player_name": "황순민",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "대전",
+      "player_name": "이창근",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "대전",
+      "player_name": "임은수",
+      "appearances": 3,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "수원FC",
+      "player_name": "김선민",
+      "appearances": 6,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 6,
+      "red_cards": 0
+    },
+    {
+      "team": "대전",
+      "player_name": "공민현",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "대구",
+      "player_name": "세라토",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "울산",
+      "player_name": "김민덕",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 1,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "강원",
+      "player_name": "강지훈",
+      "appearances": 3,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "광주",
+      "player_name": "오베르단",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 1,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "대구",
+      "player_name": "최영은",
+      "appearances": 4,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "광주",
+      "player_name": "이준",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "대전",
+      "player_name": "김영욱",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "수원FC",
+      "player_name": "김현훈",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "강원",
+      "player_name": "정태욱",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 1,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "김주원",
+      "appearances": 4,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 4,
+      "red_cards": 0
+    },
+    {
+      "team": "포항",
+      "player_name": "황인재",
+      "appearances": 3,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "임채민",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 1,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "조진우",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 1,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "명준재",
+      "appearances": 3,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 3,
+      "red_cards": 0
+    },
+    {
+      "team": "인천",
+      "player_name": "우고 고메스",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 1,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "대전",
+      "player_name": "서영재",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "황현수",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "울산",
+      "player_name": "조현우",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "수원FC",
+      "player_name": "김재현",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "대전",
+      "player_name": "구텍",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "수원FC",
+      "player_name": "박배종",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "웨릭포포",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "안찬기",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "제주",
+      "player_name": "권순호",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "전북",
+      "player_name": "페트라섹",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "수원FC",
+      "player_name": "신세계",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "강원",
+      "player_name": "류광현",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "오승훈",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 1,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "team": "대전",
+      "player_name": "이동원",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "인천",
+      "player_name": "박현빈",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "수원FC",
+      "player_name": "노동건",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "제주",
+      "player_name": "김동준",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 2,
+      "red_cards": 0
+    },
+    {
+      "team": "제주",
+      "player_name": "한종무",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "수원FC",
+      "player_name": "박병현",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "강원",
+      "player_name": "유상훈",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "대전",
+      "player_name": "임유석",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "대구",
+      "player_name": "김희승",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "고요한",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "강원",
+      "player_name": "이광연",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "황성민",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "서울",
+      "player_name": "손승범",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "강원",
+      "player_name": "윤일록",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "수원",
+      "player_name": "한석종",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    },
+    {
+      "team": "인천",
+      "player_name": "김건희",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "yellow_cards": 1,
+      "red_cards": 0
+    }
+  ]
+}

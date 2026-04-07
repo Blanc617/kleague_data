@@ -1,0 +1,406 @@
+{
+  "home": [
+    {
+      "jersey": "1",
+      "position": "GK",
+      "name": "이광연"
+    },
+    {
+      "jersey": "33",
+      "position": "DF",
+      "name": "홍철"
+    },
+    {
+      "jersey": "23",
+      "position": "DF",
+      "name": "강투지"
+    },
+    {
+      "jersey": "47",
+      "position": "DF",
+      "name": "신민하"
+    },
+    {
+      "jersey": "13",
+      "position": "DF",
+      "name": "이기혁"
+    },
+    {
+      "jersey": "19",
+      "position": "MF",
+      "name": "김경민"
+    },
+    {
+      "jersey": "18",
+      "position": "MF",
+      "name": "김강국"
+    },
+    {
+      "jersey": "14",
+      "position": "MF",
+      "name": "김대우"
+    },
+    {
+      "jersey": "70",
+      "position": "MF",
+      "name": "구본철"
+    },
+    {
+      "jersey": "39",
+      "position": "FW",
+      "name": "이지호"
+    },
+    {
+      "jersey": "96",
+      "position": "FW",
+      "name": "최병찬"
+    },
+    {
+      "jersey": "21",
+      "position": "GK",
+      "name": "박청효"
+    },
+    {
+      "jersey": "25",
+      "position": "DF",
+      "name": "최정훈"
+    },
+    {
+      "jersey": "24",
+      "position": "DF",
+      "name": "박호영"
+    },
+    {
+      "jersey": "5",
+      "position": "MF",
+      "name": "최한솔"
+    },
+    {
+      "jersey": "6",
+      "position": "MF",
+      "name": "김동현"
+    },
+    {
+      "jersey": "17",
+      "position": "FW",
+      "name": "조진혁"
+    },
+    {
+      "jersey": "22",
+      "position": "FW",
+      "name": "이상헌"
+    },
+    {
+      "jersey": "9",
+      "position": "FW",
+      "name": "코바체비치"
+    },
+    {
+      "jersey": "27",
+      "position": "DF",
+      "name": "김도현"
+    },
+    {
+      "jersey": "21",
+      "position": "GK",
+      "name": "조현우"
+    },
+    {
+      "jersey": "19",
+      "position": "DF",
+      "name": "김영권"
+    },
+    {
+      "jersey": "4",
+      "position": "DF",
+      "name": "서명관"
+    },
+    {
+      "jersey": "13",
+      "position": "DF",
+      "name": "강상우"
+    },
+    {
+      "jersey": "17",
+      "position": "DF",
+      "name": "루빅손"
+    },
+    {
+      "jersey": "7",
+      "position": "MF",
+      "name": "고승범"
+    },
+    {
+      "jersey": "6",
+      "position": "MF",
+      "name": "보야니치"
+    },
+    {
+      "jersey": "5",
+      "position": "MF",
+      "name": "정우영"
+    },
+    {
+      "jersey": "27",
+      "position": "MF",
+      "name": "이청용"
+    },
+    {
+      "jersey": "30",
+      "position": "FW",
+      "name": "윤재석"
+    },
+    {
+      "jersey": "97",
+      "position": "FW",
+      "name": "에릭"
+    },
+    {
+      "jersey": "23",
+      "position": "GK",
+      "name": "문정인"
+    },
+    {
+      "jersey": "3",
+      "position": "DF",
+      "name": "강민우"
+    },
+    {
+      "jersey": "20",
+      "position": "DF",
+      "name": "황석호"
+    },
+    {
+      "jersey": "10",
+      "position": "DF",
+      "name": "김민우"
+    },
+    {
+      "jersey": "16",
+      "position": "MF",
+      "name": "이희균"
+    },
+    {
+      "jersey": "14",
+      "position": "MF",
+      "name": "이진현"
+    },
+    {
+      "jersey": "36",
+      "position": "MF",
+      "name": "라카바"
+    },
+    {
+      "jersey": "11",
+      "position": "MF",
+      "name": "엄원상"
+    },
+    {
+      "jersey": "18",
+      "position": "FW",
+      "name": "허율"
+    }
+  ],
+  "away": [
+    {
+      "jersey": "1",
+      "position": "GK",
+      "name": "이광연"
+    },
+    {
+      "jersey": "33",
+      "position": "DF",
+      "name": "홍철"
+    },
+    {
+      "jersey": "23",
+      "position": "DF",
+      "name": "강투지"
+    },
+    {
+      "jersey": "47",
+      "position": "DF",
+      "name": "신민하"
+    },
+    {
+      "jersey": "13",
+      "position": "DF",
+      "name": "이기혁"
+    },
+    {
+      "jersey": "19",
+      "position": "MF",
+      "name": "김경민"
+    },
+    {
+      "jersey": "18",
+      "position": "MF",
+      "name": "김강국"
+    },
+    {
+      "jersey": "14",
+      "position": "MF",
+      "name": "김대우"
+    },
+    {
+      "jersey": "70",
+      "position": "MF",
+      "name": "구본철"
+    },
+    {
+      "jersey": "39",
+      "position": "FW",
+      "name": "이지호"
+    },
+    {
+      "jersey": "96",
+      "position": "FW",
+      "name": "최병찬"
+    },
+    {
+      "jersey": "21",
+      "position": "GK",
+      "name": "박청효"
+    },
+    {
+      "jersey": "25",
+      "position": "DF",
+      "name": "최정훈"
+    },
+    {
+      "jersey": "24",
+      "position": "DF",
+      "name": "박호영"
+    },
+    {
+      "jersey": "5",
+      "position": "MF",
+      "name": "최한솔"
+    },
+    {
+      "jersey": "6",
+      "position": "MF",
+      "name": "김동현"
+    },
+    {
+      "jersey": "17",
+      "position": "FW",
+      "name": "조진혁"
+    },
+    {
+      "jersey": "22",
+      "position": "FW",
+      "name": "이상헌"
+    },
+    {
+      "jersey": "9",
+      "position": "FW",
+      "name": "코바체비치"
+    },
+    {
+      "jersey": "27",
+      "position": "DF",
+      "name": "김도현"
+    },
+    {
+      "jersey": "21",
+      "position": "GK",
+      "name": "조현우"
+    },
+    {
+      "jersey": "19",
+      "position": "DF",
+      "name": "김영권"
+    },
+    {
+      "jersey": "4",
+      "position": "DF",
+      "name": "서명관"
+    },
+    {
+      "jersey": "13",
+      "position": "DF",
+      "name": "강상우"
+    },
+    {
+      "jersey": "17",
+      "position": "DF",
+      "name": "루빅손"
+    },
+    {
+      "jersey": "7",
+      "position": "MF",
+      "name": "고승범"
+    },
+    {
+      "jersey": "6",
+      "position": "MF",
+      "name": "보야니치"
+    },
+    {
+      "jersey": "5",
+      "position": "MF",
+      "name": "정우영"
+    },
+    {
+      "jersey": "27",
+      "position": "MF",
+      "name": "이청용"
+    },
+    {
+      "jersey": "30",
+      "position": "FW",
+      "name": "윤재석"
+    },
+    {
+      "jersey": "97",
+      "position": "FW",
+      "name": "에릭"
+    },
+    {
+      "jersey": "23",
+      "position": "GK",
+      "name": "문정인"
+    },
+    {
+      "jersey": "3",
+      "position": "DF",
+      "name": "강민우"
+    },
+    {
+      "jersey": "20",
+      "position": "DF",
+      "name": "황석호"
+    },
+    {
+      "jersey": "10",
+      "position": "DF",
+      "name": "김민우"
+    },
+    {
+      "jersey": "16",
+      "position": "MF",
+      "name": "이희균"
+    },
+    {
+      "jersey": "14",
+      "position": "MF",
+      "name": "이진현"
+    },
+    {
+      "jersey": "36",
+      "position": "MF",
+      "name": "라카바"
+    },
+    {
+      "jersey": "11",
+      "position": "MF",
+      "name": "엄원상"
+    },
+    {
+      "jersey": "18",
+      "position": "FW",
+      "name": "허율"
+    }
+  ]
+}

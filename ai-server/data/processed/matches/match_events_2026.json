@@ -1,0 +1,2660 @@
+{
+  "season": 2026,
+  "league": "K1",
+  "source": "kleague_crawled",
+  "total_games": 28,
+  "events_by_game": [
+    {
+      "game_id": 1,
+      "events": [
+        {
+          "minute": 9,
+          "type": "yellow_card",
+          "team": "서울",
+          "player": "클리말라"
+        },
+        {
+          "minute": 17,
+          "type": "yellow_card",
+          "team": "서울",
+          "player": "바베츠"
+        },
+        {
+          "minute": 47,
+          "type": "goal",
+          "player": "송민규",
+          "team": "서울"
+        },
+        {
+          "minute": 51,
+          "type": "yellow_card",
+          "team": "서울",
+          "player": "조영욱"
+        },
+        {
+          "minute": 61,
+          "type": "goal",
+          "player": "조영욱",
+          "team": "서울",
+          "assist": "안데르손"
+        },
+        {
+          "minute": 91,
+          "type": "yellow_card",
+          "team": "서울",
+          "player": "박성훈"
+        },
+        {
+          "minute": 92,
+          "type": "goal",
+          "player": "무고사",
+          "team": "인천"
+        }
+      ],
+      "lineups": {},
+      "substitutions": [
+        {
+          "minute": 45,
+          "team": "서울",
+          "player_off": "손정범",
+          "player_on": "클리말라"
+        },
+        {
+          "minute": 63,
+          "team": "인천",
+          "player_off": "이케르",
+          "player_on": "박승호"
+        },
+        {
+          "minute": 73,
+          "team": "서울",
+          "player_off": "송민규",
+          "player_on": ""
+        },
+        {
+          "minute": 73,
+          "team": "인천",
+          "player_off": "오후성",
+          "player_on": ""
+        },
+        {
+          "minute": 82,
+          "team": "서울",
+          "player_off": "조영욱",
+          "player_on": ""
+        },
+        {
+          "minute": 85,
+          "team": "인천",
+          "player_off": "김명순",
+          "player_on": "제르소"
+        },
+        {
+          "minute": 96,
+          "team": "서울",
+          "player_off": "안데르손",
+          "player_on": ""
+        }
+      ],
+      "date": "2026.02.28",
+      "home_team": "인천",
+      "away_team": "서울",
+      "home_score": 1,
+      "away_score": 2
+    },
+    {
+      "game_id": 2,
+      "events": [
+        {
+          "minute": 19,
+          "type": "goal",
+          "player": "야고",
+          "team": "울산"
+        },
+        {
+          "minute": 23,
+          "type": "yellow_card",
+          "team": "울산",
+          "player": "이규성"
+        },
+        {
+          "minute": 35,
+          "type": "yellow_card",
+          "team": "강원",
+          "player": "강투지"
+        },
+        {
+          "minute": 48,
+          "type": "goal",
+          "player": "야고",
+          "team": "울산",
+          "assist": "최석현"
+        },
+        {
+          "minute": 58,
+          "type": "yellow_card",
+          "team": "강원",
+          "player": "서민우"
+        },
+        {
+          "minute": 86,
+          "type": "goal",
+          "player": "이희균",
+          "team": "울산",
+          "assist": "이동경"
+        },
+        {
+          "minute": 91,
+          "type": "yellow_card",
+          "team": "울산",
+          "player": "최석현"
+        },
+        {
+          "minute": 93,
+          "type": "yellow_card",
+          "team": "강원",
+          "player": "모재현"
+        },
+        {
+          "minute": 94,
+          "type": "goal",
+          "player": "아부달라",
+          "team": "강원",
+          "assist": "서민우"
+        }
+      ],
+      "lineups": {},
+      "substitutions": [
+        {
+          "minute": 45,
+          "team": "강원",
+          "player_off": "강준혁",
+          "player_on": "박호영"
+        },
+        {
+          "minute": 65,
+          "team": "강원",
+          "player_off": "송준석",
+          "player_on": "고영준"
+        },
+        {
+          "minute": 71,
+          "team": "울산",
+          "player_off": "페드링요",
+          "player_on": ""
+        },
+        {
+          "minute": 75,
+          "team": "강원",
+          "player_off": "박상혁",
+          "player_on": ""
+        },
+        {
+          "minute": 79,
+          "team": "울산",
+          "player_off": "보야니치",
+          "player_on": ""
+        },
+        {
+          "minute": 90,
+          "team": "울산",
+          "player_off": "야고",
+          "player_on": "조현택"
+        },
+        {
+          "minute": 94,
+          "team": "울산",
+          "player_off": "이규성",
+          "player_on": ""
+        },
+        {
+          "minute": 95,
+          "team": "강원",
+          "player_off": "모재현",
+          "player_on": ""
+        }
+      ],
+      "date": "2026.02.28",
+      "home_team": "울산",
+      "away_team": "강원",
+      "home_score": 3,
+      "away_score": 1
+    },
+    {
+      "game_id": 3,
+      "events": [
+        {
+          "minute": 4,
+          "type": "goal",
+          "player": "고재현",
+          "team": "김천",
+          "assist": "이건희"
+        },
+        {
+          "minute": 21,
+          "type": "yellow_card",
+          "team": "포항",
+          "player": "황재환"
+        },
+        {
+          "minute": 30,
+          "type": "yellow_card",
+          "team": "김천",
+          "player": "고재현"
+        },
+        {
+          "minute": 54,
+          "type": "yellow_card",
+          "team": "포항",
+          "player": "니시야 켄토"
+        },
+        {
+          "minute": 55,
+          "type": "goal",
+          "player": "트란지스카",
+          "team": "포항",
+          "assist": "주닝요"
+        },
+        {
+          "minute": 63,
+          "type": "yellow_card",
+          "team": "포항",
+          "player": "전민광"
+        },
+        {
+          "minute": 69,
+          "type": "red_card",
+          "team": "포항",
+          "player": "박찬용"
+        }
+      ],
+      "lineups": {},
+      "substitutions": [
+        {
+          "minute": 45,
+          "team": "포항",
+          "player_off": "황재환",
+          "player_on": "기성용"
+        },
+        {
+          "minute": 60,
+          "team": "김천",
+          "player_off": "박세진",
+          "player_on": "김주찬"
+        },
+        {
+          "minute": 66,
+          "team": "포항",
+          "player_off": "니시야 켄토",
+          "player_on": ""
+        },
+        {
+          "minute": 71,
+          "team": "포항",
+          "player_off": "황서웅",
+          "player_on": ""
+        },
+        {
+          "minute": 83,
+          "team": "포항",
+          "player_off": "주닝요",
+          "player_on": ""
+        },
+        {
+          "minute": 83,
+          "team": "김천",
+          "player_off": "고재현",
+          "player_on": "이건희"
+        },
+        {
+          "minute": 89,
+          "team": "김천",
+          "player_off": "이수빈",
+          "player_on": ""
+        }
+      ],
+      "date": "2026.02.28",
+      "home_team": "김천",
+      "away_team": "포항",
+      "home_score": 1,
+      "away_score": 1
+    },
+    {
+      "game_id": 4,
+      "events": [
+        {
+          "minute": 13,
+          "type": "goal",
+          "player": "이동준",
+          "team": "전북"
+        },
+        {
+          "minute": 17,
+          "type": "yellow_card",
+          "team": "부천",
+          "player": "패트릭"
+        },
+        {
+          "minute": 26,
+          "type": "goal",
+          "player": "갈레고",
+          "team": "부천"
+        },
+        {
+          "minute": 47,
+          "type": "yellow_card",
+          "team": "전북",
+          "player": "이승우"
+        },
+        {
+          "minute": 54,
+          "type": "goal",
+          "player": "이동준",
+          "team": "전북"
+        },
+        {
+          "minute": 57,
+          "type": "yellow_card",
+          "team": "부천",
+          "player": "신재원"
+        },
+        {
+          "minute": 83,
+          "type": "goal",
+          "player": "몬타뇨",
+          "team": "부천",
+          "assist": "갈레고"
+        },
+        {
+          "minute": 97,
+          "type": "goal",
+          "player": "갈레고",
+          "team": "부천"
+        },
+        {
+          "minute": 102,
+          "type": "yellow_card",
+          "team": "부천",
+          "player": "몬타뇨"
+        }
+      ],
+      "lineups": {},
+      "substitutions": [
+        {
+          "minute": 16,
+          "team": "부천",
+          "player_off": "김승빈",
+          "player_on": ""
+        },
+        {
+          "minute": 45,
+          "team": "전북",
+          "player_off": "김진규",
+          "player_on": ""
+        },
+        {
+          "minute": 61,
+          "team": "부천",
+          "player_off": "카즈",
+          "player_on": ""
+        },
+        {
+          "minute": 75,
+          "team": "전북",
+          "player_off": "모따",
+          "player_on": ""
+        },
+        {
+          "minute": 76,
+          "team": "부천",
+          "player_off": "바사니",
+          "player_on": "윤빛가람"
+        },
+        {
+          "minute": 90,
+          "team": "전북",
+          "player_off": "맹성웅",
+          "player_on": "이동준"
+        }
+      ],
+      "date": "2026.03.01",
+      "home_team": "전북",
+      "away_team": "부천",
+      "home_score": 2,
+      "away_score": 3
+    },
+    {
+      "game_id": 5,
+      "events": [
+        {
+          "minute": 31,
+          "type": "red_card",
+          "team": "제주",
+          "player": "이탈로"
+        },
+        {
+          "minute": 43,
+          "type": "yellow_card",
+          "team": "광주",
+          "player": "하승운"
+        },
+        {
+          "minute": 44,
+          "type": "yellow_card",
+          "team": "광주",
+          "player": "신창무"
+        },
+        {
+          "minute": 49,
+          "type": "yellow_card",
+          "team": "제주",
+          "player": "유인수"
+        },
+        {
+          "minute": 52,
+          "type": "yellow_card",
+          "team": "광주",
+          "player": "김진호"
+        },
+        {
+          "minute": 74,
+          "type": "yellow_card",
+          "team": "제주",
+          "player": "박창준"
+        },
+        {
+          "minute": 93,
+          "type": "yellow_card",
+          "team": "광주",
+          "player": "안혁주"
+        }
+      ],
+      "lineups": {},
+      "substitutions": [
+        {
+          "minute": 45,
+          "team": "제주",
+          "player_off": "남태희",
+          "player_on": ""
+        },
+        {
+          "minute": 45,
+          "team": "광주",
+          "player_off": "정지훈",
+          "player_on": "김용혁"
+        },
+        {
+          "minute": 62,
+          "team": "제주",
+          "player_off": "신상은",
+          "player_on": "권창훈"
+        },
+        {
+          "minute": 63,
+          "team": "광주",
+          "player_off": "권성윤",
+          "player_on": "하승운"
+        },
+        {
+          "minute": 81,
+          "team": "광주",
+          "player_off": "최경록",
+          "player_on": ""
+        },
+        {
+          "minute": 91,
+          "team": "제주",
+          "player_off": "네게바",
+          "player_on": ""
+        }
+      ],
+      "date": "2026.03.01",
+      "home_team": "제주",
+      "away_team": "광주",
+      "home_score": 0,
+      "away_score": 0
+    },
+    {
+      "game_id": 6,
+      "events": [
+        {
+          "minute": 20,
+          "type": "yellow_card",
+          "team": "안양",
+          "player": "최건주"
+        },
+        {
+          "minute": 33,
+          "type": "yellow_card",
+          "team": "대전",
+          "player": "하창래"
+        },
+        {
+          "minute": 39,
+          "type": "yellow_card",
+          "team": "안양",
+          "player": "김정현"
+        },
+        {
+          "minute": 42,
+          "type": "yellow_card",
+          "team": "대전",
+          "player": "김문환"
+        },
+        {
+          "minute": 44,
+          "type": "yellow_card",
+          "team": "대전",
+          "player": "이순민"
+        },
+        {
+          "minute": 54,
+          "type": "goal",
+          "player": "서진수",
+          "team": "대전",
+          "assist": "주민규"
+        },
+        {
+          "minute": 63,
+          "type": "goal",
+          "player": "마테우스",
+          "team": "안양"
+        },
+        {
+          "minute": 65,
+          "type": "yellow_card",
+          "team": "안양",
+          "player": "권경원"
+        },
+        {
+          "minute": 83,
+          "type": "yellow_card",
+          "team": "대전",
+          "player": "김봉수"
+        },
+        {
+          "minute": 93,
+          "type": "yellow_card",
+          "team": "대전",
+          "player": "밥신"
+        },
+        {
+          "minute": 94,
+          "type": "yellow_card",
+          "team": "안양",
+          "player": "김지훈"
+        }
+      ],
+      "lineups": {},
+      "substitutions": [
+        {
+          "minute": 67,
+          "team": "대전",
+          "player_off": "서진수",
+          "player_on": "이순민"
+        },
+        {
+          "minute": 71,
+          "team": "안양",
+          "player_off": "김정현",
+          "player_on": ""
+        },
+        {
+          "minute": 79,
+          "team": "안양",
+          "player_off": "유키치",
+          "player_on": "이창용"
+        },
+        {
+          "minute": 79,
+          "team": "대전",
+          "player_off": "주민규",
+          "player_on": ""
+        },
+        {
+          "minute": 86,
+          "team": "안양",
+          "player_off": "최규현",
+          "player_on": "최건주"
+        },
+        {
+          "minute": 87,
+          "team": "대전",
+          "player_off": "주앙 빅토르",
+          "player_on": ""
+        }
+      ],
+      "date": "2026.03.02",
+      "home_team": "대전",
+      "away_team": "안양",
+      "home_score": 1,
+      "away_score": 1
+    },
+    {
+      "game_id": 9,
+      "events": [
+        {
+          "minute": 16,
+          "type": "yellow_card",
+          "team": "인천",
+          "player": "후안 이비자"
+        },
+        {
+          "minute": 27,
+          "type": "yellow_card",
+          "team": "인천",
+          "player": "김건희"
+        },
+        {
+          "minute": 38,
+          "type": "goal",
+          "player": "최경록",
+          "team": "광주",
+          "assist": "주세종"
+        },
+        {
+          "minute": 46,
+          "type": "goal",
+          "player": "오후성",
+          "team": "인천",
+          "assist": "김명순"
+        },
+        {
+          "minute": 56,
+          "type": "yellow_card",
+          "team": "인천",
+          "player": "정치인"
+        },
+        {
+          "minute": 58,
+          "type": "goal",
+          "player": "신창무",
+          "team": "광주"
+        },
+        {
+          "minute": 72,
+          "type": "goal",
+          "player": "신창무",
+          "team": "광주",
+          "assist": "하승운"
+        },
+        {
+          "minute": 74,
+          "type": "yellow_card",
+          "team": "광주",
+          "player": "프리드욘슨"
+        },
+        {
+          "minute": 97,
+          "type": "goal",
+          "player": "서재민",
+          "team": "인천",
+          "assist": "무고사"
+        },
+        {
+          "minute": 104,
+          "type": "yellow_card",
+          "team": "인천",
+          "player": "김명순"
+        }
+      ],
+      "lineups": {},
+      "substitutions": [
+        {
+          "minute": 7,
+          "team": "광주",
+          "player_off": "민상기",
+          "player_on": ""
+        },
+        {
+          "minute": 65,
+          "team": "광주",
+          "player_off": "박정인",
+          "player_on": "주세종"
+        },
+        {
+          "minute": 70,
+          "team": "인천",
+          "player_off": "정치인",
+          "player_on": "이명주"
+        },
+        {
+          "minute": 77,
+          "team": "인천",
+          "player_off": "오후성",
+          "player_on": ""
+        },
+        {
+          "minute": 87,
+          "team": "인천",
+          "player_off": "김건희",
+          "player_on": "이주용"
+        },
+        {
+          "minute": 87,
+          "team": "광주",
+          "player_off": "문민서",
+          "player_on": "하승운"
+        }
+      ],
+      "date": "2026.03.07",
+      "home_team": "광주",
+      "away_team": "인천",
+      "home_score": 3,
+      "away_score": 2
+    },
+    {
+      "game_id": 10,
+      "events": [
+        {
+          "minute": 72,
+          "type": "goal",
+          "player": "갈레고",
+          "team": "부천"
+        },
+        {
+          "minute": 96,
+          "type": "goal",
+          "player": "서진수",
+          "team": "대전",
+          "assist": "하창래"
+        }
+      ],
+      "lineups": {},
+      "substitutions": [
+        {
+          "minute": 61,
+          "team": "대전",
+          "player_off": "이순민",
+          "player_on": "루빅손"
+        },
+        {
+          "minute": 61,
+          "team": "부천",
+          "player_off": "김민준",
+          "player_on": "윤빛가람"
+        },
+        {
+          "minute": 77,
+          "team": "부천",
+          "player_off": "몬타뇨",
+          "player_on": "카즈"
+        },
+        {
+          "minute": 78,
+          "team": "대전",
+          "player_off": "주앙 빅토르",
+          "player_on": ""
+        },
+        {
+          "minute": 88,
+          "team": "대전",
+          "player_off": "서영재1",
+          "player_on": "주민규"
+        },
+        {
+          "minute": 90,
+          "team": "부천",
+          "player_off": "갈레고",
+          "player_on": ""
+        }
+      ],
+      "date": "2026.03.07",
+      "home_team": "부천",
+      "away_team": "대전",
+      "home_score": 1,
+      "away_score": 1
+    },
+    {
+      "game_id": 11,
+      "events": [
+        {
+          "minute": 50,
+          "type": "goal",
+          "player": "홍윤상",
+          "team": "김천",
+          "assist": "이정택"
+        },
+        {
+          "minute": 71,
+          "type": "yellow_card",
+          "team": "김천",
+          "player": "김민규"
+        },
+        {
+          "minute": 92,
+          "type": "goal",
+          "player": "모따",
+          "team": "전북",
+          "assist": "티아고"
+        },
+        {
+          "minute": 96,
+          "type": "yellow_card",
+          "team": "전북",
+          "player": "김태환"
+        },
+        {
+          "minute": 97,
+          "type": "yellow_card",
+          "team": "전북",
+          "player": "이동준"
+        }
+      ],
+      "lineups": {},
+      "substitutions": [
+        {
+          "minute": 45,
+          "team": "김천",
+          "player_off": "김주찬",
+          "player_on": ""
+        },
+        {
+          "minute": 55,
+          "team": "전북",
+          "player_off": "이동준",
+          "player_on": "김진규"
+        },
+        {
+          "minute": 61,
+          "team": "김천",
+          "player_off": "이수빈",
+          "player_on": "박세진"
+        },
+        {
+          "minute": 76,
+          "team": "전북",
+          "player_off": "맹성웅",
+          "player_on": ""
+        },
+        {
+          "minute": 78,
+          "team": "김천",
+          "player_off": "이건희",
+          "player_on": ""
+        },
+        {
+          "minute": 86,
+          "team": "전북",
+          "player_off": "오베르단",
+          "player_on": "김승섭"
+        },
+        {
+          "minute": 94,
+          "team": "김천",
+          "player_off": "고재현",
+          "player_on": ""
+        }
+      ],
+      "date": "2026.03.08",
+      "home_team": "김천",
+      "away_team": "전북",
+      "home_score": 1,
+      "away_score": 1
+    },
+    {
+      "game_id": 12,
+      "events": [
+        {
+          "minute": 46,
+          "type": "yellow_card",
+          "team": "안양",
+          "player": "김동진"
+        },
+        {
+          "minute": 69,
+          "type": "yellow_card",
+          "team": "안양",
+          "player": "이진용"
+        },
+        {
+          "minute": 78,
+          "type": "yellow_card",
+          "team": "제주",
+          "player": "세레스틴"
+        },
+        {
+          "minute": 85,
+          "type": "yellow_card",
+          "team": "안양",
+          "player": "권경원"
+        },
+        {
+          "minute": 87,
+          "type": "goal",
+          "player": "마테우스",
+          "team": "안양"
+        },
+        {
+          "minute": 93,
+          "type": "goal",
+          "player": "네게바",
+          "team": "제주"
+        },
+        {
+          "minute": 94,
+          "type": "goal",
+          "player": "마테우스",
+          "team": "안양",
+          "assist": "엘쿠라노"
+        },
+        {
+          "minute": 97,
+          "type": "yellow_card",
+          "team": "안양",
+          "player": "아일톤"
+        }
+      ],
+      "lineups": {},
+      "substitutions": [
+        {
+          "minute": 35,
+          "team": "제주",
+          "player_off": "이창민",
+          "player_on": ""
+        },
+        {
+          "minute": 67,
+          "team": "안양",
+          "player_off": "최규현",
+          "player_on": "최건주"
+        },
+        {
+          "minute": 71,
+          "team": "제주",
+          "player_off": "신상은",
+          "player_on": ""
+        },
+        {
+          "minute": 79,
+          "team": "안양",
+          "player_off": "유키치",
+          "player_on": ""
+        },
+        {
+          "minute": 85,
+          "team": "제주",
+          "player_off": "권창훈",
+          "player_on": ""
+        },
+        {
+          "minute": 97,
+          "team": "안양",
+          "player_off": "마테우스",
+          "player_on": ""
+        }
+      ],
+      "date": "2026.03.08",
+      "home_team": "안양",
+      "away_team": "제주",
+      "home_score": 2,
+      "away_score": 1
+    },
+    {
+      "game_id": 13,
+      "events": [
+        {
+          "minute": 9,
+          "type": "yellow_card",
+          "team": "광주",
+          "player": "권성윤"
+        },
+        {
+          "minute": 43,
+          "type": "yellow_card",
+          "team": "전북",
+          "player": "티아고"
+        },
+        {
+          "minute": 57,
+          "type": "yellow_card",
+          "team": "광주",
+          "player": "프리드욘슨"
+        },
+        {
+          "minute": 69,
+          "type": "yellow_card",
+          "team": "전북",
+          "player": "강상윤"
+        },
+        {
+          "minute": 77,
+          "type": "yellow_card",
+          "team": "전북",
+          "player": "조위제"
+        },
+        {
+          "minute": 80,
+          "type": "yellow_card",
+          "team": "광주",
+          "player": "주세종"
+        }
+      ],
+      "lineups": {},
+      "substitutions": [
+        {
+          "minute": 45,
+          "team": "전북",
+          "player_off": "티아고",
+          "player_on": ""
+        },
+        {
+          "minute": 45,
+          "team": "광주",
+          "player_off": "권성윤",
+          "player_on": "박정인"
+        },
+        {
+          "minute": 62,
+          "team": "전북",
+          "player_off": "김승섭",
+          "player_on": ""
+        },
+        {
+          "minute": 74,
+          "team": "전북",
+          "player_off": "이동준",
+          "player_on": "오베르단"
+        },
+        {
+          "minute": 81,
+          "team": "광주",
+          "player_off": "최경록",
+          "player_on": ""
+        },
+        {
+          "minute": 86,
+          "team": "광주",
+          "player_off": "프리드욘슨",
+          "player_on": "안영규"
+        },
+        {
+          "minute": 86,
+          "team": "전북",
+          "player_off": "김태현",
+          "player_on": ""
+        }
+      ],
+      "date": "2026.03.14",
+      "home_team": "광주",
+      "away_team": "전북",
+      "home_score": 0,
+      "away_score": 0
+    },
+    {
+      "game_id": 14,
+      "events": [
+        {
+          "minute": 33,
+          "type": "yellow_card",
+          "team": "대전",
+          "player": "하창래"
+        },
+        {
+          "minute": 41,
+          "type": "goal",
+          "player": "이건희",
+          "team": "김천",
+          "assist": "이정택"
+        },
+        {
+          "minute": 68,
+          "type": "goal",
+          "player": "하창래",
+          "team": "대전",
+          "assist": "이현식"
+        },
+        {
+          "minute": 72,
+          "type": "yellow_card",
+          "team": "김천",
+          "player": "박태준"
+        },
+        {
+          "minute": 98,
+          "type": "yellow_card",
+          "team": "김천",
+          "player": "이상헌"
+        }
+      ],
+      "lineups": {},
+      "substitutions": [
+        {
+          "minute": 45,
+          "team": "대전",
+          "player_off": "서영재1",
+          "player_on": ""
+        },
+        {
+          "minute": 58,
+          "team": "김천",
+          "player_off": "박세진",
+          "player_on": "김이석"
+        },
+        {
+          "minute": 64,
+          "team": "대전",
+          "player_off": "밥신",
+          "player_on": ""
+        },
+        {
+          "minute": 75,
+          "team": "김천",
+          "player_off": "홍윤상",
+          "player_on": "고재현"
+        },
+        {
+          "minute": 77,
+          "team": "대전",
+          "player_off": "루빅손",
+          "player_on": "주앙 빅토르"
+        },
+        {
+          "minute": 85,
+          "team": "김천",
+          "player_off": "이건희",
+          "player_on": ""
+        }
+      ],
+      "date": "2026.03.14",
+      "home_team": "대전",
+      "away_team": "김천",
+      "home_score": 1,
+      "away_score": 1
+    },
+    {
+      "game_id": 15,
+      "events": [
+        {
+          "minute": 9,
+          "type": "goal",
+          "player": "김민준",
+          "team": "부천",
+          "assist": "티아깅요"
+        },
+        {
+          "minute": 13,
+          "type": "yellow_card",
+          "team": "부천",
+          "player": "티아깅요"
+        },
+        {
+          "minute": 33,
+          "type": "yellow_card",
+          "team": "부천",
+          "player": "몬타뇨"
+        },
+        {
+          "minute": 39,
+          "type": "goal",
+          "player": "야고",
+          "team": "울산"
+        },
+        {
+          "minute": 70,
+          "type": "goal",
+          "player": "이동경",
+          "team": "울산"
+        },
+        {
+          "minute": 79,
+          "type": "yellow_card",
+          "team": "울산",
+          "player": "이동경"
+        }
+      ],
+      "lineups": {},
+      "substitutions": [
+        {
+          "minute": 38,
+          "team": "부천",
+          "player_off": "김종우",
+          "player_on": ""
+        },
+        {
+          "minute": 57,
+          "team": "부천",
+          "player_off": "김민준",
+          "player_on": "몬타뇨"
+        },
+        {
+          "minute": 74,
+          "team": "울산",
+          "player_off": "이진현",
+          "player_on": ""
+        },
+        {
+          "minute": 83,
+          "team": "부천",
+          "player_off": "카즈",
+          "player_on": "신재원"
+        },
+        {
+          "minute": 89,
+          "team": "울산",
+          "player_off": "야고",
+          "player_on": "보야니치"
+        },
+        {
+          "minute": 98,
+          "team": "울산",
+          "player_off": "이재익",
+          "player_on": ""
+        }
+      ],
+      "date": "2026.03.15",
+      "home_team": "부천",
+      "away_team": "울산",
+      "home_score": 1,
+      "away_score": 2
+    },
+    {
+      "game_id": 16,
+      "events": [
+        {
+          "minute": 13,
+          "type": "yellow_card",
+          "team": "서울",
+          "player": "최준"
+        },
+        {
+          "minute": 44,
+          "type": "yellow_card",
+          "team": "서울",
+          "player": "로스"
+        },
+        {
+          "minute": 45,
+          "type": "yellow_card",
+          "team": "서울",
+          "player": "안데르손"
+        },
+        {
+          "minute": 53,
+          "type": "goal",
+          "player": "로스",
+          "team": "서울"
+        },
+        {
+          "minute": 68,
+          "type": "yellow_card",
+          "team": "제주",
+          "player": "유인수"
+        },
+        {
+          "minute": 81,
+          "type": "yellow_card",
+          "team": "서울",
+          "player": "야잔"
+        },
+        {
+          "minute": 88,
+          "type": "goal",
+          "player": "최병욱",
+          "team": "제주",
+          "assist": "기티스"
+        },
+        {
+          "minute": 88,
+          "type": "yellow_card",
+          "team": "서울",
+          "player": "클리말라"
+        },
+        {
+          "minute": 94,
+          "type": "goal",
+          "player": "이승모",
+          "team": "서울",
+          "assist": "송민규"
+        }
+      ],
+      "lineups": {},
+      "substitutions": [
+        {
+          "minute": 45,
+          "team": "서울",
+          "player_off": "문선민",
+          "player_on": ""
+        },
+        {
+          "minute": 64,
+          "team": "제주",
+          "player_off": "권창훈",
+          "player_on": ""
+        },
+        {
+          "minute": 74,
+          "team": "제주",
+          "player_off": "네게바",
+          "player_on": "오재혁"
+        },
+        {
+          "minute": 79,
+          "team": "제주",
+          "player_off": "유인수",
+          "player_on": ""
+        },
+        {
+          "minute": 88,
+          "team": "서울",
+          "player_off": "클리말라",
+          "player_on": ""
+        },
+        {
+          "minute": 96,
+          "team": "서울",
+          "player_off": "황도윤",
+          "player_on": ""
+        }
+      ],
+      "date": "2026.03.15",
+      "home_team": "제주",
+      "away_team": "서울",
+      "home_score": 1,
+      "away_score": 2
+    },
+    {
+      "game_id": 17,
+      "events": [
+        {
+          "minute": 6,
+          "type": "goal",
+          "player": "박상혁",
+          "team": "강원",
+          "assist": "모재현"
+        },
+        {
+          "minute": 18,
+          "type": "goal",
+          "player": "최건주",
+          "team": "안양"
+        },
+        {
+          "minute": 22,
+          "type": "yellow_card",
+          "team": "강원",
+          "player": "박상혁"
+        },
+        {
+          "minute": 63,
+          "type": "red_card",
+          "team": "안양",
+          "player": "김정현"
+        }
+      ],
+      "lineups": {},
+      "substitutions": [
+        {
+          "minute": 50,
+          "team": "안양",
+          "player_off": "권경원",
+          "player_on": ""
+        },
+        {
+          "minute": 64,
+          "team": "안양",
+          "player_off": "최건주",
+          "player_on": "엘쿠라노"
+        },
+        {
+          "minute": 65,
+          "team": "강원",
+          "player_off": "고영준",
+          "player_on": ""
+        },
+        {
+          "minute": 75,
+          "team": "강원",
+          "player_off": "강준혁",
+          "player_on": "송준석"
+        },
+        {
+          "minute": 81,
+          "team": "안양",
+          "player_off": "마테우스",
+          "player_on": "김동진"
+        },
+        {
+          "minute": 83,
+          "team": "강원",
+          "player_off": "김대원",
+          "player_on": ""
+        }
+      ],
+      "date": "2026.03.15",
+      "home_team": "강원",
+      "away_team": "안양",
+      "home_score": 1,
+      "away_score": 1
+    },
+    {
+      "game_id": 18,
+      "events": [
+        {
+          "minute": 34,
+          "type": "yellow_card",
+          "team": "인천",
+          "player": "정치인"
+        },
+        {
+          "minute": 36,
+          "type": "yellow_card",
+          "team": "포항",
+          "player": "이창우"
+        },
+        {
+          "minute": 43,
+          "type": "goal",
+          "player": "무고사",
+          "team": "인천"
+        },
+        {
+          "minute": 46,
+          "type": "goal",
+          "player": "이호재",
+          "team": "포항",
+          "assist": "조르지"
+        },
+        {
+          "minute": 82,
+          "type": "yellow_card",
+          "team": "인천",
+          "player": "후안 이비자"
+        },
+        {
+          "minute": 89,
+          "type": "yellow_card",
+          "team": "포항",
+          "player": "강민준"
+        }
+      ],
+      "lineups": {},
+      "substitutions": [
+        {
+          "minute": 45,
+          "team": "포항",
+          "player_off": "주닝요",
+          "player_on": "김인성"
+        },
+        {
+          "minute": 61,
+          "team": "인천",
+          "player_off": "정치인",
+          "player_on": ""
+        },
+        {
+          "minute": 64,
+          "team": "포항",
+          "player_off": "이창우",
+          "player_on": ""
+        },
+        {
+          "minute": 73,
+          "team": "포항",
+          "player_off": "김동진",
+          "player_on": ""
+        },
+        {
+          "minute": 84,
+          "team": "인천",
+          "player_off": "제르소",
+          "player_on": ""
+        },
+        {
+          "minute": 84,
+          "team": "포항",
+          "player_off": "니시야 켄토",
+          "player_on": ""
+        }
+      ],
+      "date": "2026.03.15",
+      "home_team": "포항",
+      "away_team": "인천",
+      "home_score": 1,
+      "away_score": 1
+    },
+    {
+      "game_id": 19,
+      "events": [
+        {
+          "minute": 8,
+          "type": "red_card",
+          "team": "김천",
+          "player": "이상헌"
+        },
+        {
+          "minute": 31,
+          "type": "yellow_card",
+          "team": "광주",
+          "player": "유제호"
+        },
+        {
+          "minute": 40,
+          "type": "yellow_card",
+          "team": "광주",
+          "player": "정지훈"
+        },
+        {
+          "minute": 64,
+          "type": "yellow_card",
+          "team": "김천",
+          "player": "백종범"
+        },
+        {
+          "minute": 65,
+          "type": "yellow_card",
+          "team": "광주",
+          "player": "문민서"
+        },
+        {
+          "minute": 69,
+          "type": "goal",
+          "player": "프리드욘슨",
+          "team": "광주"
+        },
+        {
+          "minute": 78,
+          "type": "yellow_card",
+          "team": "김천",
+          "player": "김인균"
+        },
+        {
+          "minute": 85,
+          "type": "yellow_card",
+          "team": "김천",
+          "player": "김현우"
+        },
+        {
+          "minute": 93,
+          "type": "yellow_card",
+          "team": "광주",
+          "player": "권성윤"
+        },
+        {
+          "minute": 97,
+          "type": "goal",
+          "player": "고재현",
+          "team": "김천",
+          "assist": "강민규"
+        },
+        {
+          "minute": 99,
+          "type": "yellow_card",
+          "team": "김천",
+          "player": "박철우"
+        }
+      ],
+      "lineups": {},
+      "substitutions": [
+        {
+          "minute": 28,
+          "team": "광주",
+          "player_off": "주세종",
+          "player_on": ""
+        },
+        {
+          "minute": 45,
+          "team": "광주",
+          "player_off": "공배현",
+          "player_on": ""
+        },
+        {
+          "minute": 56,
+          "team": "광주",
+          "player_off": "안혁주",
+          "player_on": "정지훈"
+        },
+        {
+          "minute": 64,
+          "team": "김천",
+          "player_off": "전병관",
+          "player_on": "이건희"
+        },
+        {
+          "minute": 70,
+          "team": "김천",
+          "player_off": "홍윤상",
+          "player_on": ""
+        },
+        {
+          "minute": 81,
+          "team": "김천",
+          "player_off": "김이석",
+          "player_on": "박태준"
+        },
+        {
+          "minute": 92,
+          "team": "광주",
+          "player_off": "문민서",
+          "player_on": ""
+        }
+      ],
+      "date": "2026.03.17",
+      "home_team": "김천",
+      "away_team": "광주",
+      "home_score": 1,
+      "away_score": 1
+    },
+    {
+      "game_id": 20,
+      "events": [
+        {
+          "minute": 35,
+          "type": "yellow_card",
+          "team": "부천",
+          "player": "정호진"
+        },
+        {
+          "minute": 44,
+          "type": "yellow_card",
+          "team": "강원",
+          "player": "강투지"
+        },
+        {
+          "minute": 67,
+          "type": "yellow_card",
+          "team": "강원",
+          "player": "김도현"
+        },
+        {
+          "minute": 82,
+          "type": "yellow_card",
+          "team": "강원",
+          "player": "아부달라"
+        }
+      ],
+      "lineups": {},
+      "substitutions": [
+        {
+          "minute": 55,
+          "team": "강원",
+          "player_off": "박상혁",
+          "player_on": "송준석"
+        },
+        {
+          "minute": 61,
+          "team": "부천",
+          "player_off": "한지호",
+          "player_on": ""
+        },
+        {
+          "minute": 64,
+          "team": "강원",
+          "player_off": "서민우",
+          "player_on": ""
+        },
+        {
+          "minute": 76,
+          "team": "부천",
+          "player_off": "이의형",
+          "player_on": ""
+        },
+        {
+          "minute": 86,
+          "team": "강원",
+          "player_off": "김대원",
+          "player_on": "김도현"
+        },
+        {
+          "minute": 89,
+          "team": "부천",
+          "player_off": "티아깅요",
+          "player_on": ""
+        }
+      ],
+      "date": "2026.03.18",
+      "home_team": "부천",
+      "away_team": "강원",
+      "home_score": 0,
+      "away_score": 0
+    },
+    {
+      "game_id": 21,
+      "events": [
+        {
+          "minute": 9,
+          "type": "goal",
+          "player": "마사",
+          "team": "대전",
+          "assist": "서진수"
+        },
+        {
+          "minute": 29,
+          "type": "yellow_card",
+          "team": "인천",
+          "player": "이케르"
+        },
+        {
+          "minute": 36,
+          "type": "goal",
+          "player": "무고사",
+          "team": "인천",
+          "assist": "이주용"
+        },
+        {
+          "minute": 42,
+          "type": "yellow_card",
+          "team": "인천",
+          "player": "이청용"
+        },
+        {
+          "minute": 65,
+          "type": "yellow_card",
+          "team": "대전",
+          "player": "김민덕"
+        },
+        {
+          "minute": 83,
+          "type": "yellow_card",
+          "team": "인천",
+          "player": "후안 이비자"
+        },
+        {
+          "minute": 85,
+          "type": "goal",
+          "player": "디오고",
+          "team": "대전",
+          "assist": "엄원상"
+        },
+        {
+          "minute": 91,
+          "type": "yellow_card",
+          "team": "대전",
+          "player": "조성권"
+        },
+        {
+          "minute": 92,
+          "type": "yellow_card",
+          "team": "대전",
+          "player": "디오고"
+        },
+        {
+          "minute": 94,
+          "type": "goal",
+          "player": "엄원상",
+          "team": "대전",
+          "assist": "디오고"
+        }
+      ],
+      "lineups": {},
+      "substitutions": [
+        {
+          "minute": 21,
+          "team": "인천",
+          "player_off": "정치인",
+          "player_on": ""
+        },
+        {
+          "minute": 28,
+          "team": "대전",
+          "player_off": "하창래",
+          "player_on": ""
+        },
+        {
+          "minute": 45,
+          "team": "대전",
+          "player_off": "서진수",
+          "player_on": ""
+        },
+        {
+          "minute": 60,
+          "team": "대전",
+          "player_off": "주민규",
+          "player_on": "마사"
+        },
+        {
+          "minute": 72,
+          "team": "인천",
+          "player_off": "제르소",
+          "player_on": ""
+        },
+        {
+          "minute": 77,
+          "team": "대전",
+          "player_off": "주앙 빅토르",
+          "player_on": ""
+        },
+        {
+          "minute": 89,
+          "team": "인천",
+          "player_off": "오후성",
+          "player_on": "이케르"
+        }
+      ],
+      "date": "2026.03.18",
+      "home_team": "인천",
+      "away_team": "대전",
+      "home_score": 1,
+      "away_score": 3
+    },
+    {
+      "game_id": 22,
+      "events": [
+        {
+          "minute": 40,
+          "type": "yellow_card",
+          "team": "제주",
+          "player": "김재우"
+        },
+        {
+          "minute": 48,
+          "type": "goal",
+          "player": "정승현",
+          "team": "울산",
+          "assist": "이동경"
+        },
+        {
+          "minute": 53,
+          "type": "yellow_card",
+          "team": "울산",
+          "player": "이희균"
+        },
+        {
+          "minute": 63,
+          "type": "goal",
+          "player": "야고",
+          "team": "울산"
+        },
+        {
+          "minute": 65,
+          "type": "yellow_card",
+          "team": "제주",
+          "player": "기티스"
+        },
+        {
+          "minute": 87,
+          "type": "yellow_card",
+          "team": "울산",
+          "player": "이민혁"
+        }
+      ],
+      "lineups": {},
+      "substitutions": [
+        {
+          "minute": 52,
+          "team": "울산",
+          "player_off": "김영권",
+          "player_on": ""
+        },
+        {
+          "minute": 66,
+          "team": "제주",
+          "player_off": "오재혁",
+          "player_on": "유인수"
+        },
+        {
+          "minute": 73,
+          "team": "울산",
+          "player_off": "이희균",
+          "player_on": "야고"
+        },
+        {
+          "minute": 76,
+          "team": "제주",
+          "player_off": "김준하",
+          "player_on": ""
+        },
+        {
+          "minute": 82,
+          "team": "제주",
+          "player_off": "네게바",
+          "player_on": ""
+        },
+        {
+          "minute": 84,
+          "team": "울산",
+          "player_off": "이동경",
+          "player_on": ""
+        }
+      ],
+      "date": "2026.03.18",
+      "home_team": "제주",
+      "away_team": "울산",
+      "home_score": 0,
+      "away_score": 2
+    },
+    {
+      "game_id": 23,
+      "events": [
+        {
+          "minute": 10,
+          "type": "own_goal",
+          "player": "김정훈",
+          "team": "전북"
+        },
+        {
+          "minute": 26,
+          "type": "goal",
+          "player": "김운",
+          "team": "안양",
+          "assist": "김보경"
+        },
+        {
+          "minute": 39,
+          "type": "yellow_card",
+          "team": "전북",
+          "player": "강상윤"
+        },
+        {
+          "minute": 54,
+          "type": "yellow_card",
+          "team": "전북",
+          "player": "티아고"
+        },
+        {
+          "minute": 54,
+          "type": "yellow_card",
+          "team": "안양",
+          "player": "이진용"
+        },
+        {
+          "minute": 73,
+          "type": "yellow_card",
+          "team": "전북",
+          "player": "조위제"
+        },
+        {
+          "minute": 86,
+          "type": "goal",
+          "player": "모따",
+          "team": "전북"
+        },
+        {
+          "minute": 90,
+          "type": "yellow_card",
+          "team": "안양",
+          "player": "강지훈"
+        }
+      ],
+      "lineups": {},
+      "substitutions": [
+        {
+          "minute": 45,
+          "team": "전북",
+          "player_off": "김승섭",
+          "player_on": ""
+        },
+        {
+          "minute": 60,
+          "team": "전북",
+          "player_off": "티아고",
+          "player_on": ""
+        },
+        {
+          "minute": 62,
+          "team": "안양",
+          "player_off": "김보경",
+          "player_on": "한가람"
+        },
+        {
+          "minute": 70,
+          "team": "안양",
+          "player_off": "김운",
+          "player_on": ""
+        },
+        {
+          "minute": 82,
+          "team": "전북",
+          "player_off": "김태현",
+          "player_on": "이동준"
+        },
+        {
+          "minute": 88,
+          "team": "안양",
+          "player_off": "이진용",
+          "player_on": ""
+        },
+        {
+          "minute": 93,
+          "team": "전북",
+          "player_off": "김진규",
+          "player_on": ""
+        }
+      ],
+      "date": "2026.03.18",
+      "home_team": "전북",
+      "away_team": "안양",
+      "home_score": 2,
+      "away_score": 1
+    },
+    {
+      "game_id": 24,
+      "events": [
+        {
+          "minute": 4,
+          "type": "goal",
+          "player": "조영욱",
+          "team": "서울",
+          "assist": "손정범"
+        },
+        {
+          "minute": 19,
+          "type": "yellow_card",
+          "team": "포항",
+          "player": "트란지스카"
+        },
+        {
+          "minute": 66,
+          "type": "yellow_card",
+          "team": "포항",
+          "player": "한현서"
+        },
+        {
+          "minute": 72,
+          "type": "yellow_card",
+          "team": "포항",
+          "player": "이호재"
+        },
+        {
+          "minute": 75,
+          "type": "yellow_card",
+          "team": "포항",
+          "player": "신광훈"
+        },
+        {
+          "minute": 96,
+          "type": "yellow_card",
+          "team": "포항",
+          "player": "주닝요"
+        }
+      ],
+      "lineups": {},
+      "substitutions": [
+        {
+          "minute": 45,
+          "team": "포항",
+          "player_off": "안재준",
+          "player_on": "김용학"
+        },
+        {
+          "minute": 45,
+          "team": "서울",
+          "player_off": "손정범",
+          "player_on": ""
+        },
+        {
+          "minute": 52,
+          "team": "포항",
+          "player_off": "이창우",
+          "player_on": ""
+        },
+        {
+          "minute": 56,
+          "team": "서울",
+          "player_off": "조영욱",
+          "player_on": ""
+        },
+        {
+          "minute": 58,
+          "team": "포항",
+          "player_off": "김동진",
+          "player_on": ""
+        },
+        {
+          "minute": 73,
+          "team": "서울",
+          "player_off": "클리말라",
+          "player_on": ""
+        },
+        {
+          "minute": 84,
+          "team": "포항",
+          "player_off": "신광훈",
+          "player_on": ""
+        },
+        {
+          "minute": 89,
+          "team": "서울",
+          "player_off": "이승모",
+          "player_on": ""
+        }
+      ],
+      "date": "2026.03.18",
+      "home_team": "포항",
+      "away_team": "서울",
+      "home_score": 0,
+      "away_score": 1
+    },
+    {
+      "game_id": 25,
+      "events": [
+        {
+          "minute": 34,
+          "type": "yellow_card",
+          "team": "대전",
+          "player": "주앙 빅토르"
+        },
+        {
+          "minute": 41,
+          "type": "yellow_card",
+          "team": "전북",
+          "player": "김진규"
+        },
+        {
+          "minute": 48,
+          "type": "goal",
+          "player": "이동준",
+          "team": "전북",
+          "assist": "모따"
+        },
+        {
+          "minute": 67,
+          "type": "yellow_card",
+          "team": "전북",
+          "player": "조위제"
+        },
+        {
+          "minute": 77,
+          "type": "yellow_card",
+          "team": "대전",
+          "player": "조성권"
+        },
+        {
+          "minute": 94,
+          "type": "yellow_card",
+          "team": "전북",
+          "player": "김하준"
+        }
+      ],
+      "lineups": {},
+      "substitutions": [
+        {
+          "minute": 45,
+          "team": "대전",
+          "player_off": "주민규",
+          "player_on": ""
+        },
+        {
+          "minute": 63,
+          "team": "대전",
+          "player_off": "이순민",
+          "player_on": "주앙 빅토르"
+        },
+        {
+          "minute": 63,
+          "team": "전북",
+          "player_off": "모따",
+          "player_on": "김승섭"
+        },
+        {
+          "minute": 75,
+          "team": "대전",
+          "player_off": "루빅손",
+          "player_on": ""
+        },
+        {
+          "minute": 78,
+          "team": "전북",
+          "player_off": "이동준",
+          "player_on": ""
+        },
+        {
+          "minute": 83,
+          "team": "대전",
+          "player_off": "박규현",
+          "player_on": ""
+        },
+        {
+          "minute": 89,
+          "team": "전북",
+          "player_off": "최우진",
+          "player_on": "김진규"
+        }
+      ],
+      "date": "2026.03.21",
+      "home_team": "대전",
+      "away_team": "전북",
+      "home_score": 0,
+      "away_score": 1
+    },
+    {
+      "game_id": 26,
+      "events": [
+        {
+          "minute": 9,
+          "type": "goal",
+          "player": "손정범",
+          "team": "서울",
+          "assist": "바베츠"
+        },
+        {
+          "minute": 47,
+          "type": "goal",
+          "player": "클리말라",
+          "team": "서울",
+          "assist": "정승원"
+        },
+        {
+          "minute": 51,
+          "type": "yellow_card",
+          "team": "서울",
+          "player": "클리말라"
+        },
+        {
+          "minute": 59,
+          "type": "goal",
+          "player": "로스",
+          "team": "서울",
+          "assist": "김진수"
+        },
+        {
+          "minute": 59,
+          "type": "yellow_card",
+          "team": "광주",
+          "player": "공배현"
+        },
+        {
+          "minute": 63,
+          "type": "yellow_card",
+          "team": "광주",
+          "player": "김진호"
+        },
+        {
+          "minute": 70,
+          "type": "yellow_card",
+          "team": "광주",
+          "player": "박정인"
+        },
+        {
+          "minute": 73,
+          "type": "goal",
+          "player": "클리말라",
+          "team": "서울",
+          "assist": "문선민"
+        },
+        {
+          "minute": 82,
+          "type": "goal",
+          "player": "이승모",
+          "team": "서울",
+          "assist": "문선민"
+        }
+      ],
+      "lineups": {},
+      "substitutions": [
+        {
+          "minute": 45,
+          "team": "광주",
+          "player_off": "프리드욘슨",
+          "player_on": ""
+        },
+        {
+          "minute": 45,
+          "team": "서울",
+          "player_off": "안데르손",
+          "player_on": ""
+        },
+        {
+          "minute": 61,
+          "team": "서울",
+          "player_off": "손정범",
+          "player_on": "조영욱"
+        },
+        {
+          "minute": 79,
+          "team": "광주",
+          "player_off": "안혁주",
+          "player_on": "김진호"
+        },
+        {
+          "minute": 87,
+          "team": "서울",
+          "player_off": "바베츠",
+          "player_on": ""
+        },
+        {
+          "minute": 94,
+          "team": "서울",
+          "player_off": "야잔",
+          "player_on": ""
+        },
+        {
+          "minute": 96,
+          "team": "광주",
+          "player_off": "신창무",
+          "player_on": ""
+        }
+      ],
+      "date": "2026.03.22",
+      "home_team": "서울",
+      "away_team": "광주",
+      "home_score": 5,
+      "away_score": 0
+    },
+    {
+      "game_id": 27,
+      "events": [
+        {
+          "minute": 37,
+          "type": "yellow_card",
+          "team": "김천",
+          "player": "김태환"
+        },
+        {
+          "minute": 64,
+          "type": "yellow_card",
+          "team": "김천",
+          "player": "이건희"
+        },
+        {
+          "minute": 82,
+          "type": "yellow_card",
+          "team": "김천",
+          "player": "이정택"
+        },
+        {
+          "minute": 85,
+          "type": "yellow_card",
+          "team": "김천",
+          "player": "박세진"
+        }
+      ],
+      "lineups": {},
+      "substitutions": [
+        {
+          "minute": 45,
+          "team": "울산",
+          "player_off": "페드링요",
+          "player_on": ""
+        },
+        {
+          "minute": 62,
+          "team": "김천",
+          "player_off": "고재현",
+          "player_on": "박철우"
+        },
+        {
+          "minute": 70,
+          "team": "울산",
+          "player_off": "이동경",
+          "player_on": ""
+        },
+        {
+          "minute": 70,
+          "team": "김천",
+          "player_off": "이건희",
+          "player_on": ""
+        },
+        {
+          "minute": 79,
+          "team": "김천",
+          "player_off": "김민규",
+          "player_on": ""
+        },
+        {
+          "minute": 84,
+          "team": "울산",
+          "player_off": "이진현",
+          "player_on": "야고"
+        },
+        {
+          "minute": 90,
+          "team": "울산",
+          "player_off": "이희균",
+          "player_on": ""
+        }
+      ],
+      "date": "2026.03.22",
+      "home_team": "울산",
+      "away_team": "김천",
+      "home_score": 0,
+      "away_score": 0
+    },
+    {
+      "game_id": 28,
+      "events": [
+        {
+          "minute": 31,
+          "type": "yellow_card",
+          "team": "안양",
+          "player": "이창용"
+        },
+        {
+          "minute": 40,
+          "type": "red_card",
+          "team": "안양",
+          "player": "이창용"
+        },
+        {
+          "minute": 44,
+          "type": "yellow_card",
+          "team": "안양",
+          "player": "이진용"
+        },
+        {
+          "minute": 67,
+          "type": "goal",
+          "player": "무고사",
+          "team": "인천"
+        },
+        {
+          "minute": 72,
+          "type": "yellow_card",
+          "team": "인천",
+          "player": "박경섭"
+        },
+        {
+          "minute": 72,
+          "type": "yellow_card",
+          "team": "안양",
+          "player": "김동진"
+        },
+        {
+          "minute": 88,
+          "type": "yellow_card",
+          "team": "안양",
+          "player": "김지훈"
+        },
+        {
+          "minute": 95,
+          "type": "yellow_card",
+          "team": "인천",
+          "player": "페리어"
+        }
+      ],
+      "lineups": {},
+      "substitutions": [
+        {
+          "minute": 45,
+          "team": "안양",
+          "player_off": "엘쿠라노",
+          "player_on": ""
+        },
+        {
+          "minute": 45,
+          "team": "인천",
+          "player_off": "오후성",
+          "player_on": "박승호"
+        },
+        {
+          "minute": 64,
+          "team": "인천",
+          "player_off": "이동률",
+          "player_on": ""
+        },
+        {
+          "minute": 66,
+          "team": "안양",
+          "player_off": "이진용",
+          "player_on": ""
+        },
+        {
+          "minute": 81,
+          "team": "안양",
+          "player_off": "마테우스",
+          "player_on": "아일톤"
+        },
+        {
+          "minute": 88,
+          "team": "안양",
+          "player_off": "한가람",
+          "player_on": ""
+        },
+        {
+          "minute": 88,
+          "team": "인천",
+          "player_off": "이명주",
+          "player_on": ""
+        }
+      ],
+      "date": "2026.03.22",
+      "home_team": "안양",
+      "away_team": "인천",
+      "home_score": 0,
+      "away_score": 1
+    },
+    {
+      "game_id": 29,
+      "events": [
+        {
+          "minute": 15,
+          "type": "goal",
+          "player": "조인정",
+          "team": "제주"
+        },
+        {
+          "minute": 21,
+          "type": "yellow_card",
+          "team": "강원",
+          "player": "강투지"
+        },
+        {
+          "minute": 54,
+          "type": "yellow_card",
+          "team": "강원",
+          "player": "이기혁"
+        },
+        {
+          "minute": 88,
+          "type": "yellow_card",
+          "team": "제주",
+          "player": "신상은"
+        },
+        {
+          "minute": 96,
+          "type": "goal",
+          "player": "아부달라",
+          "team": "강원",
+          "assist": "강윤구"
+        }
+      ],
+      "lineups": {},
+      "substitutions": [
+        {
+          "minute": 23,
+          "team": "강원",
+          "player_off": "신민하",
+          "player_on": ""
+        },
+        {
+          "minute": 45,
+          "team": "강원",
+          "player_off": "고영준",
+          "player_on": ""
+        },
+        {
+          "minute": 66,
+          "team": "제주",
+          "player_off": "네게바",
+          "player_on": "남태희"
+        },
+        {
+          "minute": 75,
+          "team": "강원",
+          "player_off": "서민우",
+          "player_on": ""
+        },
+        {
+          "minute": 88,
+          "team": "강원",
+          "player_off": "박상혁",
+          "player_on": "모재현"
+        }
+      ],
+      "date": "2026.03.22",
+      "home_team": "강원",
+      "away_team": "제주",
+      "home_score": 1,
+      "away_score": 1
+    },
+    {
+      "game_id": 30,
+      "events": [
+        {
+          "minute": 27,
+          "type": "red_card",
+          "team": "포항",
+          "player": "전민광"
+        },
+        {
+          "minute": 67,
+          "type": "yellow_card",
+          "team": "부천",
+          "player": "정호진"
+        },
+        {
+          "minute": 90,
+          "type": "yellow_card",
+          "team": "포항",
+          "player": "어정원"
+        },
+        {
+          "minute": 91,
+          "type": "yellow_card",
+          "team": "포항",
+          "player": "주닝요"
+        }
+      ],
+      "lineups": {},
+      "substitutions": [
+        {
+          "minute": 41,
+          "team": "포항",
+          "player_off": "김용학",
+          "player_on": ""
+        },
+        {
+          "minute": 45,
+          "team": "포항",
+          "player_off": "신광훈",
+          "player_on": "황서웅"
+        },
+        {
+          "minute": 55,
+          "team": "포항",
+          "player_off": "니시야 켄토",
+          "player_on": ""
+        },
+        {
+          "minute": 60,
+          "team": "부천",
+          "player_off": "안태현",
+          "player_on": "김동현"
+        },
+        {
+          "minute": 61,
+          "team": "부천",
+          "player_off": "패트릭",
+          "player_on": ""
+        },
+        {
+          "minute": 77,
+          "team": "부천",
+          "player_off": "이의형",
+          "player_on": ""
+        },
+        {
+          "minute": 89,
+          "team": "포항",
+          "player_off": "김예성",
+          "player_on": ""
+        }
+      ],
+      "date": "2026.03.22",
+      "home_team": "포항",
+      "away_team": "부천",
+      "home_score": 0,
+      "away_score": 0
+    }
+  ]
+}

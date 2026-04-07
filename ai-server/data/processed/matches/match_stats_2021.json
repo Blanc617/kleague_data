@@ -1,0 +1,638 @@
+{
+  "season": 2021,
+  "source": "kleague_official",
+  "crawled_at": "2026-03-28 16:36",
+  "total_games": 21,
+  "stats": [
+    {
+      "game_id": 1,
+      "home_team": "전북",
+      "away_team": "서울",
+      "date": "2021.02.27",
+      "home": {
+        "fouls": 10,
+        "corners": 7,
+        "onTarget": 4,
+        "possession": 52,
+        "freeKicks": 11,
+        "yellowCards": 0,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 5,
+        "corners": 3,
+        "onTarget": 5,
+        "possession": 48,
+        "freeKicks": 6,
+        "yellowCards": 2,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 2,
+      "home_team": "대구",
+      "away_team": "수원FC",
+      "date": "2021.02.27",
+      "home": {
+        "fouls": 13,
+        "corners": 7,
+        "onTarget": 4,
+        "possession": 54,
+        "freeKicks": 15,
+        "yellowCards": 1,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 1,
+        "onTarget": 1,
+        "possession": 46,
+        "freeKicks": 15,
+        "yellowCards": 3,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 3,
+      "home_team": "포항",
+      "away_team": "인천",
+      "date": "2021.02.28",
+      "home": {
+        "fouls": 16,
+        "corners": 2,
+        "onTarget": 7,
+        "possession": 59,
+        "freeKicks": 17,
+        "yellowCards": 2,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 13,
+        "corners": 2,
+        "onTarget": 1,
+        "possession": 41,
+        "freeKicks": 14,
+        "yellowCards": 3,
+        "attempts": 3,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 4,
+      "home_team": "수원",
+      "away_team": "광주",
+      "date": "2021.02.28",
+      "home": {
+        "fouls": 16,
+        "corners": 7,
+        "onTarget": 10,
+        "possession": 63,
+        "freeKicks": 16,
+        "yellowCards": 0,
+        "attempts": 23,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 1,
+        "onTarget": 1,
+        "possession": 37,
+        "freeKicks": 16,
+        "yellowCards": 3,
+        "attempts": 2,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 5,
+      "home_team": "울산",
+      "away_team": "강원",
+      "date": "2021.03.01",
+      "home": {
+        "fouls": 14,
+        "corners": 1,
+        "onTarget": 10,
+        "possession": 55,
+        "freeKicks": 16,
+        "yellowCards": 2,
+        "attempts": 14,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 12,
+        "corners": 3,
+        "onTarget": 7,
+        "possession": 45,
+        "freeKicks": 12,
+        "yellowCards": 1,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 1,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 6,
+      "home_team": "성남",
+      "away_team": "제주",
+      "date": "2021.03.01",
+      "home": {
+        "fouls": 11,
+        "corners": 3,
+        "onTarget": 5,
+        "possession": 53,
+        "freeKicks": 15,
+        "yellowCards": 0,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 3,
+        "onTarget": 6,
+        "possession": 47,
+        "freeKicks": 16,
+        "yellowCards": 0,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 1,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 7,
+      "home_team": "제주",
+      "away_team": "전북",
+      "date": "2021.03.06",
+      "home": {
+        "fouls": 9,
+        "corners": 3,
+        "onTarget": 4,
+        "possession": 47,
+        "freeKicks": 9,
+        "yellowCards": 1,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 17,
+        "corners": 8,
+        "onTarget": 3,
+        "possession": 53,
+        "freeKicks": 20,
+        "yellowCards": 3,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 3
+      }
+    },
+    {
+      "game_id": 8,
+      "home_team": "광주",
+      "away_team": "울산",
+      "date": "2021.03.06",
+      "home": {
+        "fouls": 11,
+        "corners": 5,
+        "onTarget": 5,
+        "possession": 31,
+        "freeKicks": 12,
+        "yellowCards": 1,
+        "attempts": 8,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 17,
+        "corners": 8,
+        "onTarget": 6,
+        "possession": 69,
+        "freeKicks": 17,
+        "yellowCards": 1,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 9,
+      "home_team": "인천",
+      "away_team": "대구",
+      "date": "2021.03.06",
+      "home": {
+        "fouls": 23,
+        "corners": 3,
+        "onTarget": 6,
+        "possession": 53,
+        "freeKicks": 24,
+        "yellowCards": 3,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 13,
+        "corners": 7,
+        "onTarget": 7,
+        "possession": 47,
+        "freeKicks": 14,
+        "yellowCards": 1,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 10,
+      "home_team": "강원",
+      "away_team": "포항",
+      "date": "2021.03.06",
+      "home": {
+        "fouls": 11,
+        "corners": 2,
+        "onTarget": 2,
+        "possession": 41,
+        "freeKicks": 11,
+        "yellowCards": 1,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 3,
+        "onTarget": 7,
+        "possession": 59,
+        "freeKicks": 17,
+        "yellowCards": 2,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 12,
+      "home_team": "서울",
+      "away_team": "수원FC",
+      "date": "2021.03.07",
+      "home": {
+        "fouls": 17,
+        "corners": 4,
+        "onTarget": 8,
+        "possession": 45,
+        "freeKicks": 18,
+        "yellowCards": 1,
+        "attempts": 16,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 13,
+        "corners": 4,
+        "onTarget": 10,
+        "possession": 55,
+        "freeKicks": 13,
+        "yellowCards": 2,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 13,
+      "home_team": "전북",
+      "away_team": "강원",
+      "date": "2021.03.09",
+      "home": {
+        "fouls": 14,
+        "corners": 9,
+        "onTarget": 4,
+        "possession": 58,
+        "freeKicks": 18,
+        "yellowCards": 3,
+        "attempts": 9,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      },
+      "away": {
+        "fouls": 10,
+        "corners": 5,
+        "onTarget": 6,
+        "possession": 42,
+        "freeKicks": 10,
+        "yellowCards": 2,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 14,
+      "home_team": "울산",
+      "away_team": "인천",
+      "date": "2021.03.09",
+      "home": {
+        "fouls": 16,
+        "corners": 7,
+        "onTarget": 9,
+        "possession": 61,
+        "freeKicks": 20,
+        "yellowCards": 0,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      },
+      "away": {
+        "fouls": 10,
+        "corners": 3,
+        "onTarget": 9,
+        "possession": 39,
+        "freeKicks": 10,
+        "yellowCards": 2,
+        "attempts": 11,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 15,
+      "home_team": "제주",
+      "away_team": "포항",
+      "date": "2021.03.09",
+      "home": {
+        "fouls": 14,
+        "corners": 0,
+        "onTarget": 5,
+        "possession": 38,
+        "freeKicks": 15,
+        "yellowCards": 3,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 9,
+        "corners": 4,
+        "onTarget": 2,
+        "possession": 62,
+        "freeKicks": 10,
+        "yellowCards": 1,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 16,
+      "home_team": "대구",
+      "away_team": "광주",
+      "date": "2021.03.10",
+      "home": {
+        "fouls": 18,
+        "corners": 5,
+        "onTarget": 5,
+        "possession": 58,
+        "freeKicks": 18,
+        "yellowCards": 2,
+        "attempts": 18,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 14,
+        "corners": 5,
+        "onTarget": 9,
+        "possession": 42,
+        "freeKicks": 15,
+        "yellowCards": 2,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 17,
+      "home_team": "성남",
+      "away_team": "서울",
+      "date": "2021.03.10",
+      "home": {
+        "fouls": 18,
+        "corners": 4,
+        "onTarget": 7,
+        "possession": 49,
+        "freeKicks": 20,
+        "yellowCards": 1,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 10,
+        "corners": 7,
+        "onTarget": 4,
+        "possession": 51,
+        "freeKicks": 10,
+        "yellowCards": 2,
+        "attempts": 13,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 18,
+      "home_team": "수원FC",
+      "away_team": "수원",
+      "date": "2021.03.10",
+      "home": {
+        "fouls": 12,
+        "corners": 3,
+        "onTarget": 7,
+        "possession": 44,
+        "freeKicks": 12,
+        "yellowCards": 2,
+        "attempts": 17,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 3,
+        "onTarget": 5,
+        "possession": 56,
+        "freeKicks": 16,
+        "yellowCards": 0,
+        "attempts": 12,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 19,
+      "home_team": "대구",
+      "away_team": "제주",
+      "date": "2021.03.13",
+      "home": {
+        "fouls": 13,
+        "corners": 4,
+        "onTarget": 7,
+        "possession": 48,
+        "freeKicks": 14,
+        "yellowCards": 2,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      },
+      "away": {
+        "fouls": 15,
+        "corners": 2,
+        "onTarget": 3,
+        "possession": 52,
+        "freeKicks": 17,
+        "yellowCards": 1,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      }
+    },
+    {
+      "game_id": 20,
+      "home_team": "광주",
+      "away_team": "전북",
+      "date": "2021.03.13",
+      "home": {
+        "fouls": 13,
+        "corners": 0,
+        "onTarget": 2,
+        "possession": 35,
+        "freeKicks": 17,
+        "yellowCards": 2,
+        "attempts": 10,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      },
+      "away": {
+        "fouls": 16,
+        "corners": 3,
+        "onTarget": 2,
+        "possession": 65,
+        "freeKicks": 16,
+        "yellowCards": 1,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      }
+    },
+    {
+      "game_id": 21,
+      "home_team": "포항",
+      "away_team": "울산",
+      "date": "2021.03.13",
+      "home": {
+        "fouls": 17,
+        "corners": 11,
+        "onTarget": 3,
+        "possession": 62,
+        "freeKicks": 19,
+        "yellowCards": 2,
+        "attempts": 6,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 2
+      },
+      "away": {
+        "fouls": 18,
+        "corners": 1,
+        "onTarget": 6,
+        "possession": 38,
+        "freeKicks": 19,
+        "yellowCards": 2,
+        "attempts": 7,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 1
+      }
+    },
+    {
+      "game_id": 198,
+      "home_team": "수원FC",
+      "away_team": "울산",
+      "date": "2021.10.02",
+      "home": {
+        "fouls": 8,
+        "corners": 5,
+        "onTarget": 5,
+        "possession": 51,
+        "freeKicks": 8,
+        "yellowCards": 3,
+        "attempts": 15,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 0
+      },
+      "away": {
+        "fouls": 12,
+        "corners": 2,
+        "onTarget": 9,
+        "possession": 49,
+        "freeKicks": 16,
+        "yellowCards": 0,
+        "attempts": 19,
+        "doubleYellowCards": 0,
+        "redCards": 0,
+        "offsides": 4
+      }
+    }
+  ]
+}

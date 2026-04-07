@@ -1,0 +1,25 @@
+# Python
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/venv/
+**/.venv/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# 크롤러 데이터 (런타임 불필요)
+ai-server/data/
+ai-server/logs/
+
+# 환경변수 파일
+**/.env
+**/.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 디버그 파일
+debug_*.json

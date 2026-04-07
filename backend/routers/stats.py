@@ -572,31 +572,84 @@ def _filter_league_only(records: list[dict]) -> list[dict]:
 
 @router.get("/standings")
 def get_standings(season: int = 2025, round_to: int = None):
-    """시즌 순위표 반환. round_to 지정 시 해당 라운드까지의 누적 순위."""
+    """시즌 순위표 반환. round_to 지정 시 해당 라운드까지의 누적 순위.
+    파이널 라운드(라운드 34~38)가 있는 시즌은 K리그1 파이널 라운드 규칙 적용:
+    - 정규 시즌(라운드 1~33) 순위로 A조(1~6위) / B조(7~12위) 구분
+    - 파이널 라운드 포함 누적 승점으로 조 내 순위 결정
+    - A조 팀은 항상 1~6위, B조 팀은 항상 7~12위
+    """
+    FINAL_ROUND_START = 34  # 파이널 라운드 시작 라운드
+
     records = _load_unique_records(season, season)
     if not records:
         raise HTTPException(status_code=404, detail=f"{season}시즌 데이터 없음")
 
-    # 플레이오프 등 비정규 경기 제외
+    # 강등PO·컵 등 비리그 경기 제외 (파이널 라운드는 유지)
     records = _filter_league_only(records)
 
     max_round = max((r.get("round") or 0) for r in records)
 
+    # round_to 지정 시: 단순 누적 순위 (그룹 구분 없이)
     if round_to is not None:
         filtered = [r for r in records if (r.get("round") or 0) <= round_to]
-        label = f"{season} 시즌 {round_to}라운드까지"
+        if not filtered:
+            raise HTTPException(status_code=404, detail=f"{season}시즌 {round_to}라운드 데이터 없음")
+        rows = calculate_standings(filtered)
+        return {
+            "season": season, "round_to": round_to, "max_round": max_round,
+            "label": f"{season} 시즌 {round_to}라운드까지",
+            "has_final_round": False,
+            "standings": rows,
+        }
+
+    # 파이널 라운드 존재 여부 확인
+    has_final_round = max_round >= FINAL_ROUND_START
+
+    if has_final_round:
+        # 정규 시즌(라운드 1~33)으로 A조/B조 결정
+        regular = [r for r in records if (r.get("round") or 0) < FINAL_ROUND_START]
+        regular_standings = calculate_standings(regular)
+
+        group_a_teams = {row["team"] for row in regular_standings[:6]}
+        group_b_teams = {row["team"] for row in regular_standings[6:]}
+
+        # 정규+파이널 전체 누적 승점 계산
+        total_standings = calculate_standings(records)
+
+        # 조별 분리 및 재정렬
+        group_a = sorted(
+            [r for r in total_standings if r["team"] in group_a_teams],
+            key=lambda r: (-r["points"], -r["gf"], -r["gd"])
+        )
+        group_b = sorted(
+            [r for r in total_standings if r["team"] in group_b_teams],
+            key=lambda r: (-r["points"], -r["gf"], -r["gd"])
+        )
+        others = [r for r in total_standings
+                  if r["team"] not in group_a_teams and r["team"] not in group_b_teams]
+
+        # 순위 재부여: A조 1~6위, B조 7~12위
+        for i, row in enumerate(group_a, 1):
+            row["rank"] = i
+            row["group"] = "A"
+        for i, row in enumerate(group_b, len(group_a) + 1):
+            row["rank"] = i
+            row["group"] = "B"
+        for i, row in enumerate(others, len(group_a) + len(group_b) + 1):
+            row["rank"] = i
+            row["group"] = None
+
+        rows = group_a + group_b + others
     else:
-        filtered = records
-        label = f"{season} 시즌 전체"
+        rows = calculate_standings(records)
+        for row in rows:
+            row["group"] = None
 
-    if not filtered:
-        raise HTTPException(status_code=404, detail=f"{season}시즌 {round_to}라운드 데이터 없음")
-
-    rows = calculate_standings(filtered)
     return {
-        "season":    season,
-        "round_to":  round_to,
-        "max_round": max_round,
-        "label":     label,
-        "standings": rows,
+        "season":          season,
+        "round_to":        round_to,
+        "max_round":       max_round,
+        "label":           f"{season} 시즌 전체",
+        "has_final_round": has_final_round,
+        "standings":       rows,
     }

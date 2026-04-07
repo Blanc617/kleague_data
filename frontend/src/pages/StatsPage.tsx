@@ -273,6 +273,7 @@ export default function StatsPage() {
                           </svg>
                         </span>
                       )}
+                      <TeamLogo team={name} size={18} />
                       {name}
                     </button>
                   )

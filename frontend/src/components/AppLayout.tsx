@@ -22,18 +22,6 @@ const NAV_ITEMS = [
     ),
   },
   {
-    path: '/briefing',
-    label: '브리핑',
-    icon: (
-      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-        <path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z" />
-        <polyline points="14 2 14 8 20 8" />
-        <line x1="16" y1="13" x2="8" y2="13" />
-        <line x1="16" y1="17" x2="8" y2="17" />
-      </svg>
-    ),
-  },
-  {
     path: '/stats',
     label: '시즌 통계',
     icon: (
@@ -183,7 +171,6 @@ export default function AppLayout() {
                 <ul className="space-y-2.5">
                   {[
                     { path: '/chat',      label: 'AI 채팅' },
-                    { path: '/briefing',  label: '경기 브리핑' },
                     { path: '/stats',     label: '시즌 통계' },
                     { path: '/schedule',  label: '경기 일정' },
                     { path: '/standings', label: '순위표' },

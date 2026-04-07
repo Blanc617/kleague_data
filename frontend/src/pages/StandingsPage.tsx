@@ -203,7 +203,7 @@ export default function StandingsPage() {
         <div className="flex gap-4 items-start">
 
         {/* 왼쪽: 팀 순위표 */}
-        <div className="shrink-0 space-y-4" style={{ width: 560 }}>
+        <div className="shrink-0 space-y-4" style={{ width: 448 }}>
         {!loading && rows.length > 0 && (
           <div className="bg-white/80 border border-slate-200 rounded-xl overflow-hidden">
             {hasFinalRound && (

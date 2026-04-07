@@ -68,7 +68,8 @@
       "WebFetch(domain:tommhe14.github.io)",
       "Bash(find C:/dev/soccer_commentary -type f \\\\\\(-name *.styled.ts -o -name *.styled.tsx -o -name *styles.ts -o -name *styles.tsx -o -name *theme* \\\\\\))",
       "mcp__Claude_Preview__preview_start",
-      "Bash(find C:devsoccer_commentary/frontend/src -type f \\\\\\(-name *.tsx -o -name *.ts \\\\\\))"
+      "Bash(find C:devsoccer_commentary/frontend/src -type f \\\\\\(-name *.tsx -o -name *.ts \\\\\\))",
+      "Bash(xargs cat:*)"
     ]
   }
 }

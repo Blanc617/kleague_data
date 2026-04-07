@@ -214,7 +214,7 @@ export default function StandingsPage() {
             )}
             <div className="flex items-center px-4 py-2.5 border-b border-slate-200 bg-slate-50">
               <span className="text-[10px] font-bold text-slate-500 tabular-nums" style={{ width: 28 }}>순위</span>
-              <span className="text-[10px] font-bold text-slate-500 flex-1 pl-2">팀</span>
+              <span className="text-[10px] font-bold text-slate-500 pl-2" style={{ width: 160 }}>팀</span>
               <div className="flex items-center gap-0" style={{ width: 240 }}>
                 {(['경기', '승', '무', '패', '득', '실', '득실', '승점'] as const).map(h => (
                   <span key={h} className={`text-[10px] font-bold text-center tabular-nums ${h === '승점' ? 'text-emerald-400/70' : 'text-slate-500'}`} style={{ width: 30 }}>
@@ -256,7 +256,7 @@ export default function StandingsPage() {
                     )}
                   </div>
 
-                  <div className="flex items-center gap-2 flex-1 min-w-0 pl-2">
+                  <div className="flex items-center gap-2 min-w-0 pl-2" style={{ width: 160 }}>
                     <TeamLogo team={row.team} size={22} className="shrink-0" />
                     <span className={`text-[13px] font-bold truncate ${isChampion ? 'text-amber-700' : isAFC ? 'text-emerald-700' : isRelegation ? 'text-red-500' : 'text-slate-700'}`}>
                       {row.team}

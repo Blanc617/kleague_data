@@ -7,7 +7,7 @@ BM25: 날짜·팀명·라운드처럼 정확한 키워드 매칭에 강함.
 두 리트리버를 앙상블해 두 강점을 모두 활용합니다.
 """
 
-from langchain_classic.retrievers.ensemble import EnsembleRetriever
+from langchain.retrievers.ensemble import EnsembleRetriever
 from langchain_community.retrievers import BM25Retriever
 from rag.vector_store import SupabaseVectorStoreCustom as SupabaseVectorStore
 from langchain_core.documents import Document

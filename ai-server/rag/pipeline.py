@@ -11,7 +11,7 @@ LCEL 기반 전체 RAG 쿼리 파이프라인.
 import os
 from typing import Iterator
 
-from langchain_classic.retrievers.ensemble import EnsembleRetriever
+from langchain.retrievers.ensemble import EnsembleRetriever
 from langchain_core.documents import Document
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate

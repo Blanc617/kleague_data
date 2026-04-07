@@ -9,8 +9,8 @@
 frontend/node_modules/
 frontend/dist/
 
-# 크롤러 데이터 (런타임 불필요)
-ai-server/data/
+# 크롤러 원시 데이터만 제외 (processed는 런타임에 필요)
+ai-server/data/raw/
 ai-server/logs/
 
 # 환경변수 파일

@@ -219,15 +219,10 @@ function FormHeatmap({ data }: { data: FormData }) {
   const totalGa = games.reduce((s, g) => s + g.ga, 0)
   const gd = totalGf - totalGa
 
-  const RESULT_COLOR: Record<string, { bg: string; text: string }> = {
-    W: { bg: '#10b981', text: 'white' },
-    D: { bg: '#f59e0b', text: 'white' },
-    L: { bg: '#f43f5e', text: 'white' },
-  }
-
-  function cellBg(g: FormGame) {
-    const c = RESULT_COLOR[g.result]
-    return g.is_home ? c.bg : c.bg + 'aa'
+  const RESULT_STYLE: Record<string, { label: string; badge: string; score: string; row: string }> = {
+    W: { label: '승', badge: 'bg-emerald-50 text-emerald-700 border border-emerald-200', score: 'text-emerald-700', row: 'hover:bg-emerald-50/40' },
+    D: { label: '무', badge: 'bg-slate-100 text-slate-500 border border-slate-200',     score: 'text-slate-600',   row: 'hover:bg-slate-50/60' },
+    L: { label: '패', badge: 'bg-red-50 text-red-600 border border-red-200',            score: 'text-red-600',     row: 'hover:bg-red-50/30' },
   }
 
   const homeGames = games.filter(g => g.is_home)
@@ -332,69 +327,76 @@ function FormHeatmap({ data }: { data: FormData }) {
         </div>
       </div>
 
-      {/* 경기 결과 그리드 */}
+      {/* 경기 결과 목록 */}
       <div className="bg-white rounded-xl shadow-sm overflow-hidden">
-        <div className="flex items-center justify-between px-6 py-5">
+        <div className="flex items-center justify-between px-6 py-4 border-b border-slate-100">
           <div className="flex items-center gap-2">
             <span className="text-[14px] font-semibold text-slate-800">경기 결과</span>
-            <span className="text-[11px] text-slate-400">{games.length}경기</span>
+            <span className="text-[11px] text-slate-400">{games.length}경기 · 최신순</span>
           </div>
-          <span className="text-[10px] text-slate-400">최신순</span>
         </div>
-        <div className="border-t border-slate-100 px-6 pb-5">
-          <div className="flex flex-wrap gap-1.5 pt-4">
-            {games.map((g, i) => (
-              <div
-                key={i}
-                className="relative cursor-default"
-                onMouseEnter={() => setTooltip(i)}
-                onMouseLeave={() => setTooltip(null)}
-              >
-                <div
-                  className="w-11 h-11 rounded-lg flex flex-col items-center justify-center select-none"
-                  style={{ backgroundColor: cellBg(g) }}
-                >
-                  <span className="text-[11px] font-bold leading-none" style={{ color: RESULT_COLOR[g.result].text }}>
-                    {g.gf}-{g.ga}
-                  </span>
-                  <span className="text-[8px] mt-0.5" style={{ color: RESULT_COLOR[g.result].text, opacity: 0.7 }}>
-                    {g.is_home ? 'H' : 'A'}
+
+        {/* 헤더 */}
+        <div className="flex items-center px-5 py-2 bg-slate-50 border-b border-slate-100">
+          <span className="text-[10px] font-bold text-slate-400 w-8">결과</span>
+          <span className="text-[10px] font-bold text-slate-400 flex-1">상대팀</span>
+          <span className="text-[10px] font-bold text-slate-400 w-14 text-center">스코어</span>
+          <span className="text-[10px] font-bold text-slate-400 w-10 text-center">홈/원정</span>
+          <span className="text-[10px] font-bold text-slate-400 w-16 text-right">날짜</span>
+        </div>
+
+        <div className="divide-y divide-slate-50">
+          {games.map((g, i) => {
+            const s = RESULT_STYLE[g.result]
+            return (
+              <div key={i} className={`flex items-center px-5 py-2.5 transition-colors ${s.row}`}>
+                {/* 결과 배지 */}
+                <div className="w-8 shrink-0">
+                  <span className={`inline-flex items-center justify-center w-6 h-6 rounded text-[11px] font-bold ${s.badge}`}>
+                    {s.label}
                   </span>
                 </div>
 
-                {tooltip === i && (
-                  <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 z-20 pointer-events-none">
-                    <div className="bg-slate-900 text-white rounded-xl px-3 py-2 text-xs whitespace-nowrap shadow-xl">
-                      <p className="font-semibold text-white">
-                        {g.opponent}
-                        {g.opponent_rank != null && (
-                          <span className="text-slate-400 font-normal ml-1">{g.opponent_rank}위</span>
-                        )}
-                      </p>
-                      <p className="text-slate-400 text-[10px] mt-0.5">
-                        {g.date}{g.round ? ` · ${g.round}R` : ''} · {g.is_home ? '홈' : '원정'}
-                      </p>
-                    </div>
-                    <div className="w-2 h-2 bg-slate-900 rotate-45 mx-auto -mt-1" />
-                  </div>
-                )}
-              </div>
-            ))}
-          </div>
+                {/* 상대팀 */}
+                <div className="flex-1 min-w-0 flex items-center gap-1.5">
+                  <span className="text-[13px] font-semibold text-slate-800 truncate">{g.opponent}</span>
+                  {g.opponent_rank != null && (
+                    <span className="text-[10px] text-slate-400 shrink-0">{g.opponent_rank}위</span>
+                  )}
+                  {g.round && (
+                    <span className="text-[10px] text-slate-300 shrink-0">R{g.round}</span>
+                  )}
+                </div>
 
-          {/* 범례 */}
-          <div className="flex items-center gap-5 text-[11px] text-slate-400 mt-3 pt-3 border-t border-slate-100">
-            <span className="flex items-center gap-1.5">
-              <span className="w-3 h-3 rounded-sm inline-block bg-emerald-500" />승
-            </span>
-            <span className="flex items-center gap-1.5">
-              <span className="w-3 h-3 rounded-sm inline-block bg-amber-400" />무
-            </span>
-            <span className="flex items-center gap-1.5">
-              <span className="w-3 h-3 rounded-sm inline-block bg-rose-500" />패
-            </span>
-            <span className="text-[10px] text-slate-300 ml-auto">진한=홈 / 연한=원정</span>
-          </div>
+                {/* 스코어 */}
+                <div className="w-14 text-center shrink-0">
+                  <span className={`text-[14px] font-black tabular-nums ${s.score}`}>
+                    {g.gf}
+                  </span>
+                  <span className="text-[12px] text-slate-300 mx-0.5">-</span>
+                  <span className="text-[14px] font-black tabular-nums text-slate-500">
+                    {g.ga}
+                  </span>
+                </div>
+
+                {/* 홈/원정 */}
+                <div className="w-10 text-center shrink-0">
+                  <span className={`text-[10px] font-bold px-1.5 py-0.5 rounded ${
+                    g.is_home
+                      ? 'bg-slate-100 text-slate-600'
+                      : 'bg-white border border-slate-200 text-slate-400'
+                  }`}>
+                    {g.is_home ? '홈' : '원정'}
+                  </span>
+                </div>
+
+                {/* 날짜 */}
+                <div className="w-16 text-right shrink-0">
+                  <span className="text-[10px] text-slate-400 tabular-nums">{g.date}</span>
+                </div>
+              </div>
+            )
+          })}
         </div>
       </div>
     </div>

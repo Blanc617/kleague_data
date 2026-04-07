@@ -212,7 +212,7 @@ export default function AnalyticsPage() {
    팀 폼 히트맵
 ─────────────────────────────────────────── */
 function FormHeatmap({ data }: { data: FormData }) {
-  const [tooltip, setTooltip] = useState<number | null>(null)
+
   const { games, summary, team, season } = data
   const winRate = Math.round((summary.W / data.total) * 100)
   const totalGf = games.reduce((s, g) => s + g.gf, 0)
